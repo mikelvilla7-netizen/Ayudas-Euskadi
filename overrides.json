@@ -1,0 +1,379 @@
+{
+ "obras particulares": {
+  "dificultad": "media",
+  "perfil": "Particulares",
+  "resumen": "Marco general de las ayudas para rehabilitar viviendas y edificios: subvención a fondo perdido, préstamos cualificados y, en algunos casos, subsidio de intereses. Hay tres líneas: obras particulares, comunitarias e integrales.",
+  "resumen_eu": "Etxebizitzak eta eraikinak birgaitzeko laguntzen esparru orokorra: funts galdutako diru-laguntza, mailegu kualifikatuak eta, kasu batzuetan, interesen subsidiazioa. Hiru lerro daude: obra partikularrak, erkidegokoak eta integralak.",
+  "importe": "Línea 1: hasta 10.000 € de subvención; préstamo hasta el 100%",
+  "importe_eu": "1. lerroa: gehienez 10.000 €-ko diru-laguntza; mailegua %100era arte",
+  "claves": [
+   "Edificio con más de 20 años (con excepciones) e inspección técnica (ITE) hecha antes de solicitar.",
+   "Obras particulares: ingresos ponderados máximos de 25.000 € para subvención y 39.000 € para préstamos.",
+   "Solicitar antes de empezar las obras. Resolución en 4 meses; el silencio administrativo es negativo.",
+   "Plazos de obra: 12 meses (línea 1), 18 (línea 2) y 30 (línea 3)."
+  ],
+  "claves_eu": [
+   "20 urte baino gehiagoko eraikina (salbuespenekin) eta eskatu aurretik eraikinaren ikuskapen teknikoa (EIT) eginda.",
+   "Obra partikularrak: diru-sarrera haztatuen gehieneko muga 25.000 € diru-laguntzarako eta 39.000 € maileguetarako.",
+   "Eskatu obrak hasi aurretik. Ebazpena 4 hilabeteko epean; isiltasun administratiboa ezezkoa da.",
+   "Obren epeak: 12 hilabete (1. lerroa), 18 (2.) eta 30 (3.)."
+  ],
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+ },
+ "obras comunitarias": {
+  "dificultad": "media",
+  "perfil": "Particulares",
+  "resumen": "Marco general de las ayudas para rehabilitar viviendas y edificios: subvención a fondo perdido, préstamos cualificados y, en algunos casos, subsidio de intereses. Hay tres líneas: obras particulares, comunitarias e integrales.",
+  "resumen_eu": "Etxebizitzak eta eraikinak birgaitzeko laguntzen esparru orokorra: funts galdutako diru-laguntza, mailegu kualifikatuak eta, kasu batzuetan, interesen subsidiazioa. Hiru lerro daude: obra partikularrak, erkidegokoak eta integralak.",
+  "importe": "Línea 1: hasta 10.000 € de subvención; préstamo hasta el 100%",
+  "importe_eu": "1. lerroa: gehienez 10.000 €-ko diru-laguntza; mailegua %100era arte",
+  "claves": [
+   "Edificio con más de 20 años (con excepciones) e inspección técnica (ITE) hecha antes de solicitar.",
+   "Obras particulares: ingresos ponderados máximos de 25.000 € para subvención y 39.000 € para préstamos.",
+   "Solicitar antes de empezar las obras. Resolución en 4 meses; el silencio administrativo es negativo.",
+   "Plazos de obra: 12 meses (línea 1), 18 (línea 2) y 30 (línea 3)."
+  ],
+  "claves_eu": [
+   "20 urte baino gehiagoko eraikina (salbuespenekin) eta eskatu aurretik eraikinaren ikuskapen teknikoa (EIT) eginda.",
+   "Obra partikularrak: diru-sarrera haztatuen gehieneko muga 25.000 € diru-laguntzarako eta 39.000 € maileguetarako.",
+   "Eskatu obrak hasi aurretik. Ebazpena 4 hilabeteko epean; isiltasun administratiboa ezezkoa da.",
+   "Obren epeak: 12 hilabete (1. lerroa), 18 (2.) eta 30 (3.)."
+  ],
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+ },
+ "integral y eficiente": {
+  "dificultad": "compleja",
+  "perfil": "Entidades",
+  "resumen": "Rehabilitación completa de edificios de viviendas en un solo proyecto: eficiencia energética, accesibilidad y seguridad contra incendios a la vez. Para comunidades de propietarios y entidades públicas.",
+  "resumen_eu": "Etxebizitza-eraikinen birgaitze osoa proiektu bakar batean: energia-eraginkortasuna, irisgarritasuna eta suteen aurkako segurtasuna aldi berean. Jabeen erkidegoentzat eta erakunde publikoentzat.",
+  "importe": "Hasta 30.000 €/vivienda (35.000 € en casos especiales)",
+  "importe_eu": "Gehienez 30.000 €/etxebizitzako (35.000 € kasu berezietan)",
+  "claves": [
+   "Edificio plurifamiliar de al menos 4 viviendas y anterior a 1980.",
+   "Proyecto único que incluya eficiencia energética, accesibilidad y seguridad contra incendios.",
+   "Se solicita antes de pedir la licencia de obras; 30 meses para ejecutarlas.",
+   "Incompatible con la línea 2 y con el programa PREE del EVE."
+  ],
+  "claves_eu": [
+   "Gutxienez 4 etxebizitza dituen eraikin plurifamiliarra, 1980 baino lehenagokoa.",
+   "Proiektu bakarrak energia-eraginkortasuna, irisgarritasuna eta suteen aurkako segurtasuna barne hartu behar ditu.",
+   "Obra-lizentzia eskatu aurretik eskatzen da; 30 hilabete obrak egiteko.",
+   "2. lerroarekin eta EVEren PREE programarekin bateraezina da."
+  ],
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+ },
+ "adquisición de vivienda": {
+  "dificultad": "compleja",
+  "perfil": "Empresas",
+  "resumen": "Ayudas para quien adquiera viviendas con el fin de ponerlas en arrendamiento protegido.",
+  "resumen_eu": "Alokairu babestuan jartzeko etxebizitzak erosten dituztenentzako laguntzak.",
+  "importe": "Según convocatoria",
+  "importe_eu": "Deialdiaren arabera",
+  "claves": [
+   "Dirigida a quien promueve o rehabilita, no a particulares que buscan alquilar.",
+   "El crédito presupuestario es limitado: cuando se agota se publica en el BOPV y no se conceden nuevas ayudas.",
+   "Las viviendas deben destinarse a arrendamiento protegido."
+  ],
+  "claves_eu": [
+   "Sustatzaileei zuzendua, ez alokatu nahi duten partikularrei.",
+   "Kreditua mugatua da: agortzen denean EHAAn argitaratzen da eta ez da laguntza berririk ematen.",
+   "Etxebizitzak alokairu babestura bideratu behar dira."
+  ],
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos"
+ },
+ "alojamientos dotacionales": {
+  "dificultad": "compleja",
+  "perfil": "Entidades",
+  "resumen": "Ayudas para promover o rehabilitar alojamientos dotacionales en alquiler, pensados sobre todo para personas jóvenes y mayores.",
+  "resumen_eu": "Alokairuko ostatu dotazionalak sustatzeko edo birgaitzeko laguntzak, batez ere gazteentzat eta adinekoentzat pentsatuak.",
+  "importe": "Según proyecto y convocatoria",
+  "importe_eu": "Proiektuaren eta deialdiaren arabera",
+  "claves": [
+   "Dirigida a administraciones y entidades promotoras.",
+   "El pago se hace por fases, según el tipo de alojamiento (por ejemplo, hasta un 20% tras la adjudicación en el tipo B).",
+   "Crédito limitado: se publica en el BOPV cuando se agota."
+  ],
+  "claves_eu": [
+   "Administrazioei eta sustatzaile-erakundeei zuzendua.",
+   "Ordainketa faseka egiten da, ostatu motaren arabera (adibidez, B motan %20 esleipenaren ondoren).",
+   "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
+  ],
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos"
+ },
+ "medio rural": {
+  "dificultad": "compleja",
+  "perfil": "Entidades",
+  "resumen": "Proyectos piloto para rehabilitar viviendas de titularidad pública en el medio rural y ponerlas en alquiler.",
+  "resumen_eu": "Landa-eremuan titulartasun publikoko etxebizitzak birgaitzeko eta alokairuan jartzeko proiektu pilotuak.",
+  "importe": "Según convocatoria",
+  "importe_eu": "Deialdiaren arabera",
+  "claves": [
+   "Dirigida a entidades públicas propietarias de la vivienda.",
+   "Crédito limitado: se publica en el BOPV cuando se agota."
+  ],
+  "claves_eu": [
+   "Etxebizitzaren jabe diren erakunde publikoei zuzendua.",
+   "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
+  ],
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos"
+ },
+ "incorporación de personas socias": {
+  "dificultad": "media",
+  "perfil": "Empresas",
+  "resumen": "Subvención a cooperativas y sociedades laborales que incorporan nuevas personas socias trabajadoras o de trabajo con carácter indefinido.",
+  "resumen_eu": "Kooperatibek eta lan-sozietateek behin betiko izaerarekin bazkide langile edo lan-bazkide berriak txertatzen dituztenentzako diru-laguntza.",
+  "importe": "Dotación conjunta 2026 de las tres líneas «Emprender»: 4,025 M€",
+  "importe_eu": "2026ko «Ekin» hiru lerroen guztizko zuzkidura: 4,025 M€",
+  "claves": [
+   "La incorporación debe ser como persona socia trabajadora o de trabajo de duración indefinida.",
+   "Colectivos incluidos: personas desempleadas, personas trabajadoras no socias por cuenta ajena y otros que fije la orden.",
+   "Convocatorias anteriores exigían a la persona desempleada 3 meses de antigüedad en el paro y que la sociedad tuviera menos de 5 años: comprueba las condiciones de 2026.",
+   "Plazo de solicitud hasta el 05/11/2026."
+  ],
+  "claves_eu": [
+   "Txertaketak behin betikoa izan behar du, bazkide langile edo lan-bazkide gisa.",
+   "Kolektiboak: langabeak, kontratatutako langile ez-bazkideak eta aginduak ezartzen dituen beste batzuk.",
+   "Aurreko deialdietan langabeak 3 hilabeteko antzinatasuna behar zuen eta sozietateak 5 urte baino gutxiago izan behar zituen: egiaztatu 2026ko baldintzak.",
+   "Eskaera-epea 2026-11-05era arte."
+  ],
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+ },
+ "constitución y promoción": {
+  "dificultad": "media",
+  "perfil": "Empresas",
+  "resumen": "Subvención para crear nuevas empresas de economía social (cooperativas y sociedades laborales).",
+  "resumen_eu": "Ekonomia sozialeko enpresa berriak (kooperatibak eta lan-sozietateak) sortzeko diru-laguntza.",
+  "importe": "En 2024 el tope fue de 30.000 € por entidad",
+  "importe_eu": "2024an gehieneko muga 30.000 € izan zen erakundeko",
+  "claves": [
+   "Para constituir cooperativas o sociedades laborales.",
+   "En 2024 la ayuda no podía superar el capital suscrito por las personas socias trabajadoras ni 30.000 €: revisa el tope de 2026.",
+   "Hay incrementos para determinados colectivos, por ejemplo cuando la mayoría de las personas socias trabajadoras son mujeres.",
+   "Plazo de solicitud hasta el 05/11/2026."
+  ],
+  "claves_eu": [
+   "Kooperatibak edo lan-sozietateak eratzeko.",
+   "2024an laguntzak ezin zuen gainditu bazkide langileek harpidetutako kapitala, ezta 30.000 € ere: egiaztatu 2026ko muga.",
+   "Kolektibo batzuentzat gehikuntzak daude, adibidez bazkide langileen gehiengoa emakumeak direnean.",
+   "Eskaera-epea 2026-11-05era arte."
+  ],
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+ },
+ "ecosistema": {
+  "dificultad": "media",
+  "perfil": "Entidades",
+  "resumen": "Ayuda a entidades no lucrativas que promueven la creación de cooperativas y sociedades laborales (ecosistema de emprendimiento colectivo).",
+  "resumen_eu": "Kooperatibak eta lan-sozietateak sortzea sustatzen duten irabazi-asmorik gabeko erakundeentzako laguntza (ekintzailetza kolektiboaren ekosistema).",
+  "importe": "Parte de los 4,025 M€ de las líneas «Emprender»",
+  "importe_eu": "«Ekin» lerroen 4,025 M€-ren zati bat",
+  "claves": [
+   "Dirigida a personas jurídicas cuyo objeto sea promover la constitución de cooperativas o sociedades laborales.",
+   "Deben ser no lucrativas o de propiedad mayoritaria de entidades no lucrativas.",
+   "Plazo de solicitud hasta el 05/11/2026."
+  ],
+  "claves_eu": [
+   "Kooperatibak edo lan-sozietateak eratzea sustatzea xede duten pertsona juridikoei zuzendua.",
+   "Irabazi-asmorik gabekoak izan behar dira, edo irabazi-asmorik gabeko erakundeen jabetza nagusikoak.",
+   "Eskaera-epea 2026-11-05era arte."
+  ],
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+ },
+ "emprendimiento colectivo": {
+  "dificultad": "media",
+  "perfil": "Entidades",
+  "resumen": "Ayuda a entidades no lucrativas que promueven la creación de cooperativas y sociedades laborales (ecosistema de emprendimiento colectivo).",
+  "resumen_eu": "Kooperatibak eta lan-sozietateak sortzea sustatzen duten irabazi-asmorik gabeko erakundeentzako laguntza (ekintzailetza kolektiboaren ekosistema).",
+  "importe": "Parte de los 4,025 M€ de las líneas «Emprender»",
+  "importe_eu": "«Ekin» lerroen 4,025 M€-ren zati bat",
+  "claves": [
+   "Dirigida a personas jurídicas cuyo objeto sea promover la constitución de cooperativas o sociedades laborales.",
+   "Deben ser no lucrativas o de propiedad mayoritaria de entidades no lucrativas.",
+   "Plazo de solicitud hasta el 05/11/2026."
+  ],
+  "claves_eu": [
+   "Kooperatibak edo lan-sozietateak eratzea sustatzea xede duten pertsona juridikoei zuzendua.",
+   "Irabazi-asmorik gabekoak izan behar dira, edo irabazi-asmorik gabeko erakundeen jabetza nagusikoak.",
+   "Eskaera-epea 2026-11-05era arte."
+  ],
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+ },
+ "responsabilidad social empresarial": {
+  "dificultad": "media",
+  "perfil": "Empresas",
+  "resumen": "Ayudas para implantar la responsabilidad social empresarial y fomentar la participación de las personas trabajadoras en la empresa.",
+  "resumen_eu": "Enpresen gizarte-erantzukizuna ezartzeko eta langileen parte-hartzea sustatzeko laguntzak.",
+  "importe": "Dotación 2026: 178.795 € en total",
+  "importe_eu": "2026ko zuzkidura: 178.795 € guztira",
+  "claves": [
+   "Pueden pedirlas, según la modalidad, cooperativas, sociedades laborales, universidades, asociaciones empresariales, entidades especializadas y pymes con centros de trabajo en Euskadi.",
+   "Los proyectos deben empezar en 2026 y terminar antes del 15 de diciembre de 2026.",
+   "Plazo de solicitud hasta el 13/11/2026."
+  ],
+  "claves_eu": [
+   "Modalitatearen arabera, eska ditzakete kooperatibek, lan-sozietateek, unibertsitateek, enpresa-elkarteek, erakunde espezializatuek eta Euskadin lantokiak dituzten ETEek.",
+   "Proiektuek 2026an hasi eta 2026ko abenduaren 15a baino lehen amaitu behar dute.",
+   "Eskaera-epea 2026-11-13ra arte."
+  ],
+  "fuente": "Hoy Diario (29/09/2026) sobre la orden de convocatoria; Gobierno Vasco"
+ },
+ "ayudas mensuales a familias": {
+  "dificultad": "facil",
+  "perfil": "Particulares",
+  "resumen": "Pago mensual del Gobierno Vasco por cada hija o hijo, desde el nacimiento o la llegada a la familia. Lo regula el Decreto 87/2026.",
+  "resumen_eu": "Eusko Jaurlaritzaren hileko ordainketa seme-alaba bakoitzeko, jaiotzen denetik edo familiara iristen denetik. 87/2026 Dekretuak arautzen du.",
+  "importe": "200 €/mes (0–4 años) · 100 €/mes (4–7 años en familias numerosas y monoparentales)",
+  "importe_eu": "200 €/hilean (0-4 urte) · 100 €/hilean (4-7 urte, familia ugarietan eta guraso bakarreko familietan)",
+  "claves": [
+   "Se cobra por cada hija o hijo que cumpla los requisitos de edad y orden: una misma familia puede recibir varias ayudas.",
+   "Cubre nacimiento, adopción, guarda con fines de adopción, tutela y acogida.",
+   "Tiene efectos retroactivos desde el 1 de enero de 2026 cuando corresponde; el plazo de solicitud se abrió el 2 de julio de 2026.",
+   "Si ya cobras la ayuda de 0 a 3 años, consulta cuándo pedir la ampliación: pedirla antes de tiempo puede suponer una denegación por fuera de plazo."
+  ],
+  "claves_eu": [
+   "Adin- eta ordena-baldintzak betetzen dituen seme-alaba bakoitzeko jasotzen da: familia batek hainbat laguntza jaso ditzake.",
+   "Jaiotza, adopzioa, adopziorako zaintza-eskuordetzea, tutoretza eta harrera hartzen ditu.",
+   "Atzeraeragina du 2026ko urtarrilaren 1etik, dagokionean; eskaera-epea 2026ko uztailaren 2an ireki zen.",
+   "Dagoeneko 0-3 urteko laguntza jasotzen baduzu, kontsultatu noiz eskatu behar den luzapena: goizegi eskatzeak epez kanpo ukatzea ekar dezake."
+  ],
+  "fuente": "Decreto 87/2026 y euskadi.eus (Bienestar, Juventud y Reto Demográfico)"
+ },
+ "estudiantes de euskera": {
+  "dificultad": "facil",
+  "perfil": "Particulares",
+  "resumen": "Subvención para quien ha superado o acreditado un nivel de euskera en un euskaltegi o centro de autoaprendizaje homologado, a cambio de lo pagado en matrícula.",
+  "resumen_eu": "Euskaltegi edo autoikaskuntza zentro homologatu batean euskara-maila bat gainditu edo egiaztatu dutenentzako diru-laguntza, matrikulan ordaindutakoaren ordainetan.",
+  "importe": "Hasta 600 € por el nivel A1; cada nivel tiene su tope",
+  "importe_eu": "A1 mailarengatik 600 €-ra arte; mailek beren muga dute",
+  "claves": [
+   "Estar matriculado en un euskaltegi o centro homologado inscrito en HABE (entre el 01/06/2025 y el 30/09/2026) y haber pagado tú la matrícula.",
+   "Haber superado la evaluación o acreditado un nivel de HABE o equivalente durante el curso 2025-2026.",
+   "La ayuda no supera lo pagado en matrícula en los cursos 2024-2025 y 2025-2026, con un tope por nivel (A1: 600 €).",
+   "Plazo de solicitud hasta el 03/11/2026."
+  ],
+  "claves_eu": [
+   "HABEn erregistratutako euskaltegi edo zentro homologatu batean matrikulatuta egon (2025-06-01etik 2026-09-30era) eta matrikula zuk ordaindu izana.",
+   "2025-2026 ikastaroan HABEren maila bat edo baliokide bat gainditu edo egiaztatu izana.",
+   "Laguntzak ezin du gainditu 2024-2025 eta 2025-2026 ikastaroetan matrikulan ordaindutakoa, mailaren araberako mugarekin (A1: 600 €).",
+   "Eskaera-epea 2026-11-03ra arte."
+  ],
+  "fuente": "Resolución de HABE de 27/05/2026 (BOPV) y euskadi.eus"
+ },
+ "euskaltegis públicos": {
+  "dificultad": "media",
+  "perfil": "Entidades",
+  "resumen": "Financiación de HABE para los euskaltegis públicos de titularidad municipal por impartir cursos de euskera en el curso 2026-2027.",
+  "resumen_eu": "HABEren finantzaketa udal-titulartasuneko euskaltegi publikoentzat, 2026-2027 ikasturtean euskara-ikastaroak emateagatik.",
+  "importe": "HABE financia el profesorado necesario (2025-2026: 14,1 M€ en total)",
+  "importe_eu": "HABEk beharrezko irakasleria finantzatzen du (2025-2026: 14,1 M€ guztira)",
+  "claves": [
+   "Dirigida a ayuntamientos y entidades municipales con euskaltegis inscritos en el registro de HABE.",
+   "La solicitud se presenta exclusivamente por vía electrónica.",
+   "HABE y EUDEL acordaron el 25/05/2026 un nuevo sistema de financiación: revisa las bases del curso 2026-2027 (resolución de 09/09/2026).",
+   "Plazo de solicitud hasta el 03/11/2026."
+  ],
+  "claves_eu": [
+   "Udalei eta HABEren erregistroan inskribatutako euskaltegiak dituzten udal-erakundeei zuzendua.",
+   "Eskaerak bide elektronikoz soilik aurkezten dira.",
+   "HABEk eta EUDELek finantzaketa-sistema berria adostu zuten 2026ko maiatzaren 25ean: begiratu 2026-2027 ikasturteko oinarriak (2026ko irailaren 9ko ebazpena).",
+   "Eskaera-epea 2026-11-03ra arte."
+  ],
+  "fuente": "Resolución de HABE de 09/09/2026 (BOPV) y euskadi.eus"
+ },
+ "asistencia técnica en la economía social": {
+  "dificultad": "media",
+  "perfil": "Empresas",
+  "resumen": "Ayuda a cooperativas y sociedades laborales para contratar asistencia técnica que mejore su gestión.",
+  "resumen_eu": "Kooperatibei eta lan-sozietateei kudeaketa hobetzeko laguntza teknikoa kontratatzeko laguntza.",
+  "importe": "Dotación 2026: 440.000 € en total",
+  "importe_eu": "2026ko zuzkidura: 440.000 € guztira",
+  "claves": [
+   "Para cooperativas y sociedades laborales.",
+   "Financia asistencia técnica orientada a mejorar la gestión de la empresa.",
+   "Plazo de solicitud hasta el 05/11/2026."
+  ],
+  "claves_eu": [
+   "Kooperatibei eta lan-sozietateei zuzendua.",
+   "Enpresaren kudeaketa hobetzera bideratutako laguntza teknikoa finantzatzen du.",
+   "Eskaera-epea 2026-11-05era arte."
+  ],
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+ },
+ "hezibi-empresas 2026": {
+  "dificultad": "media",
+  "perfil": "Empresas",
+  "resumen": "Ayuda a empresas que contratan a jóvenes con un contrato de formación en alternancia (FP dual).",
+  "resumen_eu": "Prestakuntza txandakatuko kontratuarekin gazteak kontratatzen dituzten enpresentzako laguntza (LH duala).",
+  "importe": "En 2025: 2.000 € por contrato",
+  "importe_eu": "2025ean: 2.000 € kontratuko",
+  "claves": [
+   "Contrato de formación en alternancia dentro de un modelo de formación dual de 1 año a jornada completa (condiciones de 2025).",
+   "El programa se dirige a estudiantes de FP y a jóvenes desempleados.",
+   "La convocatoria 2026 se aprobó en octubre de 2026 (BOPV): confirma importe y condiciones actuales."
+  ],
+  "claves_eu": [
+   "Prestakuntza txandakatuko kontratua, urtebeteko eta lanaldi osoko prestakuntza dualeko ereduan (2025eko baldintzak).",
+   "Programa LHko ikasleei eta langabezian dauden gazteei zuzenduta dago.",
+   "2026ko deialdia 2026ko urrian onartu zen (EHAA): egiaztatu uneko zenbatekoa eta baldintzak."
+  ],
+  "fuente": "Lanbide, ficha HEZIBI-Empresas 2025 y BOPV octubre 2026"
+ },
+ "empleo de personas con discapacidad en el mercado ordinario": {
+  "dificultad": "media",
+  "perfil": "Empresas",
+  "resumen": "Ayudas a empresas que contratan de forma indefinida a personas con discapacidad en el mercado ordinario, además de ayudas para adaptar el puesto de trabajo.",
+  "resumen_eu": "Merkatu arruntean behin betiko kontratatzen dituzten enpresentzako laguntzak, baita lanpostua egokitzeko laguntzak ere.",
+  "importe": "Según colectivo y jornada (+10% si es mujer)",
+  "importe_eu": "Kolektiboaren eta lanaldiaren arabera (+%10 emakumea bada)",
+  "claves": [
+   "Contratación indefinida o incorporación como persona socia trabajadora.",
+   "Convocatorias anteriores exigían una jornada de al menos el 50% (35% para personas con especiales dificultades de inserción).",
+   "La cuantía se incrementa un 10% si la persona contratada es mujer.",
+   "Se suman a bonificaciones de la Seguridad Social y beneficios fiscales; regulado por el Decreto 152/2023."
+  ],
+  "claves_eu": [
+   "Behin betiko kontratazioa edo bazkide langile gisa txertatzea.",
+   "Aurreko deialdietan gutxienez lanaldiaren %50 eskatzen zen (%35 txertatzeko zailtasun bereziak dituzten pertsonentzat).",
+   "Zenbatekoa %10 handitzen da kontratatutako pertsona emakumea bada.",
+   "Gizarte Segurantzako hobariei eta zerga-onurei gehitzen zaizkie; 152/2023 Dekretuak arautzen du."
+  ],
+  "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)"
+ },
+ "actuaciones protegidas": {
+  "dificultad": "compleja",
+  "perfil": "Empresas",
+  "resumen": "Trámite para actuaciones que ya se acogieron a las ayudas de fomento al alquiler (promoción o adquisición para arrendamiento protegido). No es una convocatoria nueva: consulta en la ficha oficial qué gestión corresponde.",
+  "resumen_eu": "Alokairua sustatzeko laguntzetara (sustapena edo erosketa alokairu babeserako) dagoeneko atxikitako jardueretarako izapidea. Ez da deialdi berria: kontsultatu fitxa ofizialean zer kudeaketa dagokion.",
+  "importe": "No es una convocatoria nueva",
+  "importe_eu": "Ez da deialdi berria",
+  "claves": [
+   "Dirigido a quienes ya recibieron ayudas de fomento al alquiler.",
+   "Las ayudas nuevas de promoción o adquisición tienen su propia convocatoria."
+  ],
+  "claves_eu": [
+   "Alokairua sustatzeko laguntzak jada jaso dituztenei zuzendua.",
+   "Sustapen- edo erosketa-laguntza berriek beren deialdia dute."
+  ],
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV)"
+ },
+ "componente específico de accesibilidad": {
+  "dificultad": "compleja",
+  "perfil": "Particulares",
+  "resumen": "Línea especial de accesibilidad: ayuda para personas mayores, con movilidad reducida o con pocos ingresos que viven en edificios donde se hacen obras de accesibilidad, más préstamos cualificados para la rehabilitación integral (Línea 3).",
+  "resumen_eu": "Irisgarritasun-lerro berezia: adinekoentzako, mugikortasun urriko edo diru-sarrera gutxiko pertsonentzako laguntza, irisgarritasun-obrak egiten diren eraikinetan bizi badira, eta birgaitze integralerako (3. lerroa) mailegu kualifikatuak.",
+  "importe": "Hasta el 100% de la parte de accesibilidad no cubierta por otras ayudas; préstamo al 0 %",
+  "importe_eu": "Irisgarritasun-zatiaren %100era arte, beste laguntzek estaltzen ez dutena; mailegua %0an",
+  "claves": [
+   "Personas mayores de 65 años, con movilidad reducida o discapacidad sensorial (y sus unidades convivenciales), o con ingresos ponderados de hasta 12.000 €.",
+   "El porcentaje depende de los ingresos y del número de miembros, con una tabla que llega hasta 25.000 € de ingresos ponderados.",
+   "Hay que pedirla de forma expresa al solicitar las medidas financieras, separando el presupuesto de accesibilidad del resto.",
+   "En obras de la Línea 3 se puede pedir desde la resolución de la ayuda hasta 3 meses después de la aprobación técnica del proyecto."
+  ],
+  "claves_eu": [
+   "65 urtetik gorako pertsonak, mugikortasun urrikoak edo zentzumen-desgaitasuna dutenak (eta haien bizikidetza-unitateak), edo gehienez 12.000 €-ko diru-sarrera haztatuak dituztenak.",
+   "Ehunekoa diru-sarreren eta kideen kopuruaren araberakoa da; taulak 25.000 €-ko diru-sarrera haztatuetaraino iristen dira.",
+   "Berariaz eskatu behar da finantza-neurriak eskatzean, irisgarritasun-aurrekontua gainerakotik bereizita.",
+   "3. lerroko obretan, laguntzaren ebazpenetik proiektua teknikoki onartu eta 3 hilabetera arte eska daiteke."
+  ],
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+ }
+}

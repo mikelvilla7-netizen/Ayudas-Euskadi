@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Laguntzak · Ayudas abiertas en Euskadi</title>
+<!--SEO--><meta name="description" content="127 ayudas y subvenciones abiertas en Euskadi: plazos, importes y requisitos clave en castellano y euskera."><!--/SEO--><!--ANALYTICS--><!--/ANALYTICS-->
+<style>
+:root{--bg:#f6f3ee;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e0d6;--chip:#ebe5d9;--accent:#1f1d1a;--on:#fff;--red:#c62828;--amber:#b26a00;--green:#2e7d32;--brand:#2e7d4f;
+--sky1:#bfe0ee;--sky2:#f6f3ee;--h1:#9fcf9a;--h2:#6fb07a;--h3:#3f8f5f;--sea:#6fb6d6;--sand:#e9d9ae;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141311;--fg:#f0ece4;--muted:#a09a8f;--card:#1e1c19;--line:#34312c;--chip:#2a2723;--accent:#f0ece4;--on:#141311;--red:#ff8a80;--amber:#ffb74d;--green:#81c784;--brand:#81c784;
+--sky1:#1c2c3a;--sky2:#141311;--h1:#2c4a3a;--h2:#23402f;--h3:#1a3224;--sea:#25506a;color-scheme:dark;--sand:#5e5238}}
+:root[data-theme="dark"]{--bg:#141311;--fg:#f0ece4;--muted:#a09a8f;--card:#1e1c19;--line:#34312c;--chip:#2a2723;--accent:#f0ece4;--on:#141311;--red:#ff8a80;--amber:#ffb74d;--green:#81c784;--brand:#81c784;
+--sky1:#1c2c3a;--sky2:#141311;--h1:#2c4a3a;--h2:#23402f;--h3:#1a3224;--sea:#25506a;color-scheme:dark;--sand:#5e5238}
+:root[data-theme="light"]{color-scheme:light}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+button,select,input{font:inherit;color:inherit}
+.wrap{max-width:1200px;margin:0 auto;padding:0 16px 40px}
+/* Hero */
+.hero{position:relative;margin:16px 0 18px;border-radius:20px;overflow:hidden;border:1px solid var(--line);height:210px}
+.hero svg{position:absolute;inset:0;width:100%;height:100%}
+.ht{position:relative;padding:22px 22px 0;max-width:560px}
+.kick{font-size:.75rem;font-weight:700;letter-spacing:.14em;color:var(--brand)}
+.ht h1{font-size:clamp(1.5rem,4vw,2.1rem);margin:2px 0 4px;letter-spacing:-.02em;line-height:1.1}
+.ht p{margin:0;color:var(--muted);font-size:.95rem}
+.hs{position:absolute;left:22px;bottom:14px;display:flex;gap:8px;flex-wrap:wrap}
+.hs span{background:color-mix(in srgb,var(--card) 88%,transparent);backdrop-filter:blur(6px);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:.8rem}
+.hs b{font-size:.95rem}
+/* Layout */
+.layout{display:grid;gap:18px;grid-template-columns:minmax(0,1fr)}
+@media (min-width:1000px){.layout{grid-template-columns:210px minmax(0,1fr) 270px;align-items:start}.side{position:sticky;top:12px}}
+/* Left menu */
+.menu{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px}
+.menu h3{display:none}
+.mi{flex:none;display:flex;align-items:center;justify-content:space-between;gap:10px;border:1px solid transparent;background:var(--chip);border-radius:999px;padding:8px 14px;cursor:pointer;font-size:.88rem;white-space:nowrap}
+.mi small{color:var(--muted);font-size:.75rem}
+.mi[aria-current="true"]{background:var(--accent);color:var(--on);font-weight:600}.mi[aria-current="true"] small{color:inherit;opacity:.7}
+@media (min-width:1000px){.menu{display:block;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:10px}
+.menu h3{display:block;font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:10px 8px 4px}
+.mi{display:flex;width:100%;border-radius:10px;background:none;padding:8px 10px;white-space:normal;text-align:left}
+.mi:hover{background:var(--chip)}.mi[aria-current="true"]{background:var(--accent)}}
+/* Toolbar */
+.tb{position:sticky;top:0;z-index:5;background:var(--bg);padding:8px 0 10px;display:flex;flex-wrap:wrap;gap:8px}
+.search{flex:1 1 240px;display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0 10px;color:var(--muted)}
+.search:focus-within{border-color:var(--accent);color:var(--fg)}
+.search input{flex:1;min-width:0;border:0;outline:0;background:none;padding:11px 0}
+.search button{border:0;background:var(--chip);border-radius:50%;width:22px;height:22px;cursor:pointer;line-height:1;display:none}
+.seg{display:flex;background:var(--chip);border-radius:12px;padding:3px}
+.seg button{border:0;background:none;border-radius:9px;padding:8px 11px;cursor:pointer;font-size:.84rem;display:flex;align-items:center;gap:6px}
+.seg button[aria-pressed="true"]{background:var(--card);font-weight:600;box-shadow:0 1px 3px rgba(0,0,0,.15)}
+.seg i{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.tb select{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0 10px;font-size:.84rem}
+.res{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:.85rem;margin:2px 2px 4px}
+.res button{border:0;background:none;color:var(--brand);font-weight:600;cursor:pointer}
+/* Cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;margin-top:8px}
+.card{position:relative;display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 16px 14px;overflow:hidden}
+.card::before{content:"";position:absolute;left:0;top:0;right:0;height:5px;background:hsl(var(--h) 60% 52%)}
+.top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px;margin-top:4px}
+.ico{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-size:1.3rem;background:hsl(var(--h) 60% 52% / .16)}
+.badge{font-size:.72rem;font-weight:700;padding:4px 9px;border-radius:999px;background:var(--chip)}
+.badge.hot{background:var(--red);color:var(--on)}.badge.warm{background:var(--amber);color:var(--on)}
+.card h2{font-size:1.02rem;line-height:1.3;margin:12px 0 4px}
+.org{color:var(--muted);font-size:.82rem}
+.rs{font-size:.88rem;margin:8px 0 0}
+.meta{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:12px;font-size:.8rem}
+.diff{display:flex;align-items:center;gap:4px}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--line)}.dot.on{background:var(--c)}
+.pill{padding:3px 9px;border:1px solid var(--line);border-radius:999px;color:var(--muted)}
+.imp{font-weight:600}
+.foot{margin-top:auto;padding-top:14px;display:flex;justify-content:space-between;align-items:center;gap:8px}
+.date{font-size:.8rem;color:var(--muted)}
+.btn{background:var(--accent);color:var(--on);text-decoration:none;font-weight:600;font-size:.85rem;padding:8px 14px;border-radius:10px}
+.empty{grid-column:1/-1;color:var(--muted);text-align:center;padding:30px 0}
+/* Right widgets */
+.rside{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+@media (min-width:1000px){.rside{grid-template-columns:1fr}}
+.w{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px}
+.w h3{margin:0 0 10px;font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.wt{display:flex;gap:6px;margin-bottom:10px}
+.wt button{flex:1;border:0;background:var(--chip);border-radius:8px;padding:6px 4px;font-size:.78rem;cursor:pointer}
+.wt button[aria-pressed="true"]{background:var(--accent);color:var(--on);font-weight:600}
+.now{display:flex;align-items:center;gap:12px;margin-bottom:8px}.now b{font-size:2rem;line-height:1}.now span{font-size:2.2rem}
+.dy{display:flex;justify-content:space-between;font-size:.85rem;padding:5px 0;border-top:1px solid var(--line)}
+.dy em{font-style:normal;color:var(--muted)}
+.nt{font-size:.72rem;color:var(--muted);margin-top:8px}
+.ad{border:1px dashed var(--line);border-radius:16px;padding:14px;text-align:center;color:var(--muted);font-size:.85rem;min-height:150px;display:flex;flex-direction:column;justify-content:center;gap:4px}
+.ad small{font-size:.65rem;letter-spacing:.1em;text-transform:uppercase}
+.nx a{display:block;color:inherit;text-decoration:none;padding:7px 0;border-top:1px solid var(--line);font-size:.85rem;line-height:1.3}
+.nx a:first-of-type{border-top:0}.nx em{display:block;font-style:normal;color:var(--red);font-weight:600;font-size:.75rem}
+footer{color:var(--muted);font-size:.78rem;margin-top:24px}
+.topbar{display:flex;justify-content:flex-end;align-items:center;gap:8px;padding-top:12px}
+.tbtn{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:.9rem;line-height:1}
+.ht,.hs,.hc{z-index:2}
+.sl{position:absolute;inset:0;opacity:0;transition:opacity 1s;background:linear-gradient(var(--sky1),var(--sky2))}
+.sl.on{opacity:1}
+.sl img{width:100%;height:100%;object-fit:cover;display:block}
+.hero.photo::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(0,0,0,.65),rgba(0,0,0,.1) 75%)}
+.hero.photo .kick,.hero.photo .ht h1,.hero.photo .ht p{color:#fff}
+.hc{position:absolute;right:14px;bottom:12px;display:flex;align-items:center;gap:10px;font-size:.75rem;background:color-mix(in srgb,var(--card) 88%,transparent);backdrop-filter:blur(6px);border:1px solid var(--line);border-radius:999px;padding:4px 10px;max-width:50%}
+#dots{display:flex;gap:6px}
+#dots button{width:8px;height:8px;border-radius:50%;border:0;padding:0;background:var(--muted);opacity:.45;cursor:pointer}
+#dots button.on{opacity:1;background:var(--brand)}
+@media (max-width:640px){#cap{display:none}}
+details{margin-top:10px;font-size:.85rem}
+summary{cursor:pointer;color:var(--brand);font-weight:600}
+details ul{margin:6px 0 0;padding-left:18px;color:var(--muted)}
+details li{margin:3px 0}
+.src{font-size:.72rem;color:var(--muted);margin-top:6px}
+.more{font-size:.8rem;font-weight:600;color:var(--brand);text-decoration:none}.foot{flex-wrap:wrap}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="topbar"><div class="seg" id="lg"><button data-l="es">ES</button><button data-l="eu">EU</button></div><button class="tbtn" id="thm"></button></div>
+<header class="hero" id="hero"><div id="sls"></div>
+<div class="ht"><div class="kick">LAGUNTZAK · AYUDAS</div><h1 data-t="title"></h1><p data-t="sub"></p></div>
+<div class="hs" id="stats"></div>
+<div class="hc"><span id="cap"></span><span id="dots"></span></div>
+</header>
+
+<div class="layout">
+<nav class="menu side" id="menu"></nav>
+<section>
+<div class="tb">
+<label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search"><button id="cl" aria-label="×">×</button></label>
+<div class="seg" id="seg" role="group"></div>
+<select id="pf"></select>
+<select id="ord"></select>
+</div>
+<div class="res"><span id="count"></span><button id="reset" hidden data-t="reset"></button></div>
+<div class="grid" id="list"></div>
+</section>
+<aside class="rside side">
+<div class="w" id="wx"></div>
+<div class="w nx" id="nx"></div>
+<div class="ad" data-slot="side-1"><small data-t="ad"></small><b data-t="adt"></b><span data-t="adx"></span></div>
+</aside>
+</div>
+<footer id="foot"></footer>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const LS={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+let lang=LS.get('lang');if(lang!=='es'&&lang!=='eu')lang=(navigator.language||'es').toLowerCase().startsWith('eu')?'eu':'es';
+let th=LS.get('theme');if(!['auto','light','dark'].includes(th))th='auto';
+const TX={
+es:{title:'Ayudas abiertas en Euskadi',sub:'Qué puedes pedir ahora, cuánto tiempo queda y lo complicado que es.',open:'abiertas',c14:'cierran en 14 días',easy:'fáciles',ph:'Buscar: alquiler, euskera, emprender…',all:'Todas',d_facil:'Fácil',d_media:'Media',d_compleja:'Compleja',diffT:'Dificultad estimada',pf_all:'Para todos',pf_Particulares:'Particulares',pf_Empresas:'Empresas',pf_Entidades:'Entidades',pf_Todos:'Todos',o_fin:'Cierra antes',o_dif:'Más fáciles',explore:'Explorar',m_all:'Todas las ayudas',m_soon:'Cierran esta semana',m_easy:'Fáciles de pedir',topics:'Temas',one:'ayuda',many:'ayudas',reset:'Limpiar filtros',left:n=>'Quedan '+n+' días',today:'Cierra hoy',nolimit:'Sin fecha límite',openb:'Abierta',until:'Hasta',nocl:'Sin cierre definido',see:'Ver ayuda →',keys:'Requisitos clave',src:'Fuente',more:'Más info',auto:'Traducción automática',none:'No hay ayudas con esos filtros.',loading:'Cargando…',wx:'El tiempo en Euskadi',wxdemo:'Ejemplo (sin conexión con el servicio del tiempo)',wxsrc:'Datos: Open-Meteo.com',wxtoday:'Hoy',nx:'Próximos cierres',nxnone:'Sin cierres en los próximos 60 días.',nxtoday:'Hoy',nxin:n=>'En '+n+' días',ad:'Publicidad',adt:'Espacio patrocinado',adx:'Instaladores, gestorías, asesores…',foot:'Fuente: Open Data Euskadi (CC BY 4.0). La dificultad es una estimación automática. Las fichas con «Requisitos clave» están revisadas a mano; en el resto los datos no incluyen importes ni requisitos: consulta siempre la convocatoria oficial.',upd:'Actualizado',theme:'Cambiar tema (auto / claro / oscuro)'},
+eu:{title:'Euskadiko laguntza irekiak',sub:'Orain eska dezakezuna, zenbat denbora geratzen den eta eskatzea zein zaila den.',open:'irekita',c14:'14 egunean ixten dira',easy:'errazak',ph:'Bilatu: alokairua, euskara, ekin…',all:'Denak',d_facil:'Erraza',d_media:'Ertaina',d_compleja:'Konplexua',diffT:'Zailtasun estimatua',pf_all:'Guztientzat',pf_Particulares:'Partikularrak',pf_Empresas:'Enpresak',pf_Entidades:'Erakundeak',pf_Todos:'Guztiak',o_fin:'Lehenago ixten dira',o_dif:'Errazenak',explore:'Arakatu',m_all:'Laguntza guztiak',m_soon:'Aste honetan ixten dira',m_easy:'Eskatzeko errazak',topics:'Gaiak',one:'laguntza',many:'laguntza',reset:'Garbitu iragazkiak',left:n=>n+' egun geratzen dira',today:'Gaur ixten da',nolimit:'Epemugarik gabe',openb:'Irekita',until:'Epemuga',nocl:'Itxiera zehaztu gabe',see:'Ikusi laguntza →',keys:'Baldintza nagusiak',src:'Iturria',more:'Informazio gehiago',auto:'Itzulpen automatikoa',none:'Ez dago iragazki horiekin bat datorren laguntzarik.',loading:'Kargatzen…',wx:'Eguraldia Euskadin',wxdemo:'Adibidea (eguraldi-zerbitzuarekin konexiorik gabe)',wxsrc:'Datuak: Open-Meteo.com',wxtoday:'Gaur',nx:'Hurrengo itxierak',nxnone:'Ez dago itxierarik hurrengo 60 egunetan.',nxtoday:'Gaur',nxin:n=>n+' egunetan',ad:'Publizitatea',adt:'Babestutako espazioa',adx:'Instalatzaileak, kudeaketa-bulegoak, aholkulariak…',foot:'Iturria: Open Data Euskadi (CC BY 4.0). Zailtasuna kalkulu automatiko bat da. «Baldintza nagusiak» dituzten fitxak eskuz berrikusita daude; gainerakoetan datuek ez dituzte zenbatekoak ez baldintzak jasotzen: kontsultatu beti deialdi ofiziala.',upd:'Eguneratuta',theme:'Aldatu gaia (automatikoa / argia / iluna)'}};
+const t=k=>TX[lang][k];
+const AN={'Vivienda y energía':['Vivienda y energía','Etxebizitza eta energia'],'Familias y educación':['Familias y educación','Familiak eta hezkuntza'],'Agro y pesca':['Agro y pesca','Nekazaritza eta arrantza'],'Empleo y formación':['Empleo y formación','Enplegua eta prestakuntza'],'Empresa y emprendimiento':['Empresa y emprendimiento','Enpresa eta ekintzailetza'],'Medio ambiente y transporte':['Medio ambiente y transporte','Ingurumena eta garraioa'],'Salud y bienestar':['Salud y bienestar','Osasuna eta ongizatea'],'Cultura':['Cultura','Kultura'],'Investigación e innovación':['Investigación e innovación','Ikerketa eta berrikuntza'],'Otras':['Otras','Besteak']};
+const an=a=>(AN[a]||[a,a])[lang==='eu'?1:0];
+const AR={'Vivienda y energía':['🏠',210],'Familias y educación':['🎓',275],'Agro y pesca':['🌾',95],'Empleo y formación':['💼',30],'Empresa y emprendimiento':['🚀',345],'Medio ambiente y transporte':['🌿',140],'Salud y bienestar':['🩺',5],'Cultura':['🎭',300],'Investigación e innovación':['🔬',230],'Otras':['📄',200]};
+const DF={facil:[1,'var(--green)'],media:[2,'var(--amber)'],compleja:[3,'var(--red)']};
+const today=new Date();today.setHours(0,0,0,0);
+const days=e=>e?Math.round((new Date(e+'T00:00:00')-today)/864e5):null;
+const fmt=e=>e.split('-').reverse().join('/');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let items=[],loaded=false,UPD='',m='all',d='todas',term='';
+const isOpen=x=>{const n=days(x.end);return n===null||n>=0};
+function pass(x){const n=days(x.end);
+  if(m==='soon'&&!(n!==null&&n<=7))return false;
+  if(m==='easy'&&x.dificultad!=='facil')return false;
+  if(m.startsWith('a:')&&x.area!==m.slice(2))return false;
+  if(d!=='todas'&&x.dificultad!==d)return false;
+  if($('pf').value!=='Todas'&&x.perfil!==$('pf').value)return false;
+  return(x.title+' '+x.org+' '+(x.resumen||'')+' '+(x.resumen_eu||'')+' '+(x.title_eu||'')).toLowerCase().includes(term)}
+function menu(){const o=items.filter(isOpen),areas=[...new Set(o.map(x=>x.area))].sort();
+  const it=(k,l,c)=>'<button class="mi" data-m="'+esc(k)+'" aria-current="'+(m===k)+'"><span>'+l+'</span><small>'+c+'</small></button>';
+  $('menu').innerHTML='<h3>'+t('explore')+'</h3>'+it('all',t('m_all'),o.length)
+   +it('soon','⏰ '+t('m_soon'),o.filter(x=>{const n=days(x.end);return n!==null&&n<=7}).length)
+   +it('easy','✅ '+t('m_easy'),o.filter(x=>x.dificultad==='facil').length)
+   +'<h3>'+t('topics')+'</h3>'+areas.map(a=>it('a:'+a,(AR[a]||AR.Otras)[0]+' '+an(a),o.filter(x=>x.area===a).length)).join('');
+  $('menu').querySelectorAll('.mi').forEach(b=>b.onclick=()=>{m=b.dataset.m;draw()})}
+function draw(){
+  menu();
+  $('seg').innerHTML=[['todas',t('all')],['facil',t('d_facil')],['media',t('d_media')],['compleja',t('d_compleja')]].map(([k,l])=>'<button data-d="'+k+'" aria-pressed="'+(d===k)+'">'+(DF[k]?'<i style="--c:'+DF[k][1]+'"></i>':'')+l+'</button>').join('');
+  $('seg').title=t('diffT');
+  $('seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{d=b.dataset.d;draw()});
+  $('cl').style.display=term?'block':'none';
+  const open=items.filter(isOpen);
+  $('stats').innerHTML='<span><b>'+open.length+'</b> '+t('open')+'</span><span><b>'+open.filter(x=>{const n=days(x.end);return n!==null&&n<=14}).length+'</b> '+t('c14')+'</span><span><b>'+open.filter(x=>x.dificultad==='facil').length+'</b> '+t('easy')+'</span>';
+  if(!loaded){$('list').innerHTML='<div class="empty">'+t('loading')+'</div>';return}
+  const r=open.filter(pass),rank=x=>DF[x.dificultad]?DF[x.dificultad][0]:2,e=x=>days(x.end)??1e9;
+  r.sort((a,b)=>$('ord').value==='dif'?rank(a)-rank(b)||e(a)-e(b):e(a)-e(b));
+  $('count').textContent=r.length+' '+(r.length===1?t('one'):t('many'));
+  $('reset').hidden=!(m!=='all'||d!=='todas'||term||$('pf').value!=='Todas');
+  const eu=lang==='eu';
+  $('list').innerHTML=r.length?r.map(x=>{
+    const n=days(x.end),[ic,h]=AR[x.area]||AR.Otras,[dn,dc]=DF[x.dificultad]||DF.media,dl=t('d_'+(x.dificultad||'media'));
+    const bd=n===null?[t('nolimit'),'']:n===0?[t('today'),'hot']:n<=7?[t('left')(n),'hot']:n<=30?[t('left')(n),'warm']:n>400?[t('openb'),'']:[t('left')(n),''];
+    const dots=[1,2,3].map(i=>'<i class="dot'+(i<=dn?' on':'')+'"></i>').join('');
+    const rs=eu?(x.resumen_eu||x.resumen):x.resumen,imp=eu?(x.importe_eu||x.importe):x.importe,ck=eu?(x.claves_eu||x.claves):x.claves;
+    return '<article class="card" style="--h:'+h+'"><div class="top"><div class="ico">'+ic+'</div><span class="badge '+bd[1]+'">'+bd[0]+'</span></div><h2>'+esc(eu&&x.title_eu||x.title)+'</h2><div class="org">'+esc(eu&&x.org_eu||x.org)+'</div>'+(eu&&x.eu_auto&&!x.claves?'<div class="src">'+t('auto')+'</div>':'')
+    +(rs?'<p class="rs">'+esc(rs)+'</p>':'')
+    +'<div class="meta"><span class="diff" style="--c:'+dc+'" title="'+t('diffT')+'">'+dots+'<span>'+dl+'</span></span><span class="pill">'+t('pf_'+(x.perfil||'Todos'))+'</span>'+(imp?'<span class="imp">'+esc(imp)+'</span>':'')+'</div>'
+    +(ck&&ck.length?'<details><summary>'+t('keys')+'</summary><ul>'+ck.map(c=>'<li>'+esc(c)+'</li>').join('')+'</ul>'+(x.fuente?'<div class="src">'+t('src')+': '+esc(x.fuente)+'</div>':'')+'</details>':'')
+    +'<div class="foot"><span class="date">'+(x.end?t('until')+(eu?': ':' ')+fmt(x.end):t('nocl'))+'</span>'+(x.slug?'<a class="more" href="'+(eu?'eu/':'')+'ayuda/'+esc(x.slug)+'.html">'+t('more')+'</a>':'')+'<a class="btn" href="'+esc(x.url)+'" target="_blank" rel="noopener">'+t('see')+'</a></div></article>'}).join(''):'<div class="empty">'+t('none')+'</div>';
+}
+function nextClosings(){const n=items.filter(x=>x.end&&isOpen(x)&&days(x.end)<=60).sort((a,b)=>days(a.end)-days(b.end)).slice(0,4);
+  $('nx').innerHTML='<h3>'+t('nx')+'</h3>'+(n.length?n.map(x=>{const k=days(x.end);return '<a href="'+esc(x.url)+'" target="_blank" rel="noopener"><em>'+(k===0?t('nxtoday'):t('nxin')(k))+' · '+fmt(x.end)+'</em>'+esc(lang==='eu'&&x.title_eu||x.title)+'</a>'}).join(''):'<div class="nt">'+t('nxnone')+'</div>')}
+/* Tiempo */
+const CITY=['Bilbao','Donostia','Vitoria-Gasteiz'];
+const DEMO=[[14,3,[[3,18,11,40],[61,16,10,70],[2,19,11,20]]],[15,61,[[61,17,12,60],[3,18,12,40],[1,20,12,10]]],[11,3,[[3,15,7,30],[61,14,8,60],[2,17,7,20]]]].map(([a,c,dd])=>({t:a,c,dd}));
+const WI=c=>c===0?'☀️':c<=2?'🌤️':c===3?'☁️':c<=48?'🌫️':c<=67?'🌧️':c<=77?'❄️':c<=82?'🌦️':'⛈️';
+let wd=null,wi=0,wdemo=false;
+function wx(){const c=wd[wi];
+  $('wx').innerHTML='<h3>'+t('wx')+'</h3><div class="wt">'+CITY.map((n,i)=>'<button data-i="'+i+'" aria-pressed="'+(i===wi)+'">'+n+'</button>').join('')+'</div>'
+  +'<div class="now"><span>'+WI(c.c)+'</span><b>'+Math.round(c.t)+'°</b></div>'
+  +c.dd.map((x,i)=>{const dn=i===0?t('wxtoday'):new Date(Date.now()+i*864e5).toLocaleDateString(lang,{weekday:'short'});return '<div class="dy"><span>'+dn+' '+WI(x[0])+'</span><span>'+Math.round(x[1])+'° / '+Math.round(x[2])+'° <em>· 💧'+(x[3]??0)+'%</em></span></div>'}).join('')
+  +'<div class="nt">'+(wdemo?t('wxdemo'):t('wxsrc'))+'</div>';
+  $('wx').querySelectorAll('.wt button').forEach(b=>b.onclick=()=>{wi=+b.dataset.i;wx()})}
+fetch('https://api.open-meteo.com/v1/forecast?latitude=43.263,43.318,42.847&longitude=-2.935,-1.981,-2.673&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Europe%2FMadrid&forecast_days=3')
+.then(r=>{if(!r.ok)throw 0;return r.json()}).then(j=>{wd=j.map(c=>({t:c.current.temperature_2m,c:c.current.weather_code,dd:c.daily.time.map((_,i)=>[c.daily.weather_code[i],c.daily.temperature_2m_max[i],c.daily.temperature_2m_min[i],c.daily.precipitation_probability_max[i]])}));wx()})
+.catch(()=>{wd=DEMO;wdemo=true;wx()});
+/* Cabecera rotativa: fotos de hero.json si existen; si no, ilustraciones */
+const WV='<defs><pattern id="wv" width="50" height="12" patternUnits="userSpaceOnUse"><path d="M0 6q12.5-8 25 0t25 0" fill="none" style="stroke:var(--sea)" stroke-width="3"/></pattern></defs>';
+const SV=(a,b)=>'<svg viewBox="0 0 1000 210" preserveAspectRatio="xMidYMax slice" aria-hidden="true">'+a+b+'</svg>';
+const SUN=x=>'<circle cx="'+x+'" cy="70" r="28" fill="#f4b942" opacity=".9"/>';
+const SC=[
+{es:'La Concha, Donostia',eu:'Kontxa, Donostia',html:SV(WV+SUN(780),'<rect y="150" width="1000" height="60" style="fill:var(--sea)"/><path d="M0 210V120Q90 70 230 125L330 210Z" style="fill:var(--h2)"/><path d="M830 210V135Q890 85 1000 120V210Z" style="fill:var(--h2)"/><path d="M520 152Q555 122 595 152Z" style="fill:var(--h3)"/><path d="M250 210Q560 140 900 210Z" style="fill:var(--sand)"/><rect y="168" width="1000" height="14" fill="url(#wv)"/>')},
+{es:'San Juan de Gaztelugatxe, Bizkaia',eu:'Gaztelugatxeko Doniene, Bizkaia',html:SV(SUN(210),'<rect y="140" width="1000" height="70" style="fill:var(--sea)"/><rect y="172" width="1000" height="14" fill="url(#wv)"/><path d="M0 210V105Q120 90 240 130L330 210Z" style="fill:var(--h2)"/><path d="M590 165Q620 80 690 100Q740 105 770 165Z" style="fill:var(--h3)"/><rect x="676" y="82" width="22" height="16" style="fill:var(--card)"/><path d="M672 82L687 70L702 82Z" style="fill:var(--red)"/><path d="M300 160Q420 138 470 158T590 152" fill="none" style="stroke:var(--muted)" stroke-width="6" stroke-linecap="round"/><path d="M600 150L640 138L620 124L660 112L645 100" fill="none" style="stroke:var(--card)" stroke-width="3" stroke-linejoin="round"/>')},
+{es:'Bilbao y su ría',eu:'Bilbo eta bere itsasadarra',html:SV(SUN(170),'<path d="M0 210V110Q200 60 420 100T800 90Q920 80 1000 110V210Z" style="fill:var(--h1)"/><path d="M0 210V150Q250 110 500 150T1000 140V210Z" style="fill:var(--h2)"/><path d="M0 185Q300 170 560 182T1000 176V210H0Z" style="fill:var(--sea)"/><g style="fill:var(--muted)" opacity=".85"><path d="M560 184Q580 120 640 110Q700 105 740 150Q760 172 760 184Z"/><path d="M620 184Q650 140 700 135Q730 140 735 184Z" opacity=".6"/></g><path d="M300 184Q400 122 500 184" fill="none" style="stroke:var(--card)" stroke-width="4"/>')}
+];
+let SL=SC,hi=0,timer=null;
+function go(i){hi=i;[...$('sls').children].forEach((e,k)=>e.classList.toggle('on',k===i));[...$('dots').children].forEach((e,k)=>e.classList.toggle('on',k===i));cap()}
+function cap(){const s=SL[hi];if(s)$('cap').textContent=(lang==='eu'?s.eu:s.es)+(s.credit?' · '+s.credit:'')}
+function restart(){clearInterval(timer);if(SL.length>1&&!matchMedia('(prefers-reduced-motion:reduce)').matches)timer=setInterval(()=>go((hi+1)%SL.length),6000)}
+function heroBuild(){$('sls').innerHTML=SL.map((s,i)=>'<div class="sl'+(i?'':' on')+'">'+s.html+'</div>').join('');
+  $('dots').innerHTML=SL.map((s,i)=>'<button aria-label="'+(i+1)+'"></button>').join('');
+  [...$('dots').children].forEach((b,i)=>b.onclick=()=>{go(i);restart()});go(0);restart()}
+$('hero').onmouseenter=()=>clearInterval(timer);$('hero').onmouseleave=restart;
+heroBuild();
+fetch('hero.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(j=>{if(!Array.isArray(j)||!j.length)throw 0;
+  SL=j.map(p=>({es:p.es,eu:p.eu||p.es,credit:p.credit,html:'<img src="'+esc(p.src)+'" alt="'+esc(p.es)+'" loading="lazy">'}));
+  $('hero').classList.add('photo');hi=0;heroBuild()}).catch(()=>{});
+/* Tema, idioma */
+function applyTheme(){const r=document.documentElement;r.removeAttribute('data-theme');if(th!=='auto')r.setAttribute('data-theme',th);$('thm').textContent={auto:'🌓',light:'☀️',dark:'🌙'}[th]}
+$('thm').onclick=()=>{th={auto:'light',light:'dark',dark:'auto'}[th];LS.set('theme',th);applyTheme()};
+function fillSel(){const pf=$('pf').value||'Todas',od=$('ord').value||'fin';
+  $('pf').innerHTML=[['Todas','pf_all'],['Particulares','pf_Particulares'],['Empresas','pf_Empresas'],['Entidades','pf_Entidades']].map(([v,k])=>'<option value="'+v+'">'+t(k)+'</option>').join('');$('pf').value=pf;
+  $('ord').innerHTML=[['fin','o_fin'],['dif','o_dif']].map(([v,k])=>'<option value="'+v+'">'+t(k)+'</option>').join('');$('ord').value=od}
+function statics(){document.documentElement.lang=lang;document.title='Laguntzak · '+t('title');
+  document.querySelectorAll('[data-t]').forEach(e=>e.textContent=t(e.dataset.t));
+  $('q').placeholder=t('ph');$('thm').title=t('theme');
+  $('foot').textContent=t('foot')+(UPD?' '+t('upd')+': '+fmt(UPD)+'.':'');
+  $('lg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.l===lang));
+  fillSel();draw();nextClosings();if(wd)wx();cap()}
+$('lg').querySelectorAll('button').forEach(b=>b.onclick=()=>{lang=b.dataset.l;LS.set('lang',lang);statics()});
+$('q').oninput=e=>{term=e.target.value.toLowerCase();draw()};
+$('cl').onclick=()=>{$('q').value='';term='';draw()};
+$('pf').onchange=$('ord').onchange=draw;
+$('reset').onclick=()=>{m='all';d='todas';term='';$('q').value='';$('pf').value='Todas';draw()};
+applyTheme();statics();
+function init(x){items=x.items;loaded=true;UPD=(x.updated||'').slice(0,10);statics()}
+(window.__DATA__?Promise.resolve(window.__DATA__):fetch('data.json').then(r=>{if(!r.ok)throw 0;return r.json()})).then(init)
+.catch(()=>{loaded=true;$('list').innerHTML='<div class="empty">Falta data.json. Ejecuta scripts/update_data.py.</div>'});
+</script>
+</body>
+</html>
