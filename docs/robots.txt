@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mikelvilla7-netizen.github.io/Ayudas-Euskadi/sitemap.xml
