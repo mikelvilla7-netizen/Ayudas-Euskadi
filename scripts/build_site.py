@@ -30,6 +30,12 @@ if not BASE and os.environ.get("GITHUB_REPOSITORY"):
     BASE = f"https://{owner}.github.io/{repo}"
 GC = os.environ.get("GOATCOUNTER") or CFG.get("goatcounter") or ""
 ANALYTICS = (f'<script data-goatcounter="https://{E(GC)}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>' if GC else "")
+GSC = os.environ.get("GOOGLE_VERIFICATION") or CFG.get("google_verification") or ""
+GSC_META = f'<meta name="google-site-verification" content="{E(GSC)}">' if GSC else ""
+OWNER = CFG.get("owner") or {}
+HOSTING = CFG.get("hosting") or "GitHub Pages (GitHub, Inc.)"
+THEME_JS = "try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t)}catch(e){}"
+MISSING = set()
 TODAY = date.today()
 
 AREAS = {  # nombre en datos -> (icono, castellano, euskera)
@@ -128,7 +134,7 @@ def page(x, lang, items_by_area, slug_by_url):
 <meta name="description" content="{E(desc)}">
 {seo}<meta property="og:type" content="article"><meta property="og:title" content="{E(cut(title, 90))}"><meta property="og:description" content="{E(desc)}">
 <script type="application/ld+json">{ld_s}</script>
-<style>{CSS}</style><script>{theme_js};{lang_js}</script>{ANALYTICS}</head>
+<style>{CSS}</style><script>{theme_js};{lang_js}</script>{ANALYTICS}{GSC_META}</head>
 <body><main>
 <a class="back" href="{home}">{t["back"]}</a>
 <article>
@@ -144,8 +150,137 @@ def page(x, lang, items_by_area, slug_by_url):
 <p class="disc">{t["disc"]}</p>
 </article>
 {f'<section class="box rel"><h2>{t["related"]}</h2>{rel_html}</section>' if rel_html else ''}
-<footer>{alt}{feed}<a href="{home}">{t["home"]}</a></footer>
+<footer>{alt}{feed}<a href="{home}">{t["home"]}</a>{legal_links(lang, rel_path)}</footer>
 </main></body></html>"""
+
+def fld(key, label, required=True):
+    v = str(OWNER.get(key) or "").strip()
+    if v:
+        return E(v)
+    if required:
+        MISSING.add(label)
+        return f'<mark>[COMPLETAR: {E(label)}]</mark>'
+    return ""
+
+def mail():
+    v = str(OWNER.get("email") or "").strip()
+    if v:
+        return f'<a href="mailto:{E(v)}">{E(v)}</a>'
+    MISSING.add("correo electrónico")
+    return '<mark>[COMPLETAR: correo electrónico]</mark>'
+
+def legal_links(lang, prefix):
+    L = {"es": ("Sobre este proyecto", "Aviso legal", "Privacidad", "Cookies"),
+         "eu": ("Proiektuari buruz", "Lege-oharra (es)", "Pribatutasuna (es)", "Cookieak (es)")}[lang]
+    about = f"{prefix}{'eu/' if lang == 'eu' else ''}sobre.html"
+    return (f'<a href="{about}">{L[0]}</a><a href="{prefix}aviso-legal.html">{L[1]}</a>'
+            f'<a href="{prefix}privacidad.html">{L[2]}</a><a href="{prefix}cookies.html">{L[3]}</a>')
+
+def doc(title, body, lang, prefix, path):
+    canon = f'<link rel="canonical" href="{E(BASE)}/{path}">' if BASE else ""
+    return f"""<!DOCTYPE html>
+<html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{E(title)} · {NAME}</title>{canon}
+<style>{CSS}mark{{background:#ffe08a;color:#000;padding:0 4px;border-radius:4px}}h2{{font-size:1.1rem;margin:22px 0 4px}}</style>
+<script>{THEME_JS}</script>{ANALYTICS}{GSC_META}</head>
+<body><main><a class="back" href="{prefix}index.html">{TX[lang]["back"]}</a>
+<article>{body}</article>
+<footer>{legal_links(lang, prefix)}</footer></main></body></html>"""
+
+def legal():
+    upd = TODAY.strftime("%d/%m/%Y")
+    phone = f"<li>Teléfono: {fld('phone', 'teléfono', False)}</li>" if str(OWNER.get("phone") or "").strip() else ""
+    ident = (f"<ul><li>Titular: {fld('name', 'nombre o razón social')}</li><li>NIF: {fld('nif', 'NIF')}</li>"
+             f"<li>Domicilio: {fld('address', 'domicilio')}</li><li>Correo electrónico: {mail()}</li>{phone}</ul>")
+    site = E(BASE + "/") if BASE else "este sitio"
+    aviso = f"""<h1>Aviso legal</h1>
+<h2>1. Datos identificativos</h2>
+<p>En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de que el titular de este sitio web es:</p>{ident}
+<h2>2. Objeto del sitio</h2>
+<p>{NAME} ({site}) es un sitio web informativo que reúne y presenta ayudas y subvenciones abiertas en Euskadi a partir de datos abiertos publicados por el Gobierno Vasco. No es un sitio oficial y no está vinculado ni respaldado por el Gobierno Vasco ni por ninguna otra administración.</p>
+<h2>3. Condiciones de uso</h2>
+<p>El acceso y uso del sitio es gratuito e implica aceptar este aviso. La persona usuaria se compromete a hacer un uso lícito del sitio y a no realizar acciones que puedan dañarlo o dificultar su funcionamiento.</p>
+<h2>4. Exclusión de responsabilidad</h2>
+<ul><li>La información es orientativa y puede contener errores u omisiones o no estar actualizada. Los plazos, importes y requisitos válidos son los de la convocatoria oficial: consúltala siempre antes de solicitar una ayuda.</li>
+<li>Las fichas con «Requisitos clave» se elaboran a partir de fuentes oficiales y pueden quedar desactualizadas con cada convocatoria. La dificultad y la clasificación por temas son estimaciones.</li>
+<li>Las traducciones al euskera son automáticas y pueden contener errores.</li>
+<li>El sitio enlaza a páginas de terceros sobre cuyo contenido no tiene control ni responsabilidad.</li></ul>
+<h2>5. Propiedad intelectual y datos abiertos</h2>
+<p>Los datos de las ayudas proceden de Open Data Euskadi (Gobierno Vasco), publicados bajo licencia CC BY 4.0, con atribución a la fuente. El resto de contenidos (fichas, textos y diseño) pertenecen al titular, salvo indicación en contrario. Se permite enlazar a este sitio.</p>
+<h2>6. Publicidad y patrocinios</h2>
+<p>Este sitio puede incluir publicidad o contenidos patrocinados, que se identificarán claramente como tales.</p>
+<h2>7. Legislación aplicable</h2>
+<p>Este aviso legal se rige por la legislación española.</p>
+<p class="src">Última actualización: {upd}</p>"""
+    stats = ("Este sitio usa GoatCounter para obtener estadísticas agregadas de visitas. Según su documentación, no usa cookies ni crea perfiles de personas usuarias individuales."
+             if GC else "Actualmente este sitio no utiliza ninguna herramienta de analítica.")
+    stats_c = ("Se utiliza GoatCounter para estadísticas agregadas; según su documentación, no usa cookies."
+               if GC else "No se utiliza actualmente ninguna herramienta de analítica.")
+    priv = f"""<h1>Política de privacidad</h1>
+<h2>1. Responsable del tratamiento</h2>{ident}
+<h2>2. Qué datos tratamos y para qué</h2>
+<ul><li><b>Visitas.</b> {stats}</li>
+<li><b>Contacto.</b> Si nos escribes por correo electrónico, usaremos tus datos únicamente para responderte. La base es tu consentimiento al escribirnos y nuestro interés legítimo en atender tu solicitud.</li>
+<li><b>Preferencias.</b> El idioma y el tema que eliges se guardan en tu propio navegador y no se envían a ningún servidor.</li></ul>
+<h2>3. Servicios de terceros</h2>
+<ul><li><b>Alojamiento:</b> {E(HOSTING)}. Recibe tu dirección IP y datos técnicos de la conexión para servir la web.</li>
+<li><b>El tiempo:</b> el aviso meteorológico se carga desde tu navegador a Open-Meteo, que recibe tu dirección IP.</li>
+<li><b>Enlaces externos:</b> al abrir una convocatoria, pasas a la web de la administración correspondiente, con su propia política.</li></ul>
+<h2>4. Conservación, destinatarios y transferencias</h2>
+<p>Conservamos los datos de contacto solo el tiempo necesario para atender tu consulta. No cedemos datos a terceros salvo obligación legal. Algunos de los proveedores citados pueden tratar datos fuera del Espacio Económico Europeo con las garantías que establezcan.</p>
+<h2>5. Tus derechos</h2>
+<p>Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a {mail()}. Si consideras que no hemos tratado tus datos correctamente, puedes reclamar ante la Agencia Española de Protección de Datos (www.aepd.es).</p>
+<p class="src">Última actualización: {upd}</p>"""
+    cook = f"""<h1>Política de cookies</h1>
+<p>Las cookies son pequeños archivos que un sitio web guarda en tu dispositivo.</p>
+<h2>Qué usa este sitio</h2>
+<ul><li><b>Cookies propias de seguimiento o publicidad:</b> ninguna.</li>
+<li><b>Almacenamiento local del navegador:</b> se usa para recordar el idioma y el tema que eliges. Son preferencias que tú solicitas y no se utilizan para seguirte.</li>
+<li><b>Analítica:</b> {stats_c}</li>
+<li><b>Terceros:</b> la carga del tiempo (Open-Meteo) y los enlaces a webs oficiales pueden implicar las cookies o registros propios de esos servicios, según sus políticas.</li></ul>
+<h2>Cambios futuros</h2>
+<p>Si se incorporan publicidad o analítica que use cookies, se pedirá tu consentimiento antes de activarlas y se actualizará esta política.</p>
+<h2>Cómo gestionarlas</h2>
+<p>Puedes borrar o bloquear cookies y datos del sitio desde la configuración de tu navegador.</p>
+<p class="src">Última actualización: {upd}</p>"""
+    sobre_es = f"""<h1>Sobre este proyecto</h1>
+<p>{NAME} reúne las ayudas y subvenciones abiertas en Euskadi para que sea más fácil saber qué puedes pedir, hasta cuándo y lo complicado que es. No es un sitio oficial ni está vinculado a ninguna administración.</p>
+<h2>Cómo se elabora</h2>
+<ul><li>Los datos se actualizan cada día de forma automática desde Open Data Euskadi (Gobierno Vasco, licencia CC BY 4.0).</li>
+<li>La clasificación por tema, la dificultad y el perfil son automáticas, por lo que pueden fallar.</li>
+<li>Las fichas con «Requisitos clave» se han revisado a mano frente a fuentes oficiales.</li>
+<li>Las traducciones al euskera son automáticas y están marcadas como tales.</li></ul>
+<h2>Limitaciones</h2>
+<p>La información es orientativa. Los plazos, importes y requisitos válidos son los de la convocatoria oficial: consúltala siempre antes de solicitar.</p>
+<h2>¿Has encontrado un error?</h2>
+<p>Escríbenos a {mail()} y lo corregiremos.</p>
+<p class="src">Última actualización: {upd}</p>"""
+    sobre_eu = f"""<h1>Proiektuari buruz</h1>
+<p>{NAME}(e)k Euskadiko laguntza eta diru-laguntza irekiak biltzen ditu, jakiteko errazagoa izan dadin zer eska dezakezun, noizera arte eta zein zaila den. Ez da webgune ofiziala, eta ez dago inongo administraziorekin lotuta.</p>
+<h2>Nola egiten da</h2>
+<ul><li>Datuak egunero automatikoki eguneratzen dira Open Data Euskadi-tik (Eusko Jaurlaritza, CC BY 4.0 lizentzia).</li>
+<li>Gaiaren, zailtasunaren eta hartzaileen araberako sailkapena automatikoa da; beraz, akatsak izan ditzake.</li>
+<li>«Baldintza nagusiak» dituzten fitxak eskuz berrikusi dira iturri ofizialen aurka.</li>
+<li>Euskarazko itzulpenak automatikoak dira eta horrela markatuta daude.</li></ul>
+<h2>Mugak</h2>
+<p>Informazioa orientagarria da. Epeak, zenbatekoak eta baldintzak deialdi ofizialean agertzen direnak dira: kontsultatu beti deialdi ofiziala eskatu aurretik.</p>
+<h2>Akats bat aurkitu duzu?</h2>
+<p>Idatzi iezaguzu {mail()} helbidera eta zuzenduko dugu.</p>
+<p class="src">Azken eguneratzea: {upd}</p>"""
+    os.makedirs(os.path.join(DOCS, "eu"), exist_ok=True)
+    for name, title, body, lang, prefix, path in (
+            ("aviso-legal.html", "Aviso legal", aviso, "es", "", "aviso-legal.html"),
+            ("privacidad.html", "Política de privacidad", priv, "es", "", "privacidad.html"),
+            ("cookies.html", "Política de cookies", cook, "es", "", "cookies.html"),
+            ("sobre.html", "Sobre este proyecto", sobre_es, "es", "", "sobre.html"),
+            (os.path.join("eu", "sobre.html"), "Proiektuari buruz", sobre_eu, "eu", "../", "eu/sobre.html")):
+        with open(os.path.join(DOCS, name), "w", encoding="utf-8") as f:
+            f.write(doc(title, body, lang, prefix, path))
+    if MISSING:
+        print("AVISO: faltan datos del titular en las páginas legales: " + ", ".join(sorted(MISSING))
+              + ". Complétalos en 'owner' de site.json antes de publicar (aparecen resaltados como [COMPLETAR]).")
+    else:
+        print("Páginas legales y 'Sobre este proyecto' generadas con los datos del titular")
 
 def rfc(d):
     dt = datetime.strptime(d, "%Y-%m-%d") if d else datetime.combine(TODAY, datetime.min.time())
@@ -208,12 +343,14 @@ def main():
             n_es += lang == "es"
             n_eu += lang == "eu"
     print(f"{n_es} páginas en castellano y {n_eu} en euskera")
+    legal()
 
     seo = f'<meta name="description" content="{len(items)} ayudas y subvenciones abiertas en Euskadi: plazos, importes y requisitos clave en castellano y euskera.">'
+    seo += GSC_META
     if BASE:
         seo += (f'<link rel="canonical" href="{E(BASE)}/"><meta property="og:title" content="{E(NAME)}"><meta property="og:type" content="website">'
                 f'<meta property="og:url" content="{E(BASE)}/"><link rel="alternate" type="application/rss+xml" title="RSS" href="{E(BASE)}/feed.xml">')
-        urls = [f"{BASE}/"] + [f"{BASE}/ayuda/{x['slug']}.html" for x in items] + [f"{BASE}/eu/ayuda/{x['slug']}.html" for x in items if x.get("title_eu")]
+        urls = [f"{BASE}/", f"{BASE}/sobre.html", f"{BASE}/eu/sobre.html"] + [f"{BASE}/ayuda/{x['slug']}.html" for x in items] + [f"{BASE}/eu/ayuda/{x['slug']}.html" for x in items if x.get("title_eu")]
         sm = ('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
               + "".join(f"<url><loc>{E(u)}</loc><lastmod>{TODAY.isoformat()}</lastmod></url>" for u in urls) + "</urlset>")
         for name, content in (("sitemap.xml", sm), ("feed.xml", feed(items, "es")), ("feed-eu.xml", feed(items, "eu")),
