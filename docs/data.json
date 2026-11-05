@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:11:19+00:00",
+ "updated": "2026-11-05T05:55:39+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
   {
@@ -540,6 +540,28 @@
    "resumen": "NEB, Nueva Bauhaus Europea. Convocatoria para barrios estéticos, inclusivos, sostenibles y con vivienda asequible, con financiación del marco Horizon de I+D y otros programas. Áreas de ecología-inclusión-democracia, circularidad-regeneración-edificación, y modelos de negocio transformadores. Plazo 01.12.26.",
    "title_full": "NEB, Nueva Bauhaus Europea. Convocatoria para barrios estéticos, inclusivos, sostenibles y con vivienda asequible, con financiación del marco Horizon de I+D y otros programas. Áreas de ecología-inclusión-democracia, circularidad-regeneración-edificación, y modelos de negocio transformadores. Plazo 01.12.26.",
    "slug": "neb-nueva-bauhaus-europea-convocatoria-para-barrios-estetico-f5ed21"
+  },
+  {
+   "title": "Becas de trabajos de investigación en materia de igualdad de mujeres y hombres, para el año 2026",
+   "org": "Emakunde - Instituto Vasco de la Mujer",
+   "area": "Familias y educación",
+   "dificultad": "facil",
+   "perfil": "Todos",
+   "start": "2026-11-03",
+   "end": "2026-12-02",
+   "url": "https://www.emakunde.euskadi.eus/ayuda_subvencion/2026/bek-2026/webema01-contentemakunde/es/",
+   "slug": "becas-de-trabajos-de-investigacion-en-materia-de-igualdad-de-2d9e0c"
+  },
+  {
+   "title": "FAROS DE INNOVACIÓN (2026)",
+   "org": "Ciencia, Universidades e Innovación",
+   "area": "Investigación e innovación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-04",
+   "end": "2026-12-03",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/faros/web01-a2hunib/es/",
+   "slug": "faros-de-innovacion-2026-6500cd"
   },
   {
    "title": "Programa IKERTALENT 2026 - Ayudas de formación a personal investigador y personal tecnólogo en el ámbito científico-tecnológico y…",
