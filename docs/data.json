@@ -1,20 +1,7 @@
 {
- "updated": "2026-11-05T05:55:39+00:00",
+ "updated": "2026-11-05T07:44:32+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
-  {
-   "title": "Convocatoria de subvenciones para el ejercicio 2026 para financiar las prácticas formativas vinculadas a la formación acreditable…",
-   "org": "Lanbide - Servicio Público Vasco de Empleo",
-   "area": "Empleo y formación",
-   "dificultad": "facil",
-   "perfil": "Todos",
-   "start": "2026-08-04",
-   "end": "2026-11-05",
-   "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/practicas_2026_2/weblan00-content/es/",
-   "resumen": "Convocatoria de subvenciones para el ejercicio 2026 para financiar las prácticas formativas vinculadas a la formación acreditable financiada o autorizada por Lanbide-Servicio Público Vasco de Empleo. Financiación del coste de gestiones y pagos de las cotizaciones a la Seguridad Social",
-   "title_full": "Convocatoria de subvenciones para el ejercicio 2026 para financiar las prácticas formativas vinculadas a la formación acreditable financiada o autorizada por Lanbide-Servicio Público Vasco de Empleo. Financiación del coste de gestiones y pagos de las cotizaciones a la Seguridad Social",
-   "slug": "convocatoria-de-subvenciones-para-el-ejercicio-2026-para-fin-61732b"
-  },
   {
    "title": "Ayudas Asistencia Técnica en la Economía Social 2026",
    "org": "Economía, Trabajo y Empleo",
@@ -125,19 +112,6 @@
    "slug": "ayudas-emprender-en-economia-social-mantenimiento-de-un-ecos-50b799"
   },
   {
-   "title": "Convocatoria de subvenciones para el ejercicio 2026 para financiar las prácticas formativas vinculadas a la formación acreditable…",
-   "org": "Lanbide - Servicio Público Vasco de Empleo",
-   "area": "Empleo y formación",
-   "dificultad": "facil",
-   "perfil": "Todos",
-   "start": "2026-08-04",
-   "end": "2026-11-05",
-   "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/practicas2026_2/weblan00-content/es/",
-   "resumen": "Convocatoria de subvenciones para el ejercicio 2026 para financiar las prácticas formativas vinculadas a la formación acreditable financiada o autorizada por Lanbide-Servicio Público Vasco de Empleo (tutorización prácticas formativas)",
-   "title_full": "Convocatoria de subvenciones para el ejercicio 2026 para financiar las prácticas formativas vinculadas a la formación acreditable financiada o autorizada por Lanbide-Servicio Público Vasco de Empleo (tutorización prácticas formativas)",
-   "slug": "convocatoria-de-subvenciones-para-el-ejercicio-2026-para-fin-f06d5d"
-  },
-  {
    "title": "Ayudas económicas a los y las deportistas del Cuerpo de la Policía Autónoma Vasca que participen en los Juegos Europeos de Policías y…",
    "org": "Seguridad",
    "area": "Empresa y emprendimiento",
@@ -215,6 +189,17 @@
    "end": "2026-11-10",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/centros-de-empleo-2026-2027/weblan00-content/es/",
    "slug": "convocatoria-de-subvenciones-2026-2027-para-el-desarrollo-de-c2ef43"
+  },
+  {
+   "title": "Revisión del examen escrito de la convocatoria de 2026-2.",
+   "org": "HABE - Instituto de Alfabetización y Reeuskaldunización de Adultos",
+   "area": "Familias y educación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-09",
+   "end": "2026-11-11",
+   "url": "https://www.habe.euskadi.eus/revision-del-examen-escrito-de-la-convocatoria-de-2026-2/webhabe00-edukiak/es/",
+   "slug": "revision-del-examen-escrito-de-la-convocatoria-de-2026-2-9f88e2"
   },
   {
    "title": "Subvención para la formación básica de Delegados y Delegadas de Prevención en el área Normativa 2026",
@@ -548,7 +533,7 @@
    "dificultad": "facil",
    "perfil": "Todos",
    "start": "2026-11-03",
-   "end": "2026-12-02",
+   "end": "2026-12-03",
    "url": "https://www.emakunde.euskadi.eus/ayuda_subvencion/2026/bek-2026/webema01-contentemakunde/es/",
    "slug": "becas-de-trabajos-de-investigacion-en-materia-de-igualdad-de-2d9e0c"
   },
