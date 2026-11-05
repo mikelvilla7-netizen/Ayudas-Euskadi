@@ -144,7 +144,7 @@ def page(x, lang, items_by_area, slug_by_url):
 <div class="chips"><span>⏰ {E(plazo)}</span><span>{E(t["diff"].get(x.get("dificultad"), t["diff"]["media"]))}</span><span>{E(t["prof"].get(x.get("perfil"), t["prof"]["Todos"]))}</span></div>
 {f'<p>{E(resumen)}</p>' if resumen else (f'<p>{E(full)}</p>' if full != title else '')}
 {f'<div class="box"><h2>{t["amount"]}</h2>{E(importe)}</div>' if importe else ''}
-{f'<div class="box"><h2>{t["keys"]}</h2><ul>' + "".join(f"<li>{E(c)}</li>" for c in claves) + '</ul>' + (f'<div class="src">{t["src"]}: {E(x["fuente"])}</div>' if x.get("fuente") else '') + '</div>' if claves else ''}
+{f'<div class="box"><h2>{t["keys"]}</h2><ul>' + "".join(f"<li>{E(c)}</li>" for c in claves) + '</ul>' + (f'<div class="src">{t["src"]}: {E((x.get("fuente_eu") if eu else None) or x["fuente"])}</div>' if x.get("fuente") else '') + '</div>' if claves else ''}
 <a class="btn" href="{E(x["url"])}" target="_blank" rel="noopener noreferrer">{t["official"]}</a>
 {f'<div class="src">{t["auto"]}</div>' if eu and x.get("eu_auto") and not claves else ''}
 <p class="disc">{t["disc"]}</p>
