@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:44:32+00:00",
+ "updated": "2026-11-05T08:14:41+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
   {
@@ -26,6 +26,10 @@
     "Eskaera-epea 2026-11-05era arte."
    ],
    "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
+   "title_eu": "Gizarte Ekonomiako Laguntza Teknikoa 2026an",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-asistencia-tecnica-en-la-economia-social-2026-0d0d95"
   },
   {
@@ -54,6 +58,10 @@
     "Eskaera-epea 2026-11-05era arte."
    ],
    "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
+   "title_eu": "Gizarte Ekonomian Ekintzailetzarako Laguntza: Kideak Gizarte Ekonomiako enpresetan sartzea 2026an",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-emprender-en-economia-social-incorporacion-de-persona-faf374"
   },
   {
@@ -82,6 +90,10 @@
     "Eskaera-epea 2026-11-05era arte."
    ],
    "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
+   "title_eu": "Gizarte Ekonomian Ekintzailetzarako Laguntza: Gizarte Ekonomiako Enpresen Sorrera eta Sustapena 2026an",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-emprender-en-economia-social-constitucion-y-promocion-cab572"
   },
   {
@@ -109,6 +121,10 @@
     "Eskaera-epea 2026-11-05era arte."
    ],
    "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
+   "title_eu": "Gizarte Ekonomian Ekintzailetzarako Laguntza: Gizarte ekonomiako enpresen sorrera sustatzen duen ekosistema bat mantentzea. (sustapena…",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-emprender-en-economia-social-mantenimiento-de-un-ecos-50b799"
   },
   {
@@ -122,6 +138,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/juegos-europeos-de-policias-y-bomberos-del-ano-2026/web01-s2segur/es/",
    "resumen": "Ayudas económicas a los y las deportistas del Cuerpo de la Policía Autónoma Vasca que participen en los Juegos Europeos de Policías y Bomberos del año 2026 en Vigo.",
    "title_full": "Ayudas económicas a los y las deportistas del Cuerpo de la Policía Autónoma Vasca que participen en los Juegos Europeos de Policías y Bomberos del año 2026 en Vigo.",
+   "title_eu": "Europako Polizia Jokoetan parte hartzen duten EAEko Polizia Autonomoko kirolarientzako laguntza ekonomikoa…",
+   "eu_auto": true,
+   "org_eu": "Segurtasuna",
    "slug": "ayudas-economicas-a-los-y-las-deportistas-del-cuerpo-de-la-p-910cd5"
   },
   {
@@ -133,6 +152,9 @@
    "start": "2026-10-08",
    "end": "2026-11-09",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/es-autonomos-2026/web01-s2lanju/es/",
+   "title_eu": "Gizarte-ekonomiako elkarte-egiturei laguntza 2026an: Langile autonomoen sektore arteko erakundeak",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-estructuras-asociativas-de-economia-social-2026-organ-d1d37a"
   },
   {
@@ -144,6 +166,9 @@
    "start": "2026-10-08",
    "end": "2026-11-09",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/es-solidaria-2026/web01-s2lanju/es/",
+   "title_eu": "Gizarte-ekonomiako elkarte-egiturentzako laguntzak 2026an: ekonomia solidarioko elkarte-erakundeak",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-estructuras-asociativas-de-economia-social-2026-entid-97b17b"
   },
   {
@@ -155,6 +180,9 @@
    "start": "2026-10-08",
    "end": "2026-11-09",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/es-confederaciones-2026/web01-s2lanju/es/",
+   "title_eu": "Gizarte-ekonomiako elkarte-egiturei laguntza 2026an: konfederazioak",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-estructuras-asociativas-de-economia-social-2026-confe-73c09e"
   },
   {
@@ -166,6 +194,9 @@
    "start": "2026-10-08",
    "end": "2026-11-09",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/es-trabajo-asociado-2026/web01-s2lanju/es/",
+   "title_eu": "2026an elkarte-egiturei laguntzak: langileen kooperatibak eta langileen enpresak",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayuda-a-estructuras-asociativas-2026-cooperativas-de-trabajo-2713fd"
   },
   {
@@ -177,6 +208,9 @@
    "start": "2026-10-10",
    "end": "2026-11-09",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/nuevas-tecnologias-2026/web01-ejeduki/es/",
+   "title_eu": "Garraio publikoaren sektorean teknologia eta segurtasun sistema berriak eskuratu eta ezartzeko laguntzak 2026.",
+   "eu_auto": true,
+   "org_eu": "Mugikortasun Jasangarria",
    "slug": "ayudas-para-la-adquisicion-e-implantacion-de-sistemas-de-nue-c3b124"
   },
   {
@@ -188,6 +222,9 @@
    "start": "2026-10-28",
    "end": "2026-11-10",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/centros-de-empleo-2026-2027/weblan00-content/es/",
+   "title_eu": "Enplegu-zentroen jarduera garatzeko 2026-2027 diru-laguntzen deialdia",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-subvenciones-2026-2027-para-el-desarrollo-de-c2ef43"
   },
   {
@@ -199,6 +236,9 @@
    "start": "2026-11-09",
    "end": "2026-11-11",
    "url": "https://www.habe.euskadi.eus/revision-del-examen-escrito-de-la-convocatoria-de-2026-2/webhabe00-edukiak/es/",
+   "title_eu": "2026-2 deialdirako idatzizko azterketaren berrikuspena.",
+   "eu_auto": true,
+   "org_eu": "HABE - Helduen Alfabetatze eta Euskara Biziberritzeko Institutua",
    "slug": "revision-del-examen-escrito-de-la-convocatoria-de-2026-2-9f88e2"
   },
   {
@@ -210,6 +250,9 @@
    "start": "2026-03-18",
    "end": "2026-11-13",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/formacion-normativa-delegados-de-prevencion-2026/web01-ejeduki/es/",
+   "title_eu": "Prebentzio Delegatuen oinarrizko prestakuntzarako diru-laguntza 2026ko Erregelamenduaren arloan",
+   "eu_auto": true,
+   "org_eu": "<g id=\"630180923\"><g id=\"2055968005\">OSALAN, Laneko Segurtasun eta Osasunerako Euskal Erakundea</g></g>",
    "slug": "subvencion-para-la-formacion-basica-de-delegados-y-delegadas-f3eef0"
   },
   {
@@ -221,6 +264,9 @@
    "start": "2026-03-18",
    "end": "2026-11-13",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/formacion-tecnica-delegados-de-prevencion-2026/web01-ejeduki/es/",
+   "title_eu": "Prebentzio Delegatuen oinarrizko prestakuntzarako diru-laguntza arlo teknikoan 2026an",
+   "eu_auto": true,
+   "org_eu": "<g id=\"630180923\"><g id=\"2055968005\">OSALAN, Laneko Segurtasun eta Osasunerako Euskal Erakundea</g></g>",
    "slug": "subvencion-para-la-formacion-basica-de-delegados-y-delegadas-28c615"
   },
   {
@@ -247,6 +293,10 @@
     "Eskaera-epea 2026-11-13ra arte."
    ],
    "fuente": "Hoy Diario (29/09/2026) sobre la orden de convocatoria; Gobierno Vasco",
+   "fuente_eu": "Hoy Diario (2026-09-29), deialdi-aginduari buruz; Eusko Jaurlaritza",
+   "title_eu": "Gizarte Erantzukizun Korporatiborako eta Langileen Partaidetzarako Laguntzak Enpresetan 2026",
+   "eu_auto": true,
+   "org_eu": "Ekonomia, Lana eta Enplegua",
    "slug": "ayudas-para-la-responsabilidad-social-empresarial-y-particip-7112f2"
   },
   {
@@ -258,6 +308,9 @@
    "start": "2026-10-26",
    "end": "2026-11-13",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eima-1/web01-s2hhome/es/",
+   "title_eu": "Unibertsitatez kanpoko mailetarako euskeraz inprimatutako irakaskuntza-materialak argitaratzera bideratutako diru-laguntzak (EIMA 1 - 2026).",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "subvenciones-dirigidas-a-la-edicion-de-materiales-didacticos-cb9684"
   },
   {
@@ -269,6 +322,9 @@
    "start": "2026-10-26",
    "end": "2026-11-13",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eima-4/web01-s2hhome/es/",
+   "title_eu": "Unibertsitatez kanpoko mailetarako euskeraz inprimatutako irakaskuntza-materialak sortzeko diru-laguntzak (EIMA 4 - 2026).",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "subvenciones-dirigidas-a-la-creacion-de-materiales-didactico-4a62fc"
   },
   {
@@ -282,6 +338,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eima-digitala-hbi/web01-s2hhome/es/",
    "resumen": "Subvenciones dirigidas a la producción de materiales didácticos digitales en euskera para niveles no universitarios. Recursos educativos abiertos (EIMA Digitala - REA - 2026)",
    "title_full": "Subvenciones dirigidas a la producción de materiales didácticos digitales en euskera para niveles no universitarios. Recursos educativos abiertos (EIMA Digitala - REA - 2026)",
+   "title_eu": "Unibertsitatez kanpoko mailetarako euskeraz irakaskuntza-material digitalak ekoizteko diru-laguntzak. Hezkuntza-baliabideak…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "subvenciones-dirigidas-a-la-produccion-de-materiales-didacti-f2e349"
   },
   {
@@ -295,6 +354,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eima-digitala-propiedad-de-productoras/web01-s2hhome/es/",
    "resumen": "Subvenciones dirigidas a la producción de materiales didácticos digitales en euskera para niveles no universitarios. Propiedad de Productoras (EIMA Digitala PP-2026)",
    "title_full": "Subvenciones dirigidas a la producción de materiales didácticos digitales en euskera para niveles no universitarios. Propiedad de Productoras (EIMA Digitala PP-2026)",
+   "title_eu": "Unibertsitatez kanpoko mailetarako euskeraz irakaskuntza-material digitalak ekoizteko diru-laguntzak. Jabetza:…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "subvenciones-dirigidas-a-la-produccion-de-materiales-didacti-858dee"
   },
   {
@@ -308,6 +370,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayudas-al-amparo-de-la-estrategia-de-desarrollo-local-participativo-2026/web01-a2arraku/es/",
    "resumen": "Ayudas a proyectos al amparo de la estrategia de desarrollo local participativo (EDLP), aprobada al grupo de acción local del sector pesquero (GALP) para el desarrollo sostenible de las zonas de pesca, en el marco del Fondo Europeo Marítimo de Pesca y de la Acuicultura (FEMPA) 2026",
    "title_full": "Ayudas a proyectos al amparo de la estrategia de desarrollo local participativo (EDLP), aprobada al grupo de acción local del sector pesquero (GALP) para el desarrollo sostenible de las zonas de pesca, en el marco del Fondo Europeo Marítimo de Pesca y de la Acuicultura (FEMPA) 2026",
+   "title_eu": "Sektoreko tokiko ekintza taldearentzat onartutako tokiko garapen estrategia parte-hartzailearen (PLDS) peko proiektuetarako laguntzak…",
+   "eu_auto": true,
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "ayudas-a-proyectos-al-amparo-de-la-estrategia-de-desarrollo-a1d116"
   },
   {
@@ -321,6 +386,9 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/lakof-2026/weblan00-content/es/",
    "resumen": "Ayudas destinadas a la contratación de personas jóvenes desempleadas en empresas vascas. Subvención a entidades colaboradoras. Lehen Aukera 2026",
    "title_full": "Ayudas destinadas a la contratación de personas jóvenes desempleadas en empresas vascas. Subvención a entidades colaboradoras. Lehen Aukera 2026",
+   "title_eu": "Gazte langabeak EAEko enpresetan kontratatzeko laguntzak. Erakunde kolaboratzaileentzako diru-laguntza. Lehen Aukera…",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-destinadas-a-la-contratacion-de-personas-jovenes-dese-c7729f"
   },
   {
@@ -334,6 +402,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/202605europasentitzendasa/web01-s1leheki/es/",
    "resumen": "EUROPA SE SIENTE: convocados los premios anuales (noviembre 2026) para los mejores proyectos cofinanciados por los fondos de Desarrollo y cooperación regional (FEDER), el Social (FSE+), el de Seguridad Interior (ISF), los migratorios (FAMI, IGFV), los del sector primario (FEMPA, FEADER, FEAGA), el de transición justa (FTJ) o los fondos Next de recuperación post-Covid-19",
    "title_full": "EUROPA SE SIENTE: convocados los premios anuales (noviembre 2026) para los mejores proyectos cofinanciados por los fondos de Desarrollo y cooperación regional (FEDER), el Social (FSE+), el de Seguridad Interior (ISF), los migratorios (FAMI, IGFV), los del sector primario (FEMPA, FEADER, FEAGA), el de transición justa (FTJ) o los fondos Next de recuperación post-Covid-19",
+   "title_eu": "EUROPAK BERE BURUA SENTITZEN DU: Garapen funtsek kofinantzatutako proiektu onenen urteko sariak (2026ko azaroa) iragarri dira eta…",
+   "eu_auto": true,
+   "org_eu": "Europako Batasuna.",
    "slug": "europa-se-siente-convocados-los-premios-anuales-noviembre-20-a062ab"
   },
   {
@@ -347,6 +418,9 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/pi2026-f/weblan00-content/es/",
    "resumen": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción laboral y a la cobertura de necesidades del mercado de trabajo, con incorporación de actuaciones vinculadas a procesos de regularización administrativa en el ámbito de la Comunidad Autónoma de Euskadi para los ejercicios 2026 y 2027. Línea 1: Formación.",
    "title_full": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción laboral y a la cobertura de necesidades del mercado de trabajo, con incorporación de actuaciones vinculadas a procesos de regularización administrativa en el ámbito de la Comunidad Autónoma de Euskadi para los ejercicios 2026 y 2027. Línea 1: Formación.",
+   "title_eu": "Enplegurako, prestakuntzarako eta laneratzeko proiektu integralak garatzeko diru-laguntzen deialdia, integrazioa helburu dutenak.…",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-las-ayudas-para-el-desarrollo-de-proyectos-i-aacedf"
   },
   {
@@ -360,6 +434,9 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/pi2026-al/weblan00-content/es/",
    "resumen": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción laboral y a la cobertura de necesidades del mercado de trabajo, con incorporación de actuaciones vinculadas a procesos de regularización administrativa en el ámbito de la comunidad autónoma de euskadi para los ejercicios 2026 y 2027 - Línea 2: Activación laboral.",
    "title_full": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción laboral y a la cobertura de necesidades del mercado de trabajo, con incorporación de actuaciones vinculadas a procesos de regularización administrativa en el ámbito de la comunidad autónoma de euskadi para los ejercicios 2026 y 2027 - Línea 2: Activación laboral.",
+   "title_eu": "Enplegurako, prestakuntzarako eta laneratzeko proiektu integralak garatzeko diru-laguntzen deialdia, integrazioa helburu dutenak.…",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-las-ayudas-para-el-desarrollo-de-proyectos-i-94bdfb"
   },
   {
@@ -373,6 +450,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/complejidad_educativa/web01-s2hhome/es/",
    "resumen": "Subvenciones durante el curso escolar 2026-2027, con carácter excepcional, a los centros educativos privados concertados de alta complejidad educativa de la Comunidad Autónoma del País Vasco.",
    "title_full": "Subvenciones durante el curso escolar 2026-2027, con carácter excepcional, a los centros educativos privados concertados de alta complejidad educativa de la Comunidad Autónoma del País Vasco.",
+   "title_eu": "2026-2027 ikasturtean, salbuespen gisa, goi mailako hezkuntza-zentro pribatu diruz lagunduei emango zaizkien diru-laguntzak.…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "subvenciones-durante-el-curso-escolar-2026-2027-con-caracter-027cf6"
   },
   {
@@ -386,6 +466,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ojm2026/web01-a2justic/es/",
    "resumen": "Ayudas destinadas a los ayuntamientos de la Comunidad Autónoma del País Vasco para los gastos de funcionamiento de las Oficinas de Justicia en el municipio durante el año 2026",
    "title_full": "Ayudas destinadas a los ayuntamientos de la Comunidad Autónoma del País Vasco para los gastos de funcionamiento de las Oficinas de Justicia en el municipio durante el año 2026",
+   "title_eu": "Justizia Bulegoen funtzionamendu-gastuetarako, EAEko udalei zuzendutako laguntzak…",
+   "eu_auto": true,
+   "org_eu": "Justizia eta Giza Eskubideak",
    "slug": "ayudas-destinadas-a-los-ayuntamientos-de-la-comunidad-autono-677386"
   },
   {
@@ -399,6 +482,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260528mscaraisedoktoregoa/web01-s1leheki/es/",
    "resumen": "MSCA- RAISE. Ayuda para doctorados académicos y científicos dentro de las Acciones Marie-Sklodowska Curie (MSCA), con la novedad de la tipología ligada a RAISE (Recursos para la ciencia de la inteligencia artificial en Europa) Plazo hasta el 24.11.26 con jornada informativa el 03.06.26.",
    "title_full": "MSCA- RAISE. Ayuda para doctorados académicos y científicos dentro de las Acciones Marie-Sklodowska Curie (MSCA), con la novedad de la tipología ligada a RAISE (Recursos para la ciencia de la inteligencia artificial en Europa) Plazo hasta el 24.11.26 con jornada informativa el 03.06.26.",
+   "title_eu": "MSCA-RAISE. Marie Skłodowska-Curie Ekintzen (MSCA) barruan doktoretza akademiko eta zientifikoetarako laguntza, ezaugarri berriarekin…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza eta Kultura (EAC)",
    "slug": "msca-raise-ayuda-para-doctorados-academicos-y-cientificos-de-26a696"
   },
   {
@@ -410,6 +496,9 @@
    "start": "2026-10-27",
    "end": "2026-11-26",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/egonlabur_2027/web01-a2hunib/es/",
+   "title_eu": "2027ko Ikerketa Langileak Prestatzeko Doktorego Aurreko Programa aplikatzen den zentroaz bestelako zentroetan egonaldietarako diru-laguntzak",
+   "eu_auto": true,
+   "org_eu": "Zientzia, Unibertsitateak eta Berrikuntza",
    "slug": "ayudas-para-estancias-en-centros-distintos-al-de-aplicacion-ae4083"
   },
   {
@@ -421,6 +510,9 @@
    "start": "2026-10-28",
    "end": "2026-11-27",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/lpeel-2026/weblan00-content/es/",
+   "title_eu": "Tokiko enplegu proiektuetarako laguntzak - 2026",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-para-proyectos-de-empleo-local-2026-70c506"
   },
   {
@@ -432,6 +524,9 @@
    "start": "2026-10-30",
    "end": "2026-11-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/2026-cambio-climatico-ayudas-a-entidades-locales/web01-a2inguru/es/",
+   "title_eu": "2026. Klima aldaketa - Tokiko erakundeentzako laguntzak",
+   "eu_auto": true,
+   "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
    "slug": "2026-cambio-climatico-ayudas-a-entidades-locales-c1a1c0"
   },
   {
@@ -443,6 +538,9 @@
    "start": "2026-10-30",
    "end": "2026-11-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/2026-asteklima-ayudas-a-entidades-locales/web01-a2inguru/es/",
+   "title_eu": "2026. Asteklima - Tokiko erakundeentzako laguntzak",
+   "eu_auto": true,
+   "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
    "slug": "2026-asteklima-ayudas-a-entidades-locales-c7fb0e"
   },
   {
@@ -456,6 +554,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/cefmugazgaindikoberriztag/web01-s1leheki/es/",
    "resumen": "CEF ENERGIA. Mecanismo Conectar Europa. Proyectos transfronterizos de energía renovable. Se prevé una nueva convocatoria para noviembre de 2026.",
    "title_full": "CEF ENERGIA. Mecanismo Conectar Europa. Proyectos transfronterizos de energía renovable. Se prevé una nueva convocatoria para noviembre de 2026.",
+   "title_eu": "CEF ENERGIA. Europa Konektatzeko Funtzioa. Mugaz gaindiko energia berriztagarrien proiektuak. Proposamenetarako deialdi berri bat espero da…",
+   "eu_auto": true,
+   "org_eu": "Klima Ekintza (CLIMA)",
    "slug": "cef-energia-mecanismo-conectar-europa-proyectos-transfronter-f93b4c"
   },
   {
@@ -467,6 +568,9 @@
    "start": "2026-09-14",
    "end": "2026-11-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/pce/web01-s2hhome/es/",
+   "title_eu": "2026-2027 ikasturteko Eskola Osagarriko Programa.",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "programa-complementario-de-escolarizacion-durante-el-curso-2-6cce5a"
   },
   {
@@ -478,6 +582,9 @@
    "start": "2026-09-22",
    "end": "2026-11-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/hezkuntza-inklusiboa-pree/web01-s2hhome/es/",
+   "title_eu": "Derrigorrezko Bigarren Hezkuntzan adostu beharreko unitateen zehaztapena, 2026-2027 hezkuntza-indartze proiektu espezifikoetan.",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
    "slug": "determinacion-de-las-unidades-a-concertar-en-la-educacion-se-7bc388"
   },
   {
@@ -489,6 +596,9 @@
    "start": "2026-10-30",
    "end": "2026-11-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ikermugikortasuna_2027/web01-a2hunib/es/",
+   "title_eu": "Doktoregoko ikerketa-langileentzako mugikortasun-programa (2027).",
+   "eu_auto": true,
+   "org_eu": "Zientzia, Unibertsitateak eta Berrikuntza",
    "slug": "programa-de-movilidad-del-personal-investigador-doctor-2027-67377a"
   },
   {
@@ -500,6 +610,9 @@
    "start": "2026-10-01",
    "end": "2026-11-30",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/partz/weblan00-content/es/",
+   "title_eu": "2026ko diru-laguntzak, lanaldi partzialeko kontratu mugagabeak lanaldi osoko kontratu mugagabe bihurtzea sustatzeko.",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "subvenciones-2026-destinadas-a-incentivar-la-conversion-de-c-c955a7"
   },
   {
@@ -511,6 +624,9 @@
    "start": "2026-05-12",
    "end": "2026-11-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayudas-emantzipa-de-emancipacion-juvenil-2026/web01-a2kultur/es/",
+   "title_eu": "Emantzipa gazteen emantzipaziorako diru-laguntzak 2026an",
+   "eu_auto": true,
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-emantzipa-de-emancipacion-juvenil-2026-9759b3"
   },
   {
@@ -524,6 +640,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/2605nebauzoetarako3lerroe/web01-s1leheki/es/",
    "resumen": "NEB, Nueva Bauhaus Europea. Convocatoria para barrios estéticos, inclusivos, sostenibles y con vivienda asequible, con financiación del marco Horizon de I+D y otros programas. Áreas de ecología-inclusión-democracia, circularidad-regeneración-edificación, y modelos de negocio transformadores. Plazo 01.12.26.",
    "title_full": "NEB, Nueva Bauhaus Europea. Convocatoria para barrios estéticos, inclusivos, sostenibles y con vivienda asequible, con financiación del marco Horizon de I+D y otros programas. Áreas de ecología-inclusión-democracia, circularidad-regeneración-edificación, y modelos de negocio transformadores. Plazo 01.12.26.",
+   "title_eu": "NEB, Bauhaus Europako Berria. Etxebizitza merkeak dituzten auzo estetiko, inklusibo eta jasangarrien proposamenetarako deialdia, finantzatua…",
+   "eu_auto": true,
+   "org_eu": "Enplegua, Gizarte Gaiak eta Inklusioa (ENPL)",
    "slug": "neb-nueva-bauhaus-europea-convocatoria-para-barrios-estetico-f5ed21"
   },
   {
@@ -546,6 +665,7 @@
    "start": "2026-11-04",
    "end": "2026-12-03",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/faros/web01-a2hunib/es/",
+   "org_eu": "Zientzia, Unibertsitateak eta Berrikuntza",
    "slug": "faros-de-innovacion-2026-6500cd"
   },
   {
@@ -559,6 +679,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/programa-ikertalent/web01-a2nekber/es/",
    "resumen": "Programa IKERTALENT 2026 - Ayudas de formación a personal investigador y personal tecnólogo en el ámbito científico-tecnológico y empresarial del sector agrario, pesquero y alimentario",
    "title_full": "Programa IKERTALENT 2026 - Ayudas de formación a personal investigador y personal tecnólogo en el ámbito científico-tecnológico y empresarial del sector agrario, pesquero y alimentario",
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "programa-ikertalent-2026-ayudas-de-formacion-a-personal-inve-6253f9"
   },
   {
@@ -598,6 +719,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2025/procedimiento-para-el-reconocimiento-de-las-ayudas-correspondientes-al-programa-fse+2021-2027-de-asistencia-material-basica-correspondiente-a-2026/web01-s2enple/es/",
    "resumen": "Procedimiento para el reconocimiento de las ayudas correspondientes al programa FSE+2021-2027 de Asistencia Material Básica correspondiente a 2026",
    "title_full": "Procedimiento para el reconocimiento de las ayudas correspondientes al programa FSE+2021-2027 de Asistencia Material Básica correspondiente a 2026",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "procedimiento-para-el-reconocimiento-de-las-ayudas-correspon-f400d7"
   },
   {
@@ -609,6 +731,7 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda-a-victimas-del-terrorismo-2026/web01-ejeduki/es/",
+   "org_eu": "Justizia eta Giza Eskubideak",
    "slug": "ayuda-a-victimas-del-terrorismo-2026-401e68"
   },
   {
@@ -790,6 +913,7 @@
     "Sustapen- edo erosketa-laguntza berriek beren deialdia dute."
    ],
    "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV)",
+   "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA)",
    "slug": "fomento-al-alquiler-actuaciones-protegidas-actuaciones-que-s-21de85"
   },
   {
@@ -829,6 +953,7 @@
     "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
    ],
    "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
+   "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa",
    "slug": "fomento-al-alquiler-ayudas-a-la-promocion-de-alojamientos-do-7cecca"
   },
   {
@@ -862,6 +987,7 @@
    "start": "2026-03-03",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda_victimas_violencia_sexual/web01-a2gizar/es/",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayuda-economica-a-las-mujeres-victimas-de-violencia-sexual-28f3e7"
   },
   {
@@ -884,6 +1010,7 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/concm-2026/weblan00-content/es/",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-a-la-contratacion-para-la-conciliacion-2026-90759e"
   },
   {
@@ -897,6 +1024,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2025/eve-programa-estudios-auditorias-sostenibilidad-energetica-administracion-local/web01-a2energi/es/",
    "resumen": "EVE - Programa de ayudas a la realización de estudios y auditorías para la mejora de la sostenibilidad energética de la administración pública local de Euskadi",
    "title_full": "EVE - Programa de ayudas a la realización de estudios y auditorías para la mejora de la sostenibilidad energética de la administración pública local de Euskadi",
+   "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
    "slug": "eve-programa-de-ayudas-a-la-realizacion-de-estudios-y-audito-6dc977"
   },
   {
@@ -921,6 +1049,7 @@
    "start": "2026-03-31",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/bono-social-termico-2025/web01-a2gizar/es/",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "bono-social-termico-2025-d0489a"
   },
   {
@@ -947,6 +1076,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/connecneb26tacocreateneb/web01-s1leheki/es/",
    "resumen": "Connect NEB y Co-create NEB. En favor de la transformación urbana y comunitaria participativa, y bajo los criterios de la gran iniciativa creativa y sostenible Nueva Bauhaus Europea de la UE (NEB), la \"comunidad NEB\" del Instituto Europeo de Innovación y Tecnología (EIT) ha lanzado dos nuevas convocatorias de estos programas.",
    "title_full": "Connect NEB y Co-create NEB. En favor de la transformación urbana y comunitaria participativa, y bajo los criterios de la gran iniciativa creativa y sostenible Nueva Bauhaus Europea de la UE (NEB), la \"comunidad NEB\" del Instituto Europeo de Innovación y Tecnología (EIT) ha lanzado dos nuevas convocatorias de estos programas.",
+   "org_eu": "Enplegua, Gizarte Gaiak eta Inklusioa (ENPL)",
    "slug": "connect-neb-y-co-create-neb-en-favor-de-la-transformacion-ur-ad9016"
   },
   {
@@ -960,6 +1090,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/deskcreativemediadeialdia/web01-s1leheki/es/",
    "resumen": "Programa Europa Creativa. Apartado MEDIA para sectores audiovisuales. La Agencia Ejecutiva Europea de Educación y Cultura EACEA convoca sesiones informativas virtuales del 12 al 15.10.26 sobre sus nuevas convocatorias para contenidos de televisión e internet, distribución y ventas de filmes, conjuntos de obras demostrativas o slates",
    "title_full": "Programa Europa Creativa. Apartado MEDIA para sectores audiovisuales. La Agencia Ejecutiva Europea de Educación y Cultura EACEA convoca sesiones informativas virtuales del 12 al 15.10.26 sobre sus nuevas convocatorias para contenidos de televisión e internet, distribución y ventas de filmes, conjuntos de obras demostrativas o slates",
+   "org_eu": "Hezkuntza eta Kultura (EAC)",
    "slug": "programa-europa-creativa-apartado-media-para-sectores-audiov-c42876"
   },
   {
@@ -971,6 +1102,7 @@
    "start": "2026-10-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/comunicacion-previs-digitalizacion-2027/web01-a2nekaza/es/",
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "comunicacion-previa-digitalizacion-2027-54553a"
   },
   {
@@ -999,6 +1131,8 @@
     "Gizarte Segurantzako hobariei eta zerga-onurei gehitzen zaizkie; 152/2023 Dekretuak arautzen du."
    ],
    "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)",
+   "fuente_eu": "Lanbide / euskadi.eus (2026ko fitxa eta 152/2023 Dekretuaren FAQ)",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-al-fomento-del-empleo-de-personas-con-discapacidad-en-0a48e2"
   },
   {
@@ -1012,6 +1146,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/edip26edpciproiektuak/web01-s1leheki/es/",
    "resumen": "EDIP, Programa de la Industria Europea de la Defensa. Primeras aprobaciones de EDPCI o Proyectos Europeos de Defensa de Interés Común, de I+d+I cooperativa entre Estados, incluida Ucrania en 4 de los 5, sobre drones y sistemas antidrones, defensa marítima y del lecho marino, espacio, defensa aérea y antimisiles, y refuerzo de  seguridad del flanco oriental de la UE. Se prevén nuevas aprobaciones y que en el próximo Marco Financiero Plurianual 2028-34 se prevé que puedan recibir recursos del Fondo Europeo de Competitividad.",
    "title_full": "EDIP, Programa de la Industria Europea de la Defensa. Primeras aprobaciones de EDPCI o Proyectos Europeos de Defensa de Interés Común, de I+d+I cooperativa entre Estados, incluida Ucrania en 4 de los 5, sobre drones y sistemas antidrones, defensa marítima y del lecho marino, espacio, defensa aérea y antimisiles, y refuerzo de  seguridad del flanco oriental de la UE. Se prevén nuevas aprobaciones y que en el próximo Marco Financiero Plurianual 2028-34 se prevé que puedan recibir recursos del Fondo Europeo de Competitividad.",
+   "org_eu": "Europako Batasuna.",
    "slug": "edip-programa-de-la-industria-europea-de-la-defensa-primeras-75f634"
   },
   {
@@ -1051,6 +1186,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ercstartingrants0926/web01-s1leheki/es/",
    "resumen": "CIENCIA. El Consejo Europeo de Investigación (ERC) ha anunciado 421 becas de inicio o starting grants por valor de 705 millones  para investigadores noveles, pudiendo pedir ayudas extra de la campaña Elige Europa los provenientes de fuera de la UE o del resto de países ligados al Programa Horizon de I+D+i de la UE.",
    "title_full": "CIENCIA. El Consejo Europeo de Investigación (ERC) ha anunciado 421 becas de inicio o starting grants por valor de 705 millones  para investigadores noveles, pudiendo pedir ayudas extra de la campaña Elige Europa los provenientes de fuera de la UE o del resto de países ligados al Programa Horizon de I+D+i de la UE.",
+   "org_eu": "Hezkuntza eta Kultura (EAC)",
    "slug": "ciencia-el-consejo-europeo-de-investigacion-erc-ha-anunciado-fd1e0e"
   },
   {
@@ -1112,6 +1248,7 @@
    "start": "2026-07-30",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/handitu-egurra-2026/web01-a2nekaza/es/",
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "comunicacion-previa-handitu-egurra-2026-3eca19"
   },
   {
@@ -1136,6 +1273,7 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/hezibi-centros-de-formacion/weblan00-content/es/",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "hezibi-centros-de-formacion-2026-programa-hezibi-de-formacio-fcfc28"
   },
   {
@@ -1162,6 +1300,8 @@
     "2026ko deialdia 2026ko urrian onartu zen (EHAA): egiaztatu uneko zenbatekoa eta baldintzak."
    ],
    "fuente": "Lanbide, ficha HEZIBI-Empresas 2025 y BOPV octubre 2026",
+   "fuente_eu": "Lanbide, HEZIBI-Enpresak 2025 fitxa eta EHAA 2026ko urria",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "hezibi-empresas-2026-programa-hezibi-de-formacion-y-trabajo-f1c86a"
   },
   {
@@ -1214,6 +1354,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/isv-inversion-2027-comunicacion-previa/web01-a2nekaza/es/",
    "resumen": "ISV Inversión 2027 - Ayudas a inversiones materiales e inmateriales en instalaciones de transformación y en infraestructuras vitivinícolas, así como en estructuras e instrumentos de comercialización - Comunicación previa",
    "title_full": "ISV Inversión 2027 - Ayudas a inversiones materiales e inmateriales en instalaciones de transformación y en infraestructuras vitivinícolas, así como en estructuras e instrumentos de comercialización - Comunicación previa",
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "isv-inversion-2027-ayudas-a-inversiones-materiales-e-inmater-a6c981"
   },
   {
@@ -1225,6 +1366,7 @@
    "start": "2026-09-10",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/isv-promocion/web01-a2elikin/es/",
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "isv-promocion-2027-ayudas-a-la-promocion-y-comunicacion-en-t-e5735f"
   },
   {
@@ -1264,6 +1406,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/msca2026deialdiberria/web01-s1leheki/es/",
    "resumen": "CIENCIA E I+D+I. La Comisión refuerza con más de 210 millones de euros las Acciones Marie Sklodowska-Curie para apoyar a más de 700 investigadores en Europa. Más de 700 investigadores podrán desarrollar sus carreras en Europa gracias a esta financiación adicional de las Acciones Marie Sklodowska-Curie (MSCA), integrada en la iniciativa Elige Europa, destinada a atraer talento científico, investigación e innovación tecnológica",
    "title_full": "CIENCIA E I+D+I. La Comisión refuerza con más de 210 millones de euros las Acciones Marie Sklodowska-Curie para apoyar a más de 700 investigadores en Europa. Más de 700 investigadores podrán desarrollar sus carreras en Europa gracias a esta financiación adicional de las Acciones Marie Sklodowska-Curie (MSCA), integrada en la iniciativa Elige Europa, destinada a atraer talento científico, investigación e innovación tecnológica",
+   "org_eu": "Europako Batasuna.",
    "slug": "ciencia-e-i-d-i-la-comision-refuerza-con-mas-de-210-millones-baa0e7"
   },
   {
@@ -1277,6 +1420,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/mscadoktoretzaostekobeka2/web01-s1leheki/es/",
    "resumen": "MSCA. BECAS Posdoctorales de las Acciones Marie Sk?odowska-Curie. La edición de 2026 tiene 21.627 investigadores solicitantes que optan a casi 400 millones de euros. Complementan a la iniciativa \"Elige Europa para la ciencia\". Se adjudicarán en febrero de 2027.",
    "title_full": "MSCA. BECAS Posdoctorales de las Acciones Marie Sk?odowska-Curie. La edición de 2026 tiene 21.627 investigadores solicitantes que optan a casi 400 millones de euros. Complementan a la iniciativa \"Elige Europa para la ciencia\". Se adjudicarán en febrero de 2027.",
+   "org_eu": "Europako Batasuna.",
    "slug": "msca-becas-posdoctorales-de-las-acciones-marie-sk-odowska-cu-8e5e53"
   },
   {
@@ -1364,6 +1508,7 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda_victimas_violencia_genero/web01-s2enple/es/",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-economicas-a-las-mujeres-victimas-de-la-violencia-de-96d7a5"
   },
   {
@@ -1401,6 +1546,7 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/morrokotudak-c/weblan00-content/es/",
    "resumen": "Convocatoria de las ayudas para financiar la formación y contratación de mujeres y hombres desempleados en ámbitos masculinizados y feminizados (morrokotudak), en el ámbito de la comunidad autónoma de euskadi para el ejercicio 2026. (financiación para los contratos de trabajo realizados).",
    "title_full": "Convocatoria de las ayudas para financiar la formación y contratación de mujeres y hombres desempleados en ámbitos masculinizados y feminizados (morrokotudak), en el ámbito de la comunidad autónoma de euskadi para el ejercicio 2026. (financiación para los contratos de trabajo realizados).",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-las-ayudas-para-financiar-la-formacion-y-con-630490"
   },
   {
@@ -1414,6 +1560,9 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/pi2026-c/weblan00-content/es/",
    "resumen": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción laboral y a la cobertura de necesidades del mercado de trabajo, con incorporación de actuaciones vinculadas a procesos de regularización administrativa en el ámbito de la Comunidad Autónoma de Euskadi para los ejercicios 2026 y 2027 - Línea 3: Subvención de contratos.",
    "title_full": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción laboral y a la cobertura de necesidades del mercado de trabajo, con incorporación de actuaciones vinculadas a procesos de regularización administrativa en el ámbito de la Comunidad Autónoma de Euskadi para los ejercicios 2026 y 2027 - Línea 3: Subvención de contratos.",
+   "title_eu": "Enplegurako, prestakuntzarako eta laneratzeko proiektu integralak garatzeko diru-laguntzen deialdia, integrazioa helburu dutenak.…",
+   "eu_auto": true,
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-las-ayudas-para-el-desarrollo-de-proyectos-i-b83a30"
   },
   {
@@ -1454,6 +1603,7 @@
     "3. lerroko obretan, laguntzaren ebazpenetik proiektua teknikoki onartu eta 3 hilabetera arte eska daiteke."
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+   "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
    "slug": "ayudas-a-fondo-perdido-y-prestamos-cualificados-con-subsidia-a29ab7"
   },
   {
@@ -1483,6 +1633,7 @@
     "2. lerroarekin eta EVEren PREE programarekin bateraezina da."
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+   "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
    "slug": "ayudas-a-fondo-perdido-para-obras-comunitarias-de-rehabilita-484376"
   },
   {
@@ -1511,6 +1662,8 @@
     "Gizarte Segurantzako hobariei eta zerga-onurei gehitzen zaizkie; 152/2023 Dekretuak arautzen du."
    ],
    "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)",
+   "fuente_eu": "Lanbide / euskadi.eus (2026ko fitxa eta 152/2023 Dekretuaren FAQ)",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-al-fomento-del-empleo-de-personas-con-discapacidad-en-91f338"
   },
   {
@@ -1522,6 +1675,7 @@
    "start": "2020-06-15",
    "end": "2030-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2022/ingreso-minimo-vital-imv/weblan00-content/es/",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ingreso-minimo-vital-imv-944d3e"
   },
   {
@@ -1535,6 +1689,7 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2023/cee-2023/weblan00-content/es/",
    "resumen": "Justificación mensual de la subvención al mantenimiento de los puestos de trabajo de personas con discapacidad en centros especiales de empleo",
    "title_full": "Justificación mensual de la subvención al mantenimiento de los puestos de trabajo de personas con discapacidad en centros especiales de empleo",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "justificacion-mensual-de-la-subvencion-al-mantenimiento-de-l-948d3a"
   },
   {
@@ -1564,6 +1719,7 @@
     "Obren epeak: 12 hilabete (1. lerroa), 18 (2.) eta 30 (3.)."
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+   "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
    "slug": "ayudas-y-prestamos-cualificados-para-obras-comunitarias-line-712547"
   },
   {
@@ -1593,6 +1749,7 @@
     "Obren epeak: 12 hilabete (1. lerroa), 18 (2.) eta 30 (3.)."
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+   "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
    "slug": "ayudas-y-prestamos-cualificados-para-obras-particulares-line-b844b2"
   },
   {
@@ -1604,6 +1761,7 @@
    "start": "2015-01-01",
    "end": "2030-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2016/renta-de-garantia-de-ingresos-rgi/weblan00-content/es/",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "renta-de-garantia-de-ingresos-rgi-9d666e"
   },
   {
@@ -1643,6 +1801,8 @@
     "Dagoeneko 0-3 urteko laguntza jasotzen baduzu, kontsultatu noiz eskatu behar den luzapena: goizegi eskatzeak epez kanpo ukatzea ekar dezake."
    ],
    "fuente": "Decreto 87/2026 y euskadi.eus (Bienestar, Juventud y Reto Demográfico)",
+   "fuente_eu": "87/2026 Dekretua eta euskadi.eus (Ongizate, Gazteria eta Erronka Demografikoa)",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-mensuales-a-familias-con-hijas-o-hijos-22cc65"
   },
   {
@@ -1654,6 +1814,7 @@
    "start": "2026-06-20",
    "end": null,
    "url": "https://www.euskadi.eus/ayuda_subvencion/conciliacion-familiar-laboral-contratacion-personas-trabajadoras-cuidado-hijos-2026/web01-a2famil/es/",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-a-la-contratacion-de-personas-para-el-cuidado-de-hija-0cd17b"
   },
   {
@@ -1667,6 +1828,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/conciliacion-laboral-familiar-cuidado-familiares-dependencia-gravedad-sanitaria-2026/web01-a2famil/es/",
    "resumen": "Ayudas para personas trabajadoras en excedencia o reducción de jornada por cuidado de familiar con dependencia o en extrema gravedad sanitaria (línea D)",
    "title_full": "Ayudas para personas trabajadoras en excedencia o reducción de jornada por cuidado de familiar con dependencia o en extrema gravedad sanitaria (línea D)",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-para-personas-trabajadoras-en-excedencia-o-reduccion-caea81"
   },
   {
@@ -1678,6 +1840,7 @@
    "start": "2026-06-20",
    "end": null,
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/conciliacion_familiar/web01-a2famil/es/",
+   "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-para-personas-trabajadoras-en-excedencia-o-reduccion-eb5fe4"
   },
   {
@@ -1691,6 +1854,7 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/cuots-2026/weblan00-content/es/",
    "resumen": "Subvenciones consistentes en el abono de cuotas a la Seguridad Social a las personas perceptoras de la prestación por desempleo en su modalidad de pago único 2026",
    "title_full": "Subvenciones consistentes en el abono de cuotas a la Seguridad Social a las personas perceptoras de la prestación por desempleo en su modalidad de pago único 2026",
+   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "subvenciones-consistentes-en-el-abono-de-cuotas-a-la-segurid-6c1daa"
   },
   {
@@ -1704,6 +1868,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/modificacion-del-programa-gauzatu-industria/web01-a2indust/es/",
    "resumen": "Modificación de las Ordenes de ayudas consistentes en anticipos reintegrables destinadas a impulsar la creación y desarrollo de PYMES de base tecnológica y/o innovadoras. Programa GAUZATU-INDUSTRIA.",
    "title_full": "Modificación de las Ordenes de ayudas consistentes en anticipos reintegrables destinadas a impulsar la creación y desarrollo de PYMES de base tecnológica y/o innovadoras. Programa GAUZATU-INDUSTRIA.",
+   "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
    "slug": "modificacion-de-las-ordenes-de-ayudas-consistentes-en-antici-a76ab6"
   }
  ]
