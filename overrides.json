@@ -18,7 +18,8 @@
    "Eskatu obrak hasi aurretik. Ebazpena 4 hilabeteko epean; isiltasun administratiboa ezezkoa da.",
    "Obren epeak: 12 hilabete (1. lerroa), 18 (2.) eta 30 (3.)."
   ],
-  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+  "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)"
  },
  "obras comunitarias": {
   "dificultad": "media",
@@ -39,7 +40,8 @@
    "Eskatu obrak hasi aurretik. Ebazpena 4 hilabeteko epean; isiltasun administratiboa ezezkoa da.",
    "Obren epeak: 12 hilabete (1. lerroa), 18 (2.) eta 30 (3.)."
   ],
-  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+  "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)"
  },
  "integral y eficiente": {
   "dificultad": "compleja",
@@ -60,7 +62,8 @@
    "Obra-lizentzia eskatu aurretik eskatzen da; 30 hilabete obrak egiteko.",
    "2. lerroarekin eta EVEren PREE programarekin bateraezina da."
   ],
-  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+  "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)"
  },
  "adquisición de vivienda": {
   "dificultad": "compleja",
@@ -79,7 +82,8 @@
    "Kreditua mugatua da: agortzen denean EHAAn argitaratzen da eta ez da laguntza berririk ematen.",
    "Etxebizitzak alokairu babestura bideratu behar dira."
   ],
-  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos"
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
+  "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa"
  },
  "alojamientos dotacionales": {
   "dificultad": "compleja",
@@ -98,7 +102,8 @@
    "Ordainketa faseka egiten da, ostatu motaren arabera (adibidez, B motan %20 esleipenaren ondoren).",
    "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
   ],
-  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos"
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
+  "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa"
  },
  "medio rural": {
   "dificultad": "compleja",
@@ -115,7 +120,8 @@
    "Etxebizitzaren jabe diren erakunde publikoei zuzendua.",
    "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
   ],
-  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos"
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
+  "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa"
  },
  "incorporación de personas socias": {
   "dificultad": "media",
@@ -136,7 +142,8 @@
    "Aurreko deialdietan langabeak 3 hilabeteko antzinatasuna behar zuen eta sozietateak 5 urte baino gutxiago izan behar zituen: egiaztatu 2026ko baldintzak.",
    "Eskaera-epea 2026-11-05era arte."
   ],
-  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+  "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)"
  },
  "constitución y promoción": {
   "dificultad": "media",
@@ -157,7 +164,8 @@
    "Kolektibo batzuentzat gehikuntzak daude, adibidez bazkide langileen gehiengoa emakumeak direnean.",
    "Eskaera-epea 2026-11-05era arte."
   ],
-  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+  "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)"
  },
  "ecosistema": {
   "dificultad": "media",
@@ -176,7 +184,8 @@
    "Irabazi-asmorik gabekoak izan behar dira, edo irabazi-asmorik gabeko erakundeen jabetza nagusikoak.",
    "Eskaera-epea 2026-11-05era arte."
   ],
-  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+  "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)"
  },
  "emprendimiento colectivo": {
   "dificultad": "media",
@@ -195,7 +204,8 @@
    "Irabazi-asmorik gabekoak izan behar dira, edo irabazi-asmorik gabeko erakundeen jabetza nagusikoak.",
    "Eskaera-epea 2026-11-05era arte."
   ],
-  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+  "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)"
  },
  "responsabilidad social empresarial": {
   "dificultad": "media",
@@ -214,7 +224,8 @@
    "Proiektuek 2026an hasi eta 2026ko abenduaren 15a baino lehen amaitu behar dute.",
    "Eskaera-epea 2026-11-13ra arte."
   ],
-  "fuente": "Hoy Diario (29/09/2026) sobre la orden de convocatoria; Gobierno Vasco"
+  "fuente": "Hoy Diario (29/09/2026) sobre la orden de convocatoria; Gobierno Vasco",
+  "fuente_eu": "Hoy Diario (2026-09-29), deialdi-aginduari buruz; Eusko Jaurlaritza"
  },
  "ayudas mensuales a familias": {
   "dificultad": "facil",
@@ -235,7 +246,8 @@
    "Atzeraeragina du 2026ko urtarrilaren 1etik, dagokionean; eskaera-epea 2026ko uztailaren 2an ireki zen.",
    "Dagoeneko 0-3 urteko laguntza jasotzen baduzu, kontsultatu noiz eskatu behar den luzapena: goizegi eskatzeak epez kanpo ukatzea ekar dezake."
   ],
-  "fuente": "Decreto 87/2026 y euskadi.eus (Bienestar, Juventud y Reto Demográfico)"
+  "fuente": "Decreto 87/2026 y euskadi.eus (Bienestar, Juventud y Reto Demográfico)",
+  "fuente_eu": "87/2026 Dekretua eta euskadi.eus (Ongizate, Gazteria eta Erronka Demografikoa)"
  },
  "estudiantes de euskera": {
   "dificultad": "facil",
@@ -256,7 +268,8 @@
    "Laguntzak ezin du gainditu 2024-2025 eta 2025-2026 ikastaroetan matrikulan ordaindutakoa, mailaren araberako mugarekin (A1: 600 €).",
    "Eskaera-epea 2026-11-03ra arte."
   ],
-  "fuente": "Resolución de HABE de 27/05/2026 (BOPV) y euskadi.eus"
+  "fuente": "Resolución de HABE de 27/05/2026 (BOPV) y euskadi.eus",
+  "fuente_eu": "HABEren 2026-05-27ko Ebazpena (EHAA) eta euskadi.eus"
  },
  "euskaltegis públicos": {
   "dificultad": "media",
@@ -277,7 +290,8 @@
    "HABEk eta EUDELek finantzaketa-sistema berria adostu zuten 2026ko maiatzaren 25ean: begiratu 2026-2027 ikasturteko oinarriak (2026ko irailaren 9ko ebazpena).",
    "Eskaera-epea 2026-11-03ra arte."
   ],
-  "fuente": "Resolución de HABE de 09/09/2026 (BOPV) y euskadi.eus"
+  "fuente": "Resolución de HABE de 09/09/2026 (BOPV) y euskadi.eus",
+  "fuente_eu": "HABEren 2026-09-09ko Ebazpena (EHAA) eta euskadi.eus"
  },
  "asistencia técnica en la economía social": {
   "dificultad": "media",
@@ -296,7 +310,8 @@
    "Enpresaren kudeaketa hobetzera bideratutako laguntza teknikoa finantzatzen du.",
    "Eskaera-epea 2026-11-05era arte."
   ],
-  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)"
+  "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
+  "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)"
  },
  "hezibi-empresas 2026": {
   "dificultad": "media",
@@ -315,7 +330,8 @@
    "Programa LHko ikasleei eta langabezian dauden gazteei zuzenduta dago.",
    "2026ko deialdia 2026ko urrian onartu zen (EHAA): egiaztatu uneko zenbatekoa eta baldintzak."
   ],
-  "fuente": "Lanbide, ficha HEZIBI-Empresas 2025 y BOPV octubre 2026"
+  "fuente": "Lanbide, ficha HEZIBI-Empresas 2025 y BOPV octubre 2026",
+  "fuente_eu": "Lanbide, HEZIBI-Enpresak 2025 fitxa eta EHAA 2026ko urria"
  },
  "empleo de personas con discapacidad en el mercado ordinario": {
   "dificultad": "media",
@@ -336,7 +352,8 @@
    "Zenbatekoa %10 handitzen da kontratatutako pertsona emakumea bada.",
    "Gizarte Segurantzako hobariei eta zerga-onurei gehitzen zaizkie; 152/2023 Dekretuak arautzen du."
   ],
-  "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)"
+  "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)",
+  "fuente_eu": "Lanbide / euskadi.eus (2026ko fitxa eta 152/2023 Dekretuaren FAQ)"
  },
  "actuaciones protegidas": {
   "dificultad": "compleja",
@@ -353,7 +370,8 @@
    "Alokairua sustatzeko laguntzak jada jaso dituztenei zuzendua.",
    "Sustapen- edo erosketa-laguntza berriek beren deialdia dute."
   ],
-  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV)"
+  "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV)",
+  "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA)"
  },
  "componente específico de accesibilidad": {
   "dificultad": "compleja",
@@ -374,6 +392,7 @@
    "Berariaz eskatu behar da finantza-neurriak eskatzean, irisgarritasun-aurrekontua gainerakotik bereizita.",
    "3. lerroko obretan, laguntzaren ebazpenetik proiektua teknikoki onartu eta 3 hilabetera arte eska daiteke."
   ],
-  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)"
+  "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
+  "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)"
  }
 }
