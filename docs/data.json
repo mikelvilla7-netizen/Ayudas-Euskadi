@@ -1,132 +1,7 @@
 {
- "updated": "2026-11-05T08:14:41+00:00",
+ "updated": "2026-11-06T05:54:50+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
-  {
-   "title": "Ayudas Asistencia Técnica en la Economía Social 2026",
-   "org": "Economía, Trabajo y Empleo",
-   "area": "Empresa y emprendimiento",
-   "dificultad": "media",
-   "perfil": "Empresas",
-   "start": "2026-10-06",
-   "end": "2026-11-05",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/at_2026/web01-s2lanju/es/",
-   "resumen": "Ayuda a cooperativas y sociedades laborales para contratar asistencia técnica que mejore su gestión.",
-   "resumen_eu": "Kooperatibei eta lan-sozietateei kudeaketa hobetzeko laguntza teknikoa kontratatzeko laguntza.",
-   "importe": "Dotación 2026: 440.000 € en total",
-   "importe_eu": "2026ko zuzkidura: 440.000 € guztira",
-   "claves": [
-    "Para cooperativas y sociedades laborales.",
-    "Financia asistencia técnica orientada a mejorar la gestión de la empresa.",
-    "Plazo de solicitud hasta el 05/11/2026."
-   ],
-   "claves_eu": [
-    "Kooperatibei eta lan-sozietateei zuzendua.",
-    "Enpresaren kudeaketa hobetzera bideratutako laguntza teknikoa finantzatzen du.",
-    "Eskaera-epea 2026-11-05era arte."
-   ],
-   "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
-   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
-   "title_eu": "Gizarte Ekonomiako Laguntza Teknikoa 2026an",
-   "eu_auto": true,
-   "org_eu": "Ekonomia, Lana eta Enplegua",
-   "slug": "ayudas-asistencia-tecnica-en-la-economia-social-2026-0d0d95"
-  },
-  {
-   "title": "Ayudas Emprender en Economía Social: Incorporación de personas socias en empresas de Economía Social 2026",
-   "org": "Economía, Trabajo y Empleo",
-   "area": "Empresa y emprendimiento",
-   "dificultad": "media",
-   "perfil": "Empresas",
-   "start": "2026-10-06",
-   "end": "2026-11-05",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/emin_2026/web01-s2lanju/es/",
-   "resumen": "Subvención a cooperativas y sociedades laborales que incorporan nuevas personas socias trabajadoras o de trabajo con carácter indefinido.",
-   "resumen_eu": "Kooperatibek eta lan-sozietateek behin betiko izaerarekin bazkide langile edo lan-bazkide berriak txertatzen dituztenentzako diru-laguntza.",
-   "importe": "Dotación conjunta 2026 de las tres líneas «Emprender»: 4,025 M€",
-   "importe_eu": "2026ko «Ekin» hiru lerroen guztizko zuzkidura: 4,025 M€",
-   "claves": [
-    "La incorporación debe ser como persona socia trabajadora o de trabajo de duración indefinida.",
-    "Colectivos incluidos: personas desempleadas, personas trabajadoras no socias por cuenta ajena y otros que fije la orden.",
-    "Convocatorias anteriores exigían a la persona desempleada 3 meses de antigüedad en el paro y que la sociedad tuviera menos de 5 años: comprueba las condiciones de 2026.",
-    "Plazo de solicitud hasta el 05/11/2026."
-   ],
-   "claves_eu": [
-    "Txertaketak behin betikoa izan behar du, bazkide langile edo lan-bazkide gisa.",
-    "Kolektiboak: langabeak, kontratatutako langile ez-bazkideak eta aginduak ezartzen dituen beste batzuk.",
-    "Aurreko deialdietan langabeak 3 hilabeteko antzinatasuna behar zuen eta sozietateak 5 urte baino gutxiago izan behar zituen: egiaztatu 2026ko baldintzak.",
-    "Eskaera-epea 2026-11-05era arte."
-   ],
-   "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
-   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
-   "title_eu": "Gizarte Ekonomian Ekintzailetzarako Laguntza: Kideak Gizarte Ekonomiako enpresetan sartzea 2026an",
-   "eu_auto": true,
-   "org_eu": "Ekonomia, Lana eta Enplegua",
-   "slug": "ayudas-emprender-en-economia-social-incorporacion-de-persona-faf374"
-  },
-  {
-   "title": "Ayudas Emprender en Economía Social: Constitución y Promoción de empresas de economía social 2026",
-   "org": "Economía, Trabajo y Empleo",
-   "area": "Empresa y emprendimiento",
-   "dificultad": "media",
-   "perfil": "Empresas",
-   "start": "2026-10-06",
-   "end": "2026-11-05",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/emcp_2026/web01-s2lanju/es/",
-   "resumen": "Subvención para crear nuevas empresas de economía social (cooperativas y sociedades laborales).",
-   "resumen_eu": "Ekonomia sozialeko enpresa berriak (kooperatibak eta lan-sozietateak) sortzeko diru-laguntza.",
-   "importe": "En 2024 el tope fue de 30.000 € por entidad",
-   "importe_eu": "2024an gehieneko muga 30.000 € izan zen erakundeko",
-   "claves": [
-    "Para constituir cooperativas o sociedades laborales.",
-    "En 2024 la ayuda no podía superar el capital suscrito por las personas socias trabajadoras ni 30.000 €: revisa el tope de 2026.",
-    "Hay incrementos para determinados colectivos, por ejemplo cuando la mayoría de las personas socias trabajadoras son mujeres.",
-    "Plazo de solicitud hasta el 05/11/2026."
-   ],
-   "claves_eu": [
-    "Kooperatibak edo lan-sozietateak eratzeko.",
-    "2024an laguntzak ezin zuen gainditu bazkide langileek harpidetutako kapitala, ezta 30.000 € ere: egiaztatu 2026ko muga.",
-    "Kolektibo batzuentzat gehikuntzak daude, adibidez bazkide langileen gehiengoa emakumeak direnean.",
-    "Eskaera-epea 2026-11-05era arte."
-   ],
-   "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
-   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
-   "title_eu": "Gizarte Ekonomian Ekintzailetzarako Laguntza: Gizarte Ekonomiako Enpresen Sorrera eta Sustapena 2026an",
-   "eu_auto": true,
-   "org_eu": "Ekonomia, Lana eta Enplegua",
-   "slug": "ayudas-emprender-en-economia-social-constitucion-y-promocion-cab572"
-  },
-  {
-   "title": "Ayudas Emprender en Economía Social: Mantenimiento de un ecosistema favorecedor de la creación de empresas de economía social. (fomento del…",
-   "org": "Economía, Trabajo y Empleo",
-   "area": "Empresa y emprendimiento",
-   "dificultad": "media",
-   "perfil": "Entidades",
-   "start": "2026-10-06",
-   "end": "2026-11-05",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/emp_2026/web01-s2lanju/es/",
-   "resumen": "Ayuda a entidades no lucrativas que promueven la creación de cooperativas y sociedades laborales (ecosistema de emprendimiento colectivo).",
-   "title_full": "Ayudas Emprender en Economía Social: Mantenimiento de un ecosistema favorecedor de la creación de empresas de economía social. (fomento del Emprendimiento Colectivo) 2026",
-   "resumen_eu": "Kooperatibak eta lan-sozietateak sortzea sustatzen duten irabazi-asmorik gabeko erakundeentzako laguntza (ekintzailetza kolektiboaren ekosistema).",
-   "importe": "Parte de los 4,025 M€ de las líneas «Emprender»",
-   "importe_eu": "«Ekin» lerroen 4,025 M€-ren zati bat",
-   "claves": [
-    "Dirigida a personas jurídicas cuyo objeto sea promover la constitución de cooperativas o sociedades laborales.",
-    "Deben ser no lucrativas o de propiedad mayoritaria de entidades no lucrativas.",
-    "Plazo de solicitud hasta el 05/11/2026."
-   ],
-   "claves_eu": [
-    "Kooperatibak edo lan-sozietateak eratzea sustatzea xede duten pertsona juridikoei zuzendua.",
-    "Irabazi-asmorik gabekoak izan behar dira, edo irabazi-asmorik gabeko erakundeen jabetza nagusikoak.",
-    "Eskaera-epea 2026-11-05era arte."
-   ],
-   "fuente": "Convocatorias 2025-2026 de Economía, Trabajo y Empleo (Gobierno Vasco)",
-   "fuente_eu": "Ekonomia, Lan eta Enplegu Sailaren 2025-2026ko deialdiak (Eusko Jaurlaritza)",
-   "title_eu": "Gizarte Ekonomian Ekintzailetzarako Laguntza: Gizarte ekonomiako enpresen sorrera sustatzen duen ekosistema bat mantentzea. (sustapena…",
-   "eu_auto": true,
-   "org_eu": "Ekonomia, Lana eta Enplegua",
-   "slug": "ayudas-emprender-en-economia-social-mantenimiento-de-un-ecos-50b799"
-  },
   {
    "title": "Ayudas económicas a los y las deportistas del Cuerpo de la Policía Autónoma Vasca que participen en los Juegos Europeos de Policías y…",
    "org": "Seguridad",
@@ -654,6 +529,9 @@
    "start": "2026-11-03",
    "end": "2026-12-03",
    "url": "https://www.emakunde.euskadi.eus/ayuda_subvencion/2026/bek-2026/webema01-contentemakunde/es/",
+   "title_eu": "Genero berdintasunari buruzko ikerketa bekak, 2026. urterako",
+   "eu_auto": true,
+   "org_eu": "Emakunde - Emakumearen Euskal Erakundea",
    "slug": "becas-de-trabajos-de-investigacion-en-materia-de-igualdad-de-2d9e0c"
   },
   {
@@ -665,6 +543,8 @@
    "start": "2026-11-04",
    "end": "2026-12-03",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/faros/web01-a2hunib/es/",
+   "title_eu": "BERRIKUNTZAREN FARROAK (2026)",
+   "eu_auto": true,
    "org_eu": "Zientzia, Unibertsitateak eta Berrikuntza",
    "slug": "faros-de-innovacion-2026-6500cd"
   },
@@ -679,6 +559,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/programa-ikertalent/web01-a2nekber/es/",
    "resumen": "Programa IKERTALENT 2026 - Ayudas de formación a personal investigador y personal tecnólogo en el ámbito científico-tecnológico y empresarial del sector agrario, pesquero y alimentario",
    "title_full": "Programa IKERTALENT 2026 - Ayudas de formación a personal investigador y personal tecnólogo en el ámbito científico-tecnológico y empresarial del sector agrario, pesquero y alimentario",
+   "title_eu": "IKERTALENT 2026 Programa - Zientzia eta teknologia arloko ikerketa eta teknologiako langileentzako prestakuntza bekak…",
+   "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "programa-ikertalent-2026-ayudas-de-formacion-a-personal-inve-6253f9"
   },
@@ -693,6 +575,9 @@
    "url": "https://www.euskadi.eus/servicios/0336325/web01-ejeduki/es/",
    "resumen": "Ayudas destinadas a facilitar la adherencia a los tratamientos médicos prescritos por personal del sistema sanitario de Euskadi que estén sujetos a financiación pública - tramitación ordinaria 2026",
    "title_full": "Ayudas destinadas a facilitar la adherencia a los tratamientos médicos prescritos por personal del sistema sanitario de Euskadi que estén sujetos a financiación pública - tramitación ordinaria 2026",
+   "title_eu": "EAEko osasun-langileek agindutako tratamendu medikoak betetzea errazteko laguntzak.…",
+   "eu_auto": true,
+   "org_eu": "Osasuna",
    "slug": "ayudas-destinadas-a-facilitar-la-adherencia-a-los-tratamient-9e01d5"
   },
   {
@@ -706,6 +591,9 @@
    "url": "https://www.euskadi.eus/servicios/0336326/web01-ejeduki/es/",
    "resumen": "Ayudas destinadas a facilitar la adherencia a los tratamientos médicos prescritos por personal del sistema sanitario de Euskadi que estén sujetos a financiación pública - tramitación simplificada 2026",
    "title_full": "Ayudas destinadas a facilitar la adherencia a los tratamientos médicos prescritos por personal del sistema sanitario de Euskadi que estén sujetos a financiación pública - tramitación simplificada 2026",
+   "title_eu": "EAEko osasun-langileek agindutako tratamendu medikoak betetzea errazteko laguntzak.…",
+   "eu_auto": true,
+   "org_eu": "Osasuna",
    "slug": "ayudas-destinadas-a-facilitar-la-adherencia-a-los-tratamient-83fe18"
   },
   {
@@ -719,6 +607,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2025/procedimiento-para-el-reconocimiento-de-las-ayudas-correspondientes-al-programa-fse+2021-2027-de-asistencia-material-basica-correspondiente-a-2026/web01-s2enple/es/",
    "resumen": "Procedimiento para el reconocimiento de las ayudas correspondientes al programa FSE+2021-2027 de Asistencia Material Básica correspondiente a 2026",
    "title_full": "Procedimiento para el reconocimiento de las ayudas correspondientes al programa FSE+2021-2027 de Asistencia Material Básica correspondiente a 2026",
+   "title_eu": "ESF+ 2021-2027 Oinarrizko Material Laguntza programari dagozkion laguntzak aitortzeko prozedura…",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "procedimiento-para-el-reconocimiento-de-las-ayudas-correspon-f400d7"
   },
@@ -731,6 +621,8 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda-a-victimas-del-terrorismo-2026/web01-ejeduki/es/",
+   "title_eu": "Terrorismoaren biktimei laguntza 2026an",
+   "eu_auto": true,
    "org_eu": "Justizia eta Giza Eskubideak",
    "slug": "ayuda-a-victimas-del-terrorismo-2026-401e68"
   },
@@ -745,6 +637,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260417i3floatpartzuergoa/web01-s1leheki/es/",
    "resumen": "I3FLOAT, eólica marina. 2 próximas convocatorias para hasta 50 pymes colaboradoras. Consorcio de 24 socios de 8 regiones liderado por el clúster Basquenergy. 2026-28. Apoyado por programa I3 de la UE de Inversiones de Innovación Interregionales, Consejo Europeo EIC de Innovación y Agencia Ejecutiva para las Pymes EISMEA.",
    "title_full": "I3FLOAT, eólica marina. 2 próximas convocatorias para hasta 50 pymes colaboradoras. Consorcio de 24 socios de 8 regiones liderado por el clúster Basquenergy. 2026-28. Apoyado por programa I3 de la UE de Inversiones de Innovación Interregionales, Consejo Europeo EIC de Innovación y Agencia Ejecutiva para las Pymes EISMEA.",
+   "title_eu": "I3FLOAT, itsasoko haize-energia. Bi deialdi laster, gehienez 50 ETE lankidetzan aritzeko. 8 eskualdetako 24 bazkidek osatutako partzuergoa…",
+   "eu_auto": true,
+   "org_eu": "Energia (ENER)",
    "slug": "i3float-eolica-marina-2-proximas-convocatorias-para-hasta-50-03d4ad"
   },
   {
@@ -758,6 +653,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260528beroberrikutzak/web01-s1leheki/es/",
    "resumen": "FONDO DE INNOVACIÓN. SUBASTA DE CALOR. La UE da 400 millones a 65 proyectos de tecnologías térmicas bajas o exentas de carbono y avanza una segunda ronda de 1.000 millones",
    "title_full": "FONDO DE INNOVACIÓN. SUBASTA DE CALOR. La UE da 400 millones a 65 proyectos de tecnologías térmicas bajas o exentas de carbono y avanza una segunda ronda de 1.000 millones",
+   "title_eu": "BERRIKUNTZA FUNTSA. BERO ENKANTEA. EBk 400 milioi euro eman dizkie karbono gutxiko edo zero karbono isuriko 65 teknologia termiko…",
+   "eu_auto": true,
+   "org_eu": "Energia (ENER)",
    "slug": "fondo-de-innovacion-subasta-de-calor-la-ue-da-400-millones-a-af15ec"
   },
   {
@@ -771,6 +669,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260602ercplusbekak/web01-s1leheki/es/",
    "resumen": "CIENCIA DISRUPTIVA. BECAS ERC PLUS. El Consejo Europeo de Investigación estrena estas becas para proyectos para investigación de largo plazo y con objetivos menos convencionales que las dadas hasta la fecha. Se enmarca en la iniciativa de atracción de talento Elige Europa.",
    "title_full": "CIENCIA DISRUPTIVA. BECAS ERC PLUS. El Consejo Europeo de Investigación estrena estas becas para proyectos para investigación de largo plazo y con objetivos menos convencionales que las dadas hasta la fecha. Se enmarca en la iniciativa de atracción de talento Elige Europa.",
+   "title_eu": "Zientzia iraultzailea. ERC Plus bekak. Europako Ikerketa Kontseiluak beka hauek abiarazten ditu epe luzeko ikerketa proiektuetarako.…",
+   "eu_auto": true,
+   "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "ciencia-disruptiva-becas-erc-plus-el-consejo-europeo-de-inve-197544"
   },
   {
@@ -784,6 +685,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260603ekintzailetzafuntsa/web01-s1leheki/es/",
    "resumen": "FONDO DE EMPRENDIMIENTO SOCIAL para la ribera Sur en el marco del Pacto del Mediterráneo: financiará la economía social y conllevará el Mecanismo de Asistencia Técnica, de modo que agentes europeos asesorarán para la mejora de administración, legislación e inversión públicas en estos países vecinos de la UE",
    "title_full": "FONDO DE EMPRENDIMIENTO SOCIAL para la ribera Sur en el marco del Pacto del Mediterráneo: financiará la economía social y conllevará el Mecanismo de Asistencia Técnica, de modo que agentes europeos asesorarán para la mejora de administración, legislación e inversión públicas en estos países vecinos de la UE",
+   "title_eu": "Mediterraneoko Itunaren esparruan Hegoaldeko Bankurako GIZARTE EKINTZAILETZA FUNTSA: gizarte ekonomia finantzatuko du eta honako hauek…",
+   "eu_auto": true,
+   "org_eu": "Kanpo Politikako Tresnen Zerbitzua (FPI)",
    "slug": "fondo-de-emprendimiento-social-para-la-ribera-sur-en-el-marc-c47f8d"
   },
   {
@@ -797,6 +701,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260616liehiatulgenfertilizante/web01-s1leheki/es/",
    "resumen": "POLÍTICA AGRÍCOLA COMÚN DE LA UE Y FEADER, Fondo Europeo Agrícola de Desarrollo Rural. El Gobierno Vasco moviliza de la mano de estos instrumentos de la UE las ayudas Lehiatu Inversión para la productividad del sector primario, otras para regímenes de calidad alimentarios, y la Comisión Europea canalizará fondos extra en estas mismas vías debido a la crisis de suministros y costes como los de fertilizantes",
    "title_full": "POLÍTICA AGRÍCOLA COMÚN DE LA UE Y FEADER, Fondo Europeo Agrícola de Desarrollo Rural. El Gobierno Vasco moviliza de la mano de estos instrumentos de la UE las ayudas Lehiatu Inversión para la productividad del sector primario, otras para regímenes de calidad alimentarios, y la Comisión Europea canalizará fondos extra en estas mismas vías debido a la crisis de suministros y costes como los de fertilizantes",
+   "title_eu": "EBko Nekazaritza Politika Bateratua eta FEADER, Landa Garapenerako Europako Nekazaritza Funtsa. Euskadiko Gobernuak baliabideak…",
+   "eu_auto": true,
+   "org_eu": "Nekazaritza eta Landa Garapena (AGRI)",
    "slug": "politica-agricola-comun-de-la-ue-y-feader-fondo-europeo-agri-72ebf2"
   },
   {
@@ -810,6 +717,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260616luzaroeibinvesteuom/web01-s1leheki/es/",
    "resumen": "BEI, Banco Europeo de Inversiones, reforzará sus apoyos a pymes  en Euskadi (de la mano del ente Luzaro ligado al Instituto Vasco de Finanzas) y prioridades estratégicas de la UE, de la mano del presupuesto 2028-34 de la Comisión Europea, el Fondo de Competitividad, el programa InvestEU, el Reglamento Omnibus 2 y otros instrumentos",
    "title_full": "BEI, Banco Europeo de Inversiones, reforzará sus apoyos a pymes  en Euskadi (de la mano del ente Luzaro ligado al Instituto Vasco de Finanzas) y prioridades estratégicas de la UE, de la mano del presupuesto 2028-34 de la Comisión Europea, el Fondo de Competitividad, el programa InvestEU, el Reglamento Omnibus 2 y otros instrumentos",
+   "title_eu": "Europako Inbertsio Bankuak (BEI) ETEei ematen dien laguntza indartuko du EAEn (Euskal Inbertsio Institutuari lotutako Luzaro erakundearen…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "bei-banco-europeo-de-inversiones-reforzara-sus-apoyos-a-pyme-b395ae"
   },
   {
@@ -823,6 +733,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260622defentsazkolaguntza/web01-s1leheki/es/",
    "resumen": "SEGURIDAD Y PREPARACIÓN. La UE lanza nuevas ayudas para I+D+i y tecnologías de doble uso (civil y de defensa), ligadas a sus instrumentos SAFE, EIC, STEP Defence Scaleup, al ómnibus de agilización legislativa, Horizon, ReArm-Readiness 2030, y las colaboraciones con Canadá o Ucrania. Abarcan temas de IA, cuántica, materiales, robótica, o escudos contra misiles y drones, entre otros.",
    "title_full": "SEGURIDAD Y PREPARACIÓN. La UE lanza nuevas ayudas para I+D+i y tecnologías de doble uso (civil y de defensa), ligadas a sus instrumentos SAFE, EIC, STEP Defence Scaleup, al ómnibus de agilización legislativa, Horizon, ReArm-Readiness 2030, y las colaboraciones con Canadá o Ucrania. Abarcan temas de IA, cuántica, materiales, robótica, o escudos contra misiles y drones, entre otros.",
+   "title_eu": "SEGURTASUNA ETA PRESTAKETA. EBk I+G+B eta erabilera bikoitzeko teknologietarako (zibila eta defentsa) laguntza berriak abiarazi ditu, bere…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "seguridad-y-preparacion-la-ue-lanza-nuevas-ayudas-para-i-d-i-fbde8d"
   },
   {
@@ -836,6 +749,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260622urjauzikopartzuergo/web01-s1leheki/es/",
    "resumen": "I+D+i. El mecanismo de financiación en cascada para la accesibilidad de pymes a consorcios de innovación apoyados por la Comisión Europea ha vuelto a ser difundido por EEN Basque, nodo vasco de la red de empresa europea European Enterprise Network,y se han anunciado varias convocatorias próximas para varias líneas de I+D+i, estratégicas para la UE",
    "title_full": "I+D+i. El mecanismo de financiación en cascada para la accesibilidad de pymes a consorcios de innovación apoyados por la Comisión Europea ha vuelto a ser difundido por EEN Basque, nodo vasco de la red de empresa europea European Enterprise Network,y se han anunciado varias convocatorias próximas para varias líneas de I+D+i, estratégicas para la UE",
+   "title_eu": "I+G+B. ETEek Europako Batzordeak babestutako berrikuntza-partzuergoetara sartzeko kaskadako finantzaketa-mekanismoa…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "i-d-i-el-mecanismo-de-financiacion-en-cascada-para-la-accesi-d7f41c"
   },
   {
@@ -849,6 +765,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260623haziitekegefenfunts/web01-s1leheki/es/",
    "resumen": "HAZITEK, principal programa vasco de ayudas de I+D+i y elemento clave de la aplicación vasca del Fondo Europeo de Desarrollo Regional, ha sido destacado por el Gobierno Vasco y SPRI por los incrementos de sus presupuestos y número de ayudas y consorcios apoyados",
    "title_full": "HAZITEK, principal programa vasco de ayudas de I+D+i y elemento clave de la aplicación vasca del Fondo Europeo de Desarrollo Regional, ha sido destacado por el Gobierno Vasco y SPRI por los incrementos de sus presupuestos y número de ayudas y consorcios apoyados",
+   "title_eu": "HAZITEK, I+G+B laguntzarako EAEko programa nagusia eta Europako Eskualde Garapenerako Funtsaren EAEko aplikazioaren elementu gakoa,…",
+   "eu_auto": true,
+   "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "hazitek-principal-programa-vasco-de-ayudas-de-i-d-i-y-elemen-c8727a"
   },
   {
@@ -862,6 +781,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260706defentsaproiektutaf/web01-s1leheki/es/",
    "resumen": "EDIP, Programa Europeo de la Industria de Defensa, y el Fondo Europeo de Competitividad cofinanciarán los EDPCI o  Proyectos Europeos de Defensa de Interés Común, en prioridades comunes de la UE y la OTAN como drones, misiles y ámbitos aéreo, oceánico y espacial",
    "title_full": "EDIP, Programa Europeo de la Industria de Defensa, y el Fondo Europeo de Competitividad cofinanciarán los EDPCI o  Proyectos Europeos de Defensa de Interés Común, en prioridades comunes de la UE y la OTAN como drones, misiles y ámbitos aéreo, oceánico y espacial",
+   "title_eu": "EDIPek, Europako Defentsa Industriaren Programak eta Europako Lehiakortasun Funtsak EDPCI edo Europako Defentsa Industriaren Proiektuak…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "edip-programa-europeo-de-la-industria-de-defensa-y-el-fondo-8687dd"
   },
   {
@@ -875,6 +797,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/260803ongarrietarakolgenf/web01-s1leheki/es/",
    "resumen": "FERTILIZANTES: el FEADER, Fondo Europeo Agrícola de Desarrollo Rural, es uno de los recursos con los que se canalizan varias nuevas medidas de ayuda al sector agrario debido a los altos costes de este consumo esencial",
    "title_full": "FERTILIZANTES: el FEADER, Fondo Europeo Agrícola de Desarrollo Rural, es uno de los recursos con los que se canalizan varias nuevas medidas de ayuda al sector agrario debido a los altos costes de este consumo esencial",
+   "title_eu": "ONGARRIAK: FEADER, Landa Garapenerako Europako Nekazaritza Funtsa, hainbat neurri berri bideratzen diren baliabideetako bat da.…",
+   "eu_auto": true,
+   "org_eu": "Nekazaritza eta Landa Garapena (AGRI)",
    "slug": "fertilizantes-el-feader-fondo-europeo-agricola-de-desarrollo-e655fc"
   },
   {
@@ -888,6 +813,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/26saferenmaileguen2errond/web01-s1leheki/es/",
    "resumen": "SAFE. Acción de Seguridad para Europa. La UE impulsa una segunda ronda de préstamos para desarrollos industriales en defensa, para los Estados miembros, que pueden colaborar en ello con Ucrania. Se enmarca en laAgenda de Preparación 2030. También se están iniciando los primeros nodos tecnológicos sobre drones y los primeros Proyectos Europeos de Defensa de Interés Común en colaboración con la Organización del Tratado del Atlántico Norte, OTAN.",
    "title_full": "SAFE. Acción de Seguridad para Europa. La UE impulsa una segunda ronda de préstamos para desarrollos industriales en defensa, para los Estados miembros, que pueden colaborar en ello con Ucrania. Se enmarca en laAgenda de Preparación 2030. También se están iniciando los primeros nodos tecnológicos sobre drones y los primeros Proyectos Europeos de Defensa de Interés Común en colaboración con la Organización del Tratado del Atlántico Norte, OTAN.",
+   "title_eu": "SEGURUA. Segurtasun Ekintza Europarentzat. EBk defentsaren industria-garapenetarako bigarren mailegu-txanda bat sustatzen ari da,…",
+   "eu_auto": true,
+   "org_eu": "Kanpo Politikako Tresnen Zerbitzua (FPI)",
    "slug": "safe-accion-de-seguridad-para-europa-la-ue-impulsa-una-segun-2d6ce5"
   },
   {
@@ -914,6 +842,9 @@
    ],
    "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV)",
    "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA)",
+   "title_eu": "Alokairuaren sustapena. Babestutako ekintzak (Noizbait alokairuaren sustapenerako laguntza jaso duten ekintzak)…",
+   "eu_auto": true,
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-actuaciones-protegidas-actuaciones-que-s-21de85"
   },
   {
@@ -927,6 +858,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/arrantzataakuikulturarene/web01-s1leheki/es/",
    "resumen": "FEMPA. Fondo Europeo Marítimo de Pesca y Acuicultura. La UE augura financiación más ágil para reposición de motores de buques más ecológicos, para sucesión generacional y de negocios, para recortes inesperados de cuotas de pesca, para la pesca de pequeña escala, para las amortizaciones definitivas de partes de la flota, para zonas afectadas por limitaciones y protecciones ecológicas, o para tecnologías de seguridad, y prevenir toda ayuda a pesquerías no reguladas o no asociadas a nivel regional",
    "title_full": "FEMPA. Fondo Europeo Marítimo de Pesca y Acuicultura. La UE augura financiación más ágil para reposición de motores de buques más ecológicos, para sucesión generacional y de negocios, para recortes inesperados de cuotas de pesca, para la pesca de pequeña escala, para las amortizaciones definitivas de partes de la flota, para zonas afectadas por limitaciones y protecciones ecológicas, o para tecnologías de seguridad, y prevenir toda ayuda a pesquerías no reguladas o no asociadas a nivel regional",
+   "title_eu": "FEMPA. Arrantza eta Akuikulturarako Europako Itsas Funtsa. EBk itsasontzi gehiagotan motorrak ordezkatzeko finantzaketa azkarragoa…",
+   "eu_auto": true,
+   "org_eu": "Itsas Gaietarako eta Arrantzarako Saila (MARE)",
    "slug": "fempa-fondo-europeo-maritimo-de-pesca-y-acuicultura-la-ue-au-cb8962"
   },
   {
@@ -954,6 +888,9 @@
    ],
    "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
    "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa",
+   "title_eu": "Alokairuko etxebizitzen sustapena. Diruz lagundutako etxebizitzak sustatzeko laguntzak.",
+   "eu_auto": true,
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-ayudas-a-la-promocion-de-alojamientos-do-7cecca"
   },
   {
@@ -965,6 +902,9 @@
    "start": "2022-01-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2022/fomento-al-alquiler-ayudas-a-la-rehabilitacion-y-puesta-en-arrendamiento-de-viviendas-de-protecion-publica-en-medios-rurales/web01-a2etxebi/es/",
+   "title_eu": "Alokairuaren Sustapena. Landa eremuetan etxebizitza publiko subentzionatuak birgaitzeko eta alokairurako laguntzak",
+   "eu_auto": true,
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-ayudas-a-la-rehabilitacion-y-puesta-en-a-6940f9"
   },
   {
@@ -976,6 +916,9 @@
    "start": "2022-01-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2022/fomento-al-alquiler-ayudas-para-adquisicion-de-vivienda-para-su-puesta-en-arrendamiento-protegido/web01-a2etxebi/es/",
+   "title_eu": "Alokairuko etxebizitzen sustapena. Diruz lagundutako alokairurako etxebizitza eskuratzeko laguntzak.",
+   "eu_auto": true,
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-ayudas-para-adquisicion-de-vivienda-para-4f0faf"
   },
   {
@@ -987,6 +930,8 @@
    "start": "2026-03-03",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda_victimas_violencia_sexual/web01-a2gizar/es/",
+   "title_eu": "Sexu-indarkeriaren biktima diren emakumeentzako laguntza ekonomikoa",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayuda-economica-a-las-mujeres-victimas-de-violencia-sexual-28f3e7"
   },
@@ -999,6 +944,9 @@
    "start": "2026-03-31",
    "end": "2026-12-31",
    "url": "https://www.elankidetza.euskadi.eus/ayuda_subvencion/2026/ah_pre_2026/webela01-hasiera/es/",
+   "title_eu": "2026ko ekintza humanitarioko proiektuetarako laguntza-deialdia (PRE)",
+   "eu_auto": true,
+   "org_eu": "eLankidetza-Lankidetza eta Elkartasunerako EAEko Agentzia",
    "slug": "convocatoria-ayudas-a-proyectos-de-accion-humanitaria-2026-p-6427c7"
   },
   {
@@ -1010,6 +958,8 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/concm-2026/weblan00-content/es/",
+   "title_eu": "2026an lan-bizitza orekatzeko enplegu-pizgarriak",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-a-la-contratacion-para-la-conciliacion-2026-90759e"
   },
@@ -1024,6 +974,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2025/eve-programa-estudios-auditorias-sostenibilidad-energetica-administracion-local/web01-a2energi/es/",
    "resumen": "EVE - Programa de ayudas a la realización de estudios y auditorías para la mejora de la sostenibilidad energética de la administración pública local de Euskadi",
    "title_full": "EVE - Programa de ayudas a la realización de estudios y auditorías para la mejora de la sostenibilidad energética de la administración pública local de Euskadi",
+   "title_eu": "EVE - Administrazioaren energia-iraunkortasuna hobetzeko azterketak eta auditoriak egiteko laguntza-programa…",
+   "eu_auto": true,
    "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
    "slug": "eve-programa-de-ayudas-a-la-realizacion-de-estudios-y-audito-6dc977"
   },
@@ -1038,6 +990,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/bioaniztasunfundaziohirin/web01-s1leheki/es/",
    "resumen": "MEDIO AMBIENTE URBANO Y FEDER. Ayudas mediante el Fondo Europeo de Desarrollo Regional y la Fundación Biodiversidad, en favor de la renaturalización urbana, infraestructura verde, conectividad de espacios verdes y azules, biodiversidad, adaptación al cambio climático, biorrefugios, habitabilidad de entornos urbanos, priorizando los de vulnerabilidad social, económica y ambiental. 2,5 millones para Euskadi, en convocatoria abierta hasta el 29.10.26",
    "title_full": "MEDIO AMBIENTE URBANO Y FEDER. Ayudas mediante el Fondo Europeo de Desarrollo Regional y la Fundación Biodiversidad, en favor de la renaturalización urbana, infraestructura verde, conectividad de espacios verdes y azules, biodiversidad, adaptación al cambio climático, biorrefugios, habitabilidad de entornos urbanos, priorizando los de vulnerabilidad social, económica y ambiental. 2,5 millones para Euskadi, en convocatoria abierta hasta el 29.10.26",
+   "title_eu": "HIRIGUNEA ETA EGEF. Eskualde Garapenerako Europako Funtsaren eta Biodibertsitate Fundazioaren bidezko laguntza, honako hauen alde…",
+   "eu_auto": true,
+   "org_eu": "Ingurumena (ENV)",
    "slug": "medio-ambiente-urbano-y-feder-ayudas-mediante-el-fondo-europ-f75bbc"
   },
   {
@@ -1049,6 +1004,8 @@
    "start": "2026-03-31",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/bono-social-termico-2025/web01-a2gizar/es/",
+   "title_eu": "2025eko Gizarte Bonus Termikoa",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "bono-social-termico-2025-d0489a"
   },
@@ -1063,6 +1020,9 @@
    "url": "https://www.euskadi.eus/servicios/1071707/web01-a2etxebi/es/",
    "resumen": "Fomento al alquiler. Ayudas a la promoción de viviendas colaborativas tanto de protección pública como de viviendas libres. Programa COHOUSING.",
    "title_full": "Fomento al alquiler. Ayudas a la promoción de viviendas colaborativas tanto de protección pública como de viviendas libres. Programa COHOUSING.",
+   "title_eu": "Alokairuko etxebizitzen sustapena. Etxebizitza partekatuak garatzeko diru-laguntzak, bai publikoki subentzionatuak bai jabetza pribatukoak…",
+   "eu_auto": true,
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-ayudas-a-la-promocion-de-viviendas-colab-682eac"
   },
   {
@@ -1076,6 +1036,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/connecneb26tacocreateneb/web01-s1leheki/es/",
    "resumen": "Connect NEB y Co-create NEB. En favor de la transformación urbana y comunitaria participativa, y bajo los criterios de la gran iniciativa creativa y sostenible Nueva Bauhaus Europea de la UE (NEB), la \"comunidad NEB\" del Instituto Europeo de Innovación y Tecnología (EIT) ha lanzado dos nuevas convocatorias de estos programas.",
    "title_full": "Connect NEB y Co-create NEB. En favor de la transformación urbana y comunitaria participativa, y bajo los criterios de la gran iniciativa creativa y sostenible Nueva Bauhaus Europea de la UE (NEB), la \"comunidad NEB\" del Instituto Europeo de Innovación y Tecnología (EIT) ha lanzado dos nuevas convocatorias de estos programas.",
+   "title_eu": "Konektatu NEB eta sortu NEB elkarrekin. Hiri eta komunitate eraldaketa parte-hartzailearen alde, eta ekimen nagusiaren irizpideen arabera.…",
+   "eu_auto": true,
    "org_eu": "Enplegua, Gizarte Gaiak eta Inklusioa (ENPL)",
    "slug": "connect-neb-y-co-create-neb-en-favor-de-la-transformacion-ur-ad9016"
   },
@@ -1090,6 +1052,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/deskcreativemediadeialdia/web01-s1leheki/es/",
    "resumen": "Programa Europa Creativa. Apartado MEDIA para sectores audiovisuales. La Agencia Ejecutiva Europea de Educación y Cultura EACEA convoca sesiones informativas virtuales del 12 al 15.10.26 sobre sus nuevas convocatorias para contenidos de televisión e internet, distribución y ventas de filmes, conjuntos de obras demostrativas o slates",
    "title_full": "Programa Europa Creativa. Apartado MEDIA para sectores audiovisuales. La Agencia Ejecutiva Europea de Educación y Cultura EACEA convoca sesiones informativas virtuales del 12 al 15.10.26 sobre sus nuevas convocatorias para contenidos de televisión e internet, distribución y ventas de filmes, conjuntos de obras demostrativas o slates",
+   "title_eu": "Europa Sortzailea Programa. MEDIA atala ikus-entzunezko sektoreentzat. Hezkuntza eta Kulturarako Europako Agentzia Exekutiboak (EACEA)…",
+   "eu_auto": true,
    "org_eu": "Hezkuntza eta Kultura (EAC)",
    "slug": "programa-europa-creativa-apartado-media-para-sectores-audiov-c42876"
   },
@@ -1102,6 +1066,8 @@
    "start": "2026-10-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/comunicacion-previs-digitalizacion-2027/web01-a2nekaza/es/",
+   "title_eu": "Aurretiazko komunikazioa - Digitalizazioa 2027",
+   "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "comunicacion-previa-digitalizacion-2027-54553a"
   },
@@ -1132,6 +1098,8 @@
    ],
    "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)",
    "fuente_eu": "Lanbide / euskadi.eus (2026ko fitxa eta 152/2023 Dekretuaren FAQ)",
+   "title_eu": "Desgaitasuna duten pertsonen enplegua sustatzeko laguntza ohiko lan-merkatuan 2026an",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-al-fomento-del-empleo-de-personas-con-discapacidad-en-0a48e2"
   },
@@ -1146,6 +1114,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/edip26edpciproiektuak/web01-s1leheki/es/",
    "resumen": "EDIP, Programa de la Industria Europea de la Defensa. Primeras aprobaciones de EDPCI o Proyectos Europeos de Defensa de Interés Común, de I+d+I cooperativa entre Estados, incluida Ucrania en 4 de los 5, sobre drones y sistemas antidrones, defensa marítima y del lecho marino, espacio, defensa aérea y antimisiles, y refuerzo de  seguridad del flanco oriental de la UE. Se prevén nuevas aprobaciones y que en el próximo Marco Financiero Plurianual 2028-34 se prevé que puedan recibir recursos del Fondo Europeo de Competitividad.",
    "title_full": "EDIP, Programa de la Industria Europea de la Defensa. Primeras aprobaciones de EDPCI o Proyectos Europeos de Defensa de Interés Común, de I+d+I cooperativa entre Estados, incluida Ucrania en 4 de los 5, sobre drones y sistemas antidrones, defensa marítima y del lecho marino, espacio, defensa aérea y antimisiles, y refuerzo de  seguridad del flanco oriental de la UE. Se prevén nuevas aprobaciones y que en el próximo Marco Financiero Plurianual 2028-34 se prevé que puedan recibir recursos del Fondo Europeo de Competitividad.",
+   "title_eu": "EDIP, Europako Defentsa Industriaren Programa. EDPCI edo Interes Komuneko Europako Defentsa Proiektuen lehen onarpenak…",
+   "eu_auto": true,
    "org_eu": "Europako Batasuna.",
    "slug": "edip-programa-de-la-industria-europea-de-la-defensa-primeras-75f634"
   },
@@ -1160,6 +1130,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/edipagileasap2026/web01-s1leheki/es/",
    "resumen": "DEFENSA. La UE está convocando varias ayudas con los programas AGILE (que apoya a pymes y empresas emergentes) y EDIP (de Inversión en Defensa, en su apartado de Refuerzo de la Acción Industrial).",
    "title_full": "DEFENSA. La UE está convocando varias ayudas con los programas AGILE (que apoya a pymes y empresas emergentes) y EDIP (de Inversión en Defensa, en su apartado de Refuerzo de la Acción Industrial).",
+   "title_eu": "DEFENTSA. EBk hainbat laguntza-programa abiarazten ari da AGILE programaren (ETEei eta startup-ei laguntzen diena) eta EDIP programaren…",
+   "eu_auto": true,
+   "org_eu": "Kanpo Politikako Tresnen Zerbitzua (FPI)",
    "slug": "defensa-la-ue-esta-convocando-varias-ayudas-con-los-programa-6a5a22"
   },
   {
@@ -1173,6 +1146,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eiaaffuntsaarrantzagarape/web01-s1leheki/es/",
    "resumen": "PESCA. El FEMPA, Fondo Europeo Marítimo, de Pesca y de Acuicultura, cubre el 70% de la ayuda que el Gobierno Vasco ha destinado (2,1 millones) para la diversificación y el empleo en las zonas pesqueras de Euskadi, mediante una convocatoria, que apoyará inversiones empresariales, creación de empleo y proyectos de interés colectivo vinculados a la economía azul",
    "title_full": "PESCA. El FEMPA, Fondo Europeo Marítimo, de Pesca y de Acuicultura, cubre el 70% de la ayuda que el Gobierno Vasco ha destinado (2,1 millones) para la diversificación y el empleo en las zonas pesqueras de Euskadi, mediante una convocatoria, que apoyará inversiones empresariales, creación de empleo y proyectos de interés colectivo vinculados a la economía azul",
+   "title_eu": "ARRANTZA. EMFFk, Europako Itsas, Arrantza eta Akuikultura Funtsak, Euzko Gobernuak esleitu duen laguntzaren % 70 estaltzen du (2,1…",
+   "eu_auto": true,
+   "org_eu": "Itsas Gaietarako eta Arrantzarako Saila (MARE)",
    "slug": "pesca-el-fempa-fondo-europeo-maritimo-de-pesca-y-de-acuicult-97edc3"
   },
   {
@@ -1200,6 +1176,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ercstartingrantssynergyad/web01-s1leheki/es/",
    "resumen": "ERC, Becas de Iniciación del Consejo Europeo de Investigación ERC, en el marco del Programa de I+D+i de la UE, Horizon. La convocatoria de 2027 contará con 594 millones de euros, previendo financiar a cerca de 1 de cada 20 solicitudes. Estas han aumentado, como las concesiones, también en las becas avanzadas, en las de sinergia y en las postdoctorales MSCA (Acciones Marie Sklodowska Curie)",
    "title_full": "ERC, Becas de Iniciación del Consejo Europeo de Investigación ERC, en el marco del Programa de I+D+i de la UE, Horizon. La convocatoria de 2027 contará con 594 millones de euros, previendo financiar a cerca de 1 de cada 20 solicitudes. Estas han aumentado, como las concesiones, también en las becas avanzadas, en las de sinergia y en las postdoctorales MSCA (Acciones Marie Sklodowska Curie)",
+   "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "erc-becas-de-iniciacion-del-consejo-europeo-de-investigacion-b08623"
   },
   {
@@ -1213,6 +1190,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/esabicstartupetarakodeial/web01-s1leheki/es/",
    "resumen": "ESPACIO E I+D+I. ESA BIC Euskadi (Centro de Incubación de Negocios de Euskadi ligado a la Agencia Espacial Europea) abre desde el 26.10.26 un programa de acompañamiento para startups, empresas emergentes, que desarrollen aplicaciones espaciales (inteligencia artificial, sensores, telecomunicaciones, robótica, fabricación avanzada...)",
    "title_full": "ESPACIO E I+D+I. ESA BIC Euskadi (Centro de Incubación de Negocios de Euskadi ligado a la Agencia Espacial Europea) abre desde el 26.10.26 un programa de acompañamiento para startups, empresas emergentes, que desarrollen aplicaciones espaciales (inteligencia artificial, sensores, telecomunicaciones, robótica, fabricación avanzada...)",
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "espacio-e-i-d-i-esa-bic-euskadi-centro-de-incubacion-de-nego-94a36b"
   },
   {
@@ -1226,6 +1204,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/europasortzaileaetaagora2/web01-s1leheki/es/",
    "resumen": "Europa Creativa. Ayudas a periodismo colaborativo y a su pluralismo democrático, a la alfabetización frente a la desinformación, y a la protección de la libertad de prensa, ligadas al Escudo Europeo de la Democracia y su Programa de Resliencia de los Medios. Desde 2028 se reforzarán estas convocatorias en el nuevo programa AgoraEU. El plazo de las 3 ayudas se abre el 22.10.26.",
    "title_full": "Europa Creativa. Ayudas a periodismo colaborativo y a su pluralismo democrático, a la alfabetización frente a la desinformación, y a la protección de la libertad de prensa, ligadas al Escudo Europeo de la Democracia y su Programa de Resliencia de los Medios. Desde 2028 se reforzarán estas convocatorias en el nuevo programa AgoraEU. El plazo de las 3 ayudas se abre el 22.10.26.",
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "europa-creativa-ayudas-a-periodismo-colaborativo-y-a-su-plur-390139"
   },
   {
@@ -1262,6 +1241,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/herainvesteu4health/web01-s1leheki/es/",
    "resumen": "HERA Invest es una iniciativa de inversiones de HERA, la Autoridad de Preparación y Respuesta para Emergencias Sanitarias de la Comisión Europea. De la mano del Banco Europeo de Inversiones, se basa en financiación del programa EU4Health o Europa para la Salud y de InvestEU, enfocado en pymes.",
    "title_full": "HERA Invest es una iniciativa de inversiones de HERA, la Autoridad de Preparación y Respuesta para Emergencias Sanitarias de la Comisión Europea. De la mano del Banco Europeo de Inversiones, se basa en financiación del programa EU4Health o Europa para la Salud y de InvestEU, enfocado en pymes.",
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "hera-invest-es-una-iniciativa-de-inversiones-de-hera-la-auto-e3ca2e"
   },
   {
@@ -1315,6 +1295,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/horizonetaespaziorakogehi/web01-s1leheki/es/",
    "resumen": "CIENCIA E I+D: el Gobierno Vasco lanza unas nuevas ayudas por 3,6 millones de 2026 a 2028 para la producción investigativa de excelencia y la atracción de talento, la conexión de las universidades vascas con el  Espacio Europeo de Investigación y con consorcios de cara a Programas de la UE como Horizon",
    "title_full": "CIENCIA E I+D: el Gobierno Vasco lanza unas nuevas ayudas por 3,6 millones de 2026 a 2028 para la producción investigativa de excelencia y la atracción de talento, la conexión de las universidades vascas con el  Espacio Europeo de Investigación y con consorcios de cara a Programas de la UE como Horizon",
+   "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "ciencia-e-i-d-el-gobierno-vasco-lanza-unas-nuevas-ayudas-por-f5780d"
   },
   {
@@ -1328,6 +1309,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/horizonzeharkakodeialdiak/web01-s1leheki/es/",
    "resumen": "HORIZON. El gran Programa de I+D+i de la UE lanza convocatorias transversales ligadas a multitud de líneas innovadoras, que atañen a inteligencia artificial y digitalización, energía y descarbonización, industria, biodiversidad, océanos, varios retos ambientales, sector audiovisual, vehículos inteligentes, a la iniciativa creativa y sostenible Bauhaus, a su academia, al sector de la construcción, y a objetivos transversales como la atracción de talento, las infraestructuras científicas o la sinergia con el Fondo de Competitividad",
    "title_full": "HORIZON. El gran Programa de I+D+i de la UE lanza convocatorias transversales ligadas a multitud de líneas innovadoras, que atañen a inteligencia artificial y digitalización, energía y descarbonización, industria, biodiversidad, océanos, varios retos ambientales, sector audiovisual, vehículos inteligentes, a la iniciativa creativa y sostenible Bauhaus, a su academia, al sector de la construcción, y a objetivos transversales como la atracción de talento, las infraestructuras científicas o la sinergia con el Fondo de Competitividad",
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "horizon-el-gran-programa-de-i-d-i-de-la-ue-lanza-convocatori-a4b476"
   },
   {
@@ -1341,6 +1323,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ikerketagauaunibertsitate/web01-s1leheki/es/",
    "resumen": "La Noche Europea de los Investigadores y la iniciativa Investigadores en las escuelas son proyectos financiados por las Acciones Marie Sklodowska-Curie (MSCA), que forman parte de Horizon, el Programa de la UE para la investigación y la innovación. Para los años 2026 y 2027, la Comisión Europea apoyará 49 proyectos con una financiación de 16,3 millones de euros",
    "title_full": "La Noche Europea de los Investigadores y la iniciativa Investigadores en las escuelas son proyectos financiados por las Acciones Marie Sklodowska-Curie (MSCA), que forman parte de Horizon, el Programa de la UE para la investigación y la innovación. Para los años 2026 y 2027, la Comisión Europea apoyará 49 proyectos con una financiación de 16,3 millones de euros",
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "la-noche-europea-de-los-investigadores-y-la-iniciativa-inves-3eef79"
   },
   {
@@ -1380,6 +1363,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/lgenfnbeerein2026laguntza/web01-s1leheki/es/",
    "resumen": "FEADER, Fondo Europeo Agrícola y de Desarrollo Rural, en el marco de la Política Agraria Común de la UE, cofinancian con el Gobierno Vasco las ayudas EREIN para equipamientos y servicios que impulsen el ámbito rural",
    "title_full": "FEADER, Fondo Europeo Agrícola y de Desarrollo Rural, en el marco de la Política Agraria Común de la UE, cofinancian con el Gobierno Vasco las ayudas EREIN para equipamientos y servicios que impulsen el ámbito rural",
+   "org_eu": "Nekazaritza eta Landa Garapena (AGRI)",
    "slug": "feader-fondo-europeo-agricola-y-de-desarrollo-rural-en-el-ma-326867"
   },
   {
@@ -1393,6 +1377,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/lifeproiektuakihobe2026/web01-s1leheki/es/",
    "resumen": "LIFE. El mayor programa ambiental de la UE seguirá financiando proyectos para los que tiene presupuesto en 2026 y 2027, como los 135 recién anunciados, entre los que hay varios de Euskadi, en su mayoría gestionados por la agencia IHOBE, y que versan sobre gobernanza ambiental de pymes, asesoría sobre el impacto del clima en la ría de Bilbao, circularización de metales y materiales residuales, o gestión de datos de edificios rehabilitables",
    "title_full": "LIFE. El mayor programa ambiental de la UE seguirá financiando proyectos para los que tiene presupuesto en 2026 y 2027, como los 135 recién anunciados, entre los que hay varios de Euskadi, en su mayoría gestionados por la agencia IHOBE, y que versan sobre gobernanza ambiental de pymes, asesoría sobre el impacto del clima en la ría de Bilbao, circularización de metales y materiales residuales, o gestión de datos de edificios rehabilitables",
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "life-el-mayor-programa-ambiental-de-la-ue-seguira-financiand-f8181b"
   },
   {
@@ -1434,6 +1419,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/nbefenlaguntzaabeltzaintz/web01-s1leheki/es/",
    "resumen": "FEAGA, FONDO EUROPEO DE GARANTÍA AGRARIA aporta 394.615 euros dentro de una ayuda de 565.056 euros al sector del vacuno de leche por el incremento de los costes de combustibles y fertilizantes, dentro de un paquete vasco de 5,95 millones para agricultura, ganadería y pesca",
    "title_full": "FEAGA, FONDO EUROPEO DE GARANTÍA AGRARIA aporta 394.615 euros dentro de una ayuda de 565.056 euros al sector del vacuno de leche por el incremento de los costes de combustibles y fertilizantes, dentro de un paquete vasco de 5,95 millones para agricultura, ganadería y pesca",
+   "org_eu": "Nekazaritza eta Landa Garapena (AGRI)",
    "slug": "feaga-fondo-europeo-de-garantia-agraria-aporta-394-615-euros-90b446"
   },
   {
@@ -1447,6 +1433,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/nekazalpolitikabateratula/web01-s1leheki/es/",
    "resumen": "Las ayudas directas de la Política Agraria Común de la UE tienen ya un calendario anunciado por el Gobierno Vasco, con los anticipos disponibles desde el 16.10.26  por valor de 26,7 millones de euros, y sucesivos abonos hasta junio. Existen varios apartados de sostenibilidad de rentas, de redistribución y de apoyo especial a la juventud del sector, a distintos sectores ganaderos (según especies y productos o tipo de pastoreo), ciertos productos agrícolas, actividades de siega, siembra, rotación, otras que favorecen la biodiversidad, y otras.",
    "title_full": "Las ayudas directas de la Política Agraria Común de la UE tienen ya un calendario anunciado por el Gobierno Vasco, con los anticipos disponibles desde el 16.10.26  por valor de 26,7 millones de euros, y sucesivos abonos hasta junio. Existen varios apartados de sostenibilidad de rentas, de redistribución y de apoyo especial a la juventud del sector, a distintos sectores ganaderos (según especies y productos o tipo de pastoreo), ciertos productos agrícolas, actividades de siega, siembra, rotación, otras que favorecen la biodiversidad, y otras.",
+   "org_eu": "Ingurumena (ENV)",
    "slug": "las-ayudas-directas-de-la-politica-agraria-comun-de-la-ue-ti-0cda5b"
   },
   {
@@ -1471,6 +1458,7 @@
    "start": "2023-03-23",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2023/fomento-al-alquiler-ayudas-para-la-promocion-y/o-rehabilitacion-de-viviendas-para-su-cesion-en-arrendamiento-protegido/web01-a2etxebi/es/",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-ayudas-para-la-promocion-y-o-rehabilitac-595e0c"
   },
   {
@@ -1484,6 +1472,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/resourceeutaeiblaguntzakmateri/web01-s1leheki/es/",
    "resumen": "RESourceEU apoya proyectos sobre materias primas críticas, de la mano del Banco Europeo de Inversiones y otras fuentes de la UE y estatales. Tras los últimos anuncios se llega a 93 proyectos financiados, en torno a la extracción, transformación y reciclaje, y la reducción de la dependencia comercial exterior.  Se auguran nuevas financiaciones en próximos años.",
    "title_full": "RESourceEU apoya proyectos sobre materias primas críticas, de la mano del Banco Europeo de Inversiones y otras fuentes de la UE y estatales. Tras los últimos anuncios se llega a 93 proyectos financiados, en torno a la extracción, transformación y reciclaje, y la reducción de la dependencia comercial exterior.  Se auguran nuevas financiaciones en próximos años.",
+   "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "resourceeu-apoya-proyectos-sobre-materias-primas-criticas-de-e74b2e"
   },
   {
@@ -1497,6 +1486,7 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/tmedplataformaenergiamedi/web01-s1leheki/es/",
    "resumen": "T-MED Plataforma de Inversión es un nuevo instrumento de la UE para la transición energética en la ribera sur mediterránea, con aportaciones públicas y privadas, en el marco del Pacto por el Mediterráneo, con apoyo de Fondo EFSD Plus para Desarrollo Sostenible, y con una cartera de proyectos en los países de la zona que generará oportunidades para empresas europeas.",
    "title_full": "T-MED Plataforma de Inversión es un nuevo instrumento de la UE para la transición energética en la ribera sur mediterránea, con aportaciones públicas y privadas, en el marco del Pacto por el Mediterráneo, con apoyo de Fondo EFSD Plus para Desarrollo Sostenible, y con una cartera de proyectos en los países de la zona que generará oportunidades para empresas europeas.",
+   "org_eu": "Kanpo Politikako Tresnen Zerbitzua (FPI)",
    "slug": "t-med-plataforma-de-inversion-es-un-nuevo-instrumento-de-la-02953a"
   },
   {
@@ -1574,6 +1564,7 @@
    "start": "2024-03-28",
    "end": "2030-04-02",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2024/reconocimiento-del-derecho-subjetivo-de-acceso-a-la-ocupacion-de-una-vivienda-o-alojamiento-dotacional/web01-a2etxebi/es/",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "reconocimiento-del-derecho-subjetivo-de-acceso-a-la-ocupacio-f5b0a8"
   },
   {
@@ -1604,6 +1595,7 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-a-fondo-perdido-y-prestamos-cualificados-con-subsidia-a29ab7"
   },
   {
@@ -1634,6 +1626,7 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-a-fondo-perdido-para-obras-comunitarias-de-rehabilita-484376"
   },
   {
@@ -1720,6 +1713,7 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-y-prestamos-cualificados-para-obras-comunitarias-line-712547"
   },
   {
@@ -1750,6 +1744,7 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-y-prestamos-cualificados-para-obras-particulares-line-b844b2"
   },
   {
@@ -1773,6 +1768,7 @@
    "start": "2026-10-29",
    "end": null,
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/programa-de-ayudas-alokaplus/web01-a2etxebi/es/",
+   "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "programa-de-ayudas-alokaplus-f889f4"
   },
   {
