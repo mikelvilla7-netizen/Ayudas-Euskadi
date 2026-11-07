@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:54:50+00:00",
+ "updated": "2026-11-07T05:43:42+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
   {
@@ -235,6 +235,19 @@
    "slug": "subvenciones-dirigidas-a-la-produccion-de-materiales-didacti-858dee"
   },
   {
+   "title": "Subvenciones para proyectos editoriales y audiovisuales en el ámbito de la Diáspora Vasca 2026",
+   "org": "Lehendakaritza",
+   "area": "Cultura",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-10-16",
+   "end": "2026-11-16",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/subvenciones_para_proyectos_editoriales_y_audiovisuales_en_el_ambito_de_la_diaspora-vasca-2026/web01-s1leheki/es/",
+   "title_eu": "2026ko diru-laguntzak argitalpen eta ikus-entzunezko proiektuetarako, EEEren esparruan",
+   "eu_auto": true,
+   "slug": "subvenciones-para-proyectos-editoriales-y-audiovisuales-en-e-3ddfa4"
+  },
+  {
    "title": "Ayudas a proyectos al amparo de la estrategia de desarrollo local participativo (EDLP), aprobada al grupo de acción local del sector…",
    "org": "Alimentación, Desarrollo Rural, Agricultura y Pesca",
    "area": "Agro y pesca",
@@ -377,6 +390,22 @@
    "slug": "ayudas-para-estancias-en-centros-distintos-al-de-aplicacion-ae4083"
   },
   {
+   "title": "TECNOLOGIA ESPACIAL. ESA BIC Euskadi es el programa o centro de incubación de negocios (BIC) de la Agencia Espacial Europea (ESA) en…",
+   "org": "Investigación e Innovación (RTD)",
+   "area": "Investigación e innovación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-05",
+   "end": "2026-11-27",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/esabicdeialdia2026/web01-s1leheki/es/",
+   "resumen": "TECNOLOGIA ESPACIAL. ESA BIC Euskadi es el programa o centro de incubación de negocios (BIC) de la Agencia Espacial Europea (ESA) en Euskadi. Tiene convocadas hasta el 27.11.2026 ayudas financieras y de acompañamiento especializado para empresas innovadoras dedicadas a este sector.",
+   "title_full": "TECNOLOGIA ESPACIAL. ESA BIC Euskadi es el programa o centro de incubación de negocios (BIC) de la Agencia Espacial Europea (ESA) en Euskadi. Tiene convocadas hasta el 27.11.2026 ayudas financieras y de acompañamiento especializado para empresas innovadoras dedicadas a este sector.",
+   "title_eu": "ESPAZIOKO TEKNOLOGIA. ESA BIC Euskadi Europako Espazio Agentziaren (ESA) negozio inkubazio zentroaren (BIC) programa da…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
+   "slug": "tecnologia-espacial-esa-bic-euskadi-es-el-programa-o-centro-e3c632"
+  },
+  {
    "title": "Ayudas para proyectos de empleo local- 2026",
    "org": "Lanbide - Servicio Público Vasco de Empleo",
    "area": "Empleo y formación",
@@ -389,6 +418,20 @@
    "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-para-proyectos-de-empleo-local-2026-70c506"
+  },
+  {
+   "title": "2026. Patrimonio Natural - Ayudas a entidades locales",
+   "org": "Industria, Transición Energética y Sostenibilidad",
+   "area": "Cultura",
+   "dificultad": "media",
+   "perfil": "Entidades",
+   "start": "2026-10-30",
+   "end": "2026-11-30",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/2026-patrimonio-natural-ayudas-a-entidades-locales/web01-a2inguru/es/",
+   "title_eu": "2026. Ondare Naturala - Tokiko erakundeentzako laguntzak",
+   "eu_auto": true,
+   "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
+   "slug": "2026-patrimonio-natural-ayudas-a-entidades-locales-c7039a"
   },
   {
    "title": "2026. Cambio climático - Ayudas a entidades locales",
@@ -1136,6 +1179,22 @@
    "slug": "defensa-la-ue-esta-convocando-varias-ayudas-con-los-programa-6a5a22"
   },
   {
+   "title": "El FONDO SOCIAL EUROPEO PLUS cofinancia ayudas para la Formación Profesional Dual de centros privados concertados, para 2026-2027. La FP…",
+   "org": "Educación y Cultura (EAC)",
+   "area": "Empleo y formación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-05",
+   "end": "2026-12-31",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/egifplusenlaguntzalhduala/web01-s1leheki/es/",
+   "resumen": "El FONDO SOCIAL EUROPEO PLUS cofinancia ayudas para la Formación Profesional Dual de centros privados concertados, para 2026-2027. La FP Dual combina formación en el centro educativo y trabajo remunerado en empresa. Se cubrirán las tutorías y el seguimiento del alumnado, la coordinación entre entidades, los materiales didácticos y de evaluación y los desplazamientos del profesorado. Podrán optar a ayudas los centros que impartan ciclos de grado básico, medio o superior o cursos de especialización y tengan autorizados sus programas intensivos para este curso.",
+   "title_full": "El FONDO SOCIAL EUROPEO PLUS cofinancia ayudas para la Formación Profesional Dual de centros privados concertados, para 2026-2027. La FP Dual combina formación en el centro educativo y trabajo remunerado en empresa. Se cubrirán las tutorías y el seguimiento del alumnado, la coordinación entre entidades, los materiales didácticos y de evaluación y los desplazamientos del profesorado. Podrán optar a ayudas los centros que impartan ciclos de grado básico, medio o superior o cursos de especialización y tengan autorizados sus programas intensivos para este curso.",
+   "title_eu": "Europako Gizarte Funts Plus-ek Lanbide Heziketa Dualerako laguntzak finantzatzen ditu finantzaketa publikoko zentro pribatuetan 2026-2027…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza eta Kultura (EAC)",
+   "slug": "el-fondo-social-europeo-plus-cofinancia-ayudas-para-la-forma-2d7a41"
+  },
+  {
    "title": "PESCA. El FEMPA, Fondo Europeo Marítimo, de Pesca y de Acuicultura, cubre el 70% de la ayuda que el Gobierno Vasco ha destinado (2,1…",
    "org": "Asuntos Marítimos y Pesca (MARE)",
    "area": "Agro y pesca",
@@ -1162,6 +1221,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ercstartingrants0926/web01-s1leheki/es/",
    "resumen": "CIENCIA. El Consejo Europeo de Investigación (ERC) ha anunciado 421 becas de inicio o starting grants por valor de 705 millones  para investigadores noveles, pudiendo pedir ayudas extra de la campaña Elige Europa los provenientes de fuera de la UE o del resto de países ligados al Programa Horizon de I+D+i de la UE.",
    "title_full": "CIENCIA. El Consejo Europeo de Investigación (ERC) ha anunciado 421 becas de inicio o starting grants por valor de 705 millones  para investigadores noveles, pudiendo pedir ayudas extra de la campaña Elige Europa los provenientes de fuera de la UE o del resto de países ligados al Programa Horizon de I+D+i de la UE.",
+   "title_eu": "ZIENTZIA. Europako Ikerketa Kontseiluak (ERC) 421 hasierako diru-laguntza iragarri ditu, 705 milioi euroko balioarekin…",
+   "eu_auto": true,
    "org_eu": "Hezkuntza eta Kultura (EAC)",
    "slug": "ciencia-el-consejo-europeo-de-investigacion-erc-ha-anunciado-fd1e0e"
   },
@@ -1176,6 +1237,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ercstartingrantssynergyad/web01-s1leheki/es/",
    "resumen": "ERC, Becas de Iniciación del Consejo Europeo de Investigación ERC, en el marco del Programa de I+D+i de la UE, Horizon. La convocatoria de 2027 contará con 594 millones de euros, previendo financiar a cerca de 1 de cada 20 solicitudes. Estas han aumentado, como las concesiones, también en las becas avanzadas, en las de sinergia y en las postdoctorales MSCA (Acciones Marie Sklodowska Curie)",
    "title_full": "ERC, Becas de Iniciación del Consejo Europeo de Investigación ERC, en el marco del Programa de I+D+i de la UE, Horizon. La convocatoria de 2027 contará con 594 millones de euros, previendo financiar a cerca de 1 de cada 20 solicitudes. Estas han aumentado, como las concesiones, también en las becas avanzadas, en las de sinergia y en las postdoctorales MSCA (Acciones Marie Sklodowska Curie)",
+   "title_eu": "ERC, Europako Ikerketa Kontseiluaren Hasierako Bekak, EBren Horizon I+G+B Programaren esparruan. Deialdia…",
+   "eu_auto": true,
    "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "erc-becas-de-iniciacion-del-consejo-europeo-de-investigacion-b08623"
   },
@@ -1190,6 +1253,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/esabicstartupetarakodeial/web01-s1leheki/es/",
    "resumen": "ESPACIO E I+D+I. ESA BIC Euskadi (Centro de Incubación de Negocios de Euskadi ligado a la Agencia Espacial Europea) abre desde el 26.10.26 un programa de acompañamiento para startups, empresas emergentes, que desarrollen aplicaciones espaciales (inteligencia artificial, sensores, telecomunicaciones, robótica, fabricación avanzada...)",
    "title_full": "ESPACIO E I+D+I. ESA BIC Euskadi (Centro de Incubación de Negocios de Euskadi ligado a la Agencia Espacial Europea) abre desde el 26.10.26 un programa de acompañamiento para startups, empresas emergentes, que desarrollen aplicaciones espaciales (inteligencia artificial, sensores, telecomunicaciones, robótica, fabricación avanzada...)",
+   "title_eu": "ESPAZIOA ETA I+G+B. ESA BIC Euskadi (Europako Espazio Agentziarekin lotutako Euskadiko Enpresa Inkubazio Zentroa) 2026ko urriaren 26tik…",
+   "eu_auto": true,
    "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "espacio-e-i-d-i-esa-bic-euskadi-centro-de-incubacion-de-nego-94a36b"
   },
@@ -1204,6 +1269,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/europasortzaileaetaagora2/web01-s1leheki/es/",
    "resumen": "Europa Creativa. Ayudas a periodismo colaborativo y a su pluralismo democrático, a la alfabetización frente a la desinformación, y a la protección de la libertad de prensa, ligadas al Escudo Europeo de la Democracia y su Programa de Resliencia de los Medios. Desde 2028 se reforzarán estas convocatorias en el nuevo programa AgoraEU. El plazo de las 3 ayudas se abre el 22.10.26.",
    "title_full": "Europa Creativa. Ayudas a periodismo colaborativo y a su pluralismo democrático, a la alfabetización frente a la desinformación, y a la protección de la libertad de prensa, ligadas al Escudo Europeo de la Democracia y su Programa de Resliencia de los Medios. Desde 2028 se reforzarán estas convocatorias en el nuevo programa AgoraEU. El plazo de las 3 ayudas se abre el 22.10.26.",
+   "title_eu": "Europa Sortzailea. Kazetaritza kolaboratiboaren eta haren pluralismo demokratikoaren aldeko laguntza, desinformazioaren aurkako…",
+   "eu_auto": true,
    "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "europa-creativa-ayudas-a-periodismo-colaborativo-y-a-su-plur-390139"
   },
@@ -1216,6 +1283,8 @@
    "start": "2025-05-20",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/servicios/1231402/web01-a2energi/es/",
+   "title_eu": "EEE - Industria eta hirugarren sektoreko ETEetan energia-auditoria integralak egiteko laguntza-programa.",
+   "eu_auto": true,
    "slug": "eve-programa-de-ayudas-a-la-realizacion-de-auditorias-energe-34ae48"
   },
   {
@@ -1227,6 +1296,8 @@
    "start": "2026-07-30",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/handitu-egurra-2026/web01-a2nekaza/es/",
+   "title_eu": "Aurreko komunikazioa - Handitu Egurra 2026",
+   "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "comunicacion-previa-handitu-egurra-2026-3eca19"
   },
@@ -1241,6 +1312,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/herainvesteu4health/web01-s1leheki/es/",
    "resumen": "HERA Invest es una iniciativa de inversiones de HERA, la Autoridad de Preparación y Respuesta para Emergencias Sanitarias de la Comisión Europea. De la mano del Banco Europeo de Inversiones, se basa en financiación del programa EU4Health o Europa para la Salud y de InvestEU, enfocado en pymes.",
    "title_full": "HERA Invest es una iniciativa de inversiones de HERA, la Autoridad de Preparación y Respuesta para Emergencias Sanitarias de la Comisión Europea. De la mano del Banco Europeo de Inversiones, se basa en financiación del programa EU4Health o Europa para la Salud y de InvestEU, enfocado en pymes.",
+   "title_eu": "HERA Invest HERAren, Batzordearen Osasun Larrialdietarako Prestaketa eta Erantzun Agintaritzaren, inbertsio ekimen bat da.…",
+   "eu_auto": true,
    "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "hera-invest-es-una-iniciativa-de-inversiones-de-hera-la-auto-e3ca2e"
   },
@@ -1253,6 +1326,8 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/hezibi-centros-de-formacion/weblan00-content/es/",
+   "title_eu": "HEZIBI-Prestakuntza Zentroak 2026. Gazteentzako prestakuntza eta lana txandakatzeko HEZIBI programa.",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "hezibi-centros-de-formacion-2026-programa-hezibi-de-formacio-fcfc28"
   },
@@ -1281,8 +1356,26 @@
    ],
    "fuente": "Lanbide, ficha HEZIBI-Empresas 2025 y BOPV octubre 2026",
    "fuente_eu": "Lanbide, HEZIBI-Enpresak 2025 fitxa eta EHAA 2026ko urria",
+   "title_eu": "HEZIBI-Enpresak 2026. HEZIBI programa gazteentzako prestakuntza eta lan-ikasketa programetarako",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "hezibi-empresas-2026-programa-hezibi-de-formacion-y-trabajo-f1c86a"
+  },
+  {
+   "title": "Horizon Europe. EIC, Consejo Europeo de Innovación, crea herramientas como el Fondo EIC STEP Scaleup, y anuncia mejoras en sus líneas de…",
+   "org": "Investigación e Innovación (RTD)",
+   "area": "Investigación e innovación",
+   "dificultad": "compleja",
+   "perfil": "Entidades",
+   "start": "2026-11-05",
+   "end": "2026-12-31",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/horizoneicstepscaleup26/web01-s1leheki/es/",
+   "resumen": "Horizon Europe. EIC, Consejo Europeo de Innovación, crea herramientas como el Fondo EIC STEP Scaleup, y anuncia mejoras en sus líneas de ayuda en la fase final del programa 2021-2027 de Horizon, en especial las que apoyan tecnologías profundas y estratégicas para la UE, empresas emergentes y escalables, innovaciones disruptivas, proyectos de riesgo, proyectos individuales no consorciados, e innovación a cargo de mujeres emprendedoras en sectores como la cuántica",
+   "title_full": "Horizon Europe. EIC, Consejo Europeo de Innovación, crea herramientas como el Fondo EIC STEP Scaleup, y anuncia mejoras en sus líneas de ayuda en la fase final del programa 2021-2027 de Horizon, en especial las que apoyan tecnologías profundas y estratégicas para la UE, empresas emergentes y escalables, innovaciones disruptivas, proyectos de riesgo, proyectos individuales no consorciados, e innovación a cargo de mujeres emprendedoras en sectores como la cuántica",
+   "title_eu": "Horizon Europe. EIC-k, Europako Berrikuntza Kontseiluak, EIC STEP Scaleup Fund bezalako tresnak sortzen ditu, eta bere finantzaketa-lerroen…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
+   "slug": "horizon-europe-eic-consejo-europeo-de-innovacion-crea-herram-82f5f9"
   },
   {
    "title": "CIENCIA E I+D: el Gobierno Vasco lanza unas nuevas ayudas por 3,6 millones de 2026 a 2028 para la producción investigativa de excelencia y…",
@@ -1295,6 +1388,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/horizonetaespaziorakogehi/web01-s1leheki/es/",
    "resumen": "CIENCIA E I+D: el Gobierno Vasco lanza unas nuevas ayudas por 3,6 millones de 2026 a 2028 para la producción investigativa de excelencia y la atracción de talento, la conexión de las universidades vascas con el  Espacio Europeo de Investigación y con consorcios de cara a Programas de la UE como Horizon",
    "title_full": "CIENCIA E I+D: el Gobierno Vasco lanza unas nuevas ayudas por 3,6 millones de 2026 a 2028 para la producción investigativa de excelencia y la atracción de talento, la conexión de las universidades vascas con el  Espacio Europeo de Investigación y con consorcios de cara a Programas de la UE como Horizon",
+   "title_eu": "ZIENTZIA ETA I+G: Gobernuak 3,6 milioi euroko laguntza berriak abiarazi ditu 2026tik 2028ra bikaintasuneko ikerketa-ekoizpenerako eta…",
+   "eu_auto": true,
    "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "ciencia-e-i-d-el-gobierno-vasco-lanza-unas-nuevas-ayudas-por-f5780d"
   },
@@ -1309,6 +1404,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/horizonzeharkakodeialdiak/web01-s1leheki/es/",
    "resumen": "HORIZON. El gran Programa de I+D+i de la UE lanza convocatorias transversales ligadas a multitud de líneas innovadoras, que atañen a inteligencia artificial y digitalización, energía y descarbonización, industria, biodiversidad, océanos, varios retos ambientales, sector audiovisual, vehículos inteligentes, a la iniciativa creativa y sostenible Bauhaus, a su academia, al sector de la construcción, y a objetivos transversales como la atracción de talento, las infraestructuras científicas o la sinergia con el Fondo de Competitividad",
    "title_full": "HORIZON. El gran Programa de I+D+i de la UE lanza convocatorias transversales ligadas a multitud de líneas innovadoras, que atañen a inteligencia artificial y digitalización, energía y descarbonización, industria, biodiversidad, océanos, varios retos ambientales, sector audiovisual, vehículos inteligentes, a la iniciativa creativa y sostenible Bauhaus, a su academia, al sector de la construcción, y a objetivos transversales como la atracción de talento, las infraestructuras científicas o la sinergia con el Fondo de Competitividad",
+   "title_eu": "HORIZONTEA. EBko I+G+B programa nagusiak hainbat berrikuntza-ildori lotutako zeharkako deialdiak abiarazten ditu, eta horien ingurukoak dira…",
+   "eu_auto": true,
    "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "horizon-el-gran-programa-de-i-d-i-de-la-ue-lanza-convocatori-a4b476"
   },
@@ -1323,6 +1420,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ikerketagauaunibertsitate/web01-s1leheki/es/",
    "resumen": "La Noche Europea de los Investigadores y la iniciativa Investigadores en las escuelas son proyectos financiados por las Acciones Marie Sklodowska-Curie (MSCA), que forman parte de Horizon, el Programa de la UE para la investigación y la innovación. Para los años 2026 y 2027, la Comisión Europea apoyará 49 proyectos con una financiación de 16,3 millones de euros",
    "title_full": "La Noche Europea de los Investigadores y la iniciativa Investigadores en las escuelas son proyectos financiados por las Acciones Marie Sklodowska-Curie (MSCA), que forman parte de Horizon, el Programa de la UE para la investigación y la innovación. Para los años 2026 y 2027, la Comisión Europea apoyará 49 proyectos con una financiación de 16,3 millones de euros",
+   "title_eu": "Europako Ikertzaileen Gaua eta Eskoletako Ikertzaileak ekimena Marie Actions-ek finantzatutako proiektuak dira.…",
+   "eu_auto": true,
    "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "la-noche-europea-de-los-investigadores-y-la-iniciativa-inves-3eef79"
   },
@@ -1337,6 +1436,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/isv-inversion-2027-comunicacion-previa/web01-a2nekaza/es/",
    "resumen": "ISV Inversión 2027 - Ayudas a inversiones materiales e inmateriales en instalaciones de transformación y en infraestructuras vitivinícolas, así como en estructuras e instrumentos de comercialización - Comunicación previa",
    "title_full": "ISV Inversión 2027 - Ayudas a inversiones materiales e inmateriales en instalaciones de transformación y en infraestructuras vitivinícolas, así como en estructuras e instrumentos de comercialización - Comunicación previa",
+   "title_eu": "ISV Inbertsioa 2027 - Prozesatzeko instalazioetan eta ardo azpiegituretan inbertsio ukigarri eta ukiezinetarako laguntzak…",
+   "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "isv-inversion-2027-ayudas-a-inversiones-materiales-e-inmater-a6c981"
   },
@@ -1349,6 +1450,8 @@
    "start": "2026-09-10",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/isv-promocion/web01-a2elikin/es/",
+   "title_eu": "ISV Sustapena 2027 - Ardo Sektoreko Esku-hartze programa hirugarren herrialdeetan sustatzeko eta komunikatzeko laguntzak",
+   "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "isv-promocion-2027-ayudas-a-la-promocion-y-comunicacion-en-t-e5735f"
   },
@@ -1363,6 +1466,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/lgenfnbeerein2026laguntza/web01-s1leheki/es/",
    "resumen": "FEADER, Fondo Europeo Agrícola y de Desarrollo Rural, en el marco de la Política Agraria Común de la UE, cofinancian con el Gobierno Vasco las ayudas EREIN para equipamientos y servicios que impulsen el ámbito rural",
    "title_full": "FEADER, Fondo Europeo Agrícola y de Desarrollo Rural, en el marco de la Política Agraria Común de la UE, cofinancian con el Gobierno Vasco las ayudas EREIN para equipamientos y servicios que impulsen el ámbito rural",
+   "title_eu": "Landa Garapenerako Europako Nekazaritza Funtsa (LGENF), EBko Nekazaritza Politika Bateratuaren esparruan, Euskal Gobernuak kofinantzatzen…",
+   "eu_auto": true,
    "org_eu": "Nekazaritza eta Landa Garapena (AGRI)",
    "slug": "feader-fondo-europeo-agricola-y-de-desarrollo-rural-en-el-ma-326867"
   },
@@ -1377,6 +1482,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/lifeproiektuakihobe2026/web01-s1leheki/es/",
    "resumen": "LIFE. El mayor programa ambiental de la UE seguirá financiando proyectos para los que tiene presupuesto en 2026 y 2027, como los 135 recién anunciados, entre los que hay varios de Euskadi, en su mayoría gestionados por la agencia IHOBE, y que versan sobre gobernanza ambiental de pymes, asesoría sobre el impacto del clima en la ría de Bilbao, circularización de metales y materiales residuales, o gestión de datos de edificios rehabilitables",
    "title_full": "LIFE. El mayor programa ambiental de la UE seguirá financiando proyectos para los que tiene presupuesto en 2026 y 2027, como los 135 recién anunciados, entre los que hay varios de Euskadi, en su mayoría gestionados por la agencia IHOBE, y que versan sobre gobernanza ambiental de pymes, asesoría sobre el impacto del clima en la ría de Bilbao, circularización de metales y materiales residuales, o gestión de datos de edificios rehabilitables",
+   "title_eu": "LIFE. EBko ingurumen-programarik handienak 2026an eta 2027an aurrekontua duen proiektuak finantzatzen jarraituko du, hala nola duela gutxi…",
+   "eu_auto": true,
    "org_eu": "Ikerketa eta Berrikuntza (I+G)",
    "slug": "life-el-mayor-programa-ambiental-de-la-ue-seguira-financiand-f8181b"
   },
@@ -1391,6 +1498,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/msca2026deialdiberria/web01-s1leheki/es/",
    "resumen": "CIENCIA E I+D+I. La Comisión refuerza con más de 210 millones de euros las Acciones Marie Sklodowska-Curie para apoyar a más de 700 investigadores en Europa. Más de 700 investigadores podrán desarrollar sus carreras en Europa gracias a esta financiación adicional de las Acciones Marie Sklodowska-Curie (MSCA), integrada en la iniciativa Elige Europa, destinada a atraer talento científico, investigación e innovación tecnológica",
    "title_full": "CIENCIA E I+D+I. La Comisión refuerza con más de 210 millones de euros las Acciones Marie Sklodowska-Curie para apoyar a más de 700 investigadores en Europa. Más de 700 investigadores podrán desarrollar sus carreras en Europa gracias a esta financiación adicional de las Acciones Marie Sklodowska-Curie (MSCA), integrada en la iniciativa Elige Europa, destinada a atraer talento científico, investigación e innovación tecnológica",
+   "title_eu": "ZIENTZIA ETA I+G+B. Batzordeak Marie Skłodowska-Curie Ekintzak indartzen ditu 210 milioi euro baino gehiagorekin, 700 baino gehiago…",
+   "eu_auto": true,
    "org_eu": "Europako Batasuna.",
    "slug": "ciencia-e-i-d-i-la-comision-refuerza-con-mas-de-210-millones-baa0e7"
   },
@@ -1405,6 +1514,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/mscadoktoretzaostekobeka2/web01-s1leheki/es/",
    "resumen": "MSCA. BECAS Posdoctorales de las Acciones Marie Sk?odowska-Curie. La edición de 2026 tiene 21.627 investigadores solicitantes que optan a casi 400 millones de euros. Complementan a la iniciativa \"Elige Europa para la ciencia\". Se adjudicarán en febrero de 2027.",
    "title_full": "MSCA. BECAS Posdoctorales de las Acciones Marie Sk?odowska-Curie. La edición de 2026 tiene 21.627 investigadores solicitantes que optan a casi 400 millones de euros. Complementan a la iniciativa \"Elige Europa para la ciencia\". Se adjudicarán en febrero de 2027.",
+   "title_eu": "MSCA. Marie Skłodowska-Curie Actions Doktorego Ondoko Bekak. 2026ko edizioan 21.627 ikertzaile eskatzaile daude lehian.…",
+   "eu_auto": true,
    "org_eu": "Europako Batasuna.",
    "slug": "msca-becas-posdoctorales-de-las-acciones-marie-sk-odowska-cu-8e5e53"
   },
@@ -1419,6 +1530,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/nbefenlaguntzaabeltzaintz/web01-s1leheki/es/",
    "resumen": "FEAGA, FONDO EUROPEO DE GARANTÍA AGRARIA aporta 394.615 euros dentro de una ayuda de 565.056 euros al sector del vacuno de leche por el incremento de los costes de combustibles y fertilizantes, dentro de un paquete vasco de 5,95 millones para agricultura, ganadería y pesca",
    "title_full": "FEAGA, FONDO EUROPEO DE GARANTÍA AGRARIA aporta 394.615 euros dentro de una ayuda de 565.056 euros al sector del vacuno de leche por el incremento de los costes de combustibles y fertilizantes, dentro de un paquete vasco de 5,95 millones para agricultura, ganadería y pesca",
+   "title_eu": "Europako Nekazaritza Bermatzeko Funtsak (FEUG) 394.615 euroko laguntza ematen du esne-behi sektoreari zuzendutako 565.056 euroko…",
+   "eu_auto": true,
    "org_eu": "Nekazaritza eta Landa Garapena (AGRI)",
    "slug": "feaga-fondo-europeo-de-garantia-agraria-aporta-394-615-euros-90b446"
   },
@@ -1433,6 +1546,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/nekazalpolitikabateratula/web01-s1leheki/es/",
    "resumen": "Las ayudas directas de la Política Agraria Común de la UE tienen ya un calendario anunciado por el Gobierno Vasco, con los anticipos disponibles desde el 16.10.26  por valor de 26,7 millones de euros, y sucesivos abonos hasta junio. Existen varios apartados de sostenibilidad de rentas, de redistribución y de apoyo especial a la juventud del sector, a distintos sectores ganaderos (según especies y productos o tipo de pastoreo), ciertos productos agrícolas, actividades de siega, siembra, rotación, otras que favorecen la biodiversidad, y otras.",
    "title_full": "Las ayudas directas de la Política Agraria Común de la UE tienen ya un calendario anunciado por el Gobierno Vasco, con los anticipos disponibles desde el 16.10.26  por valor de 26,7 millones de euros, y sucesivos abonos hasta junio. Existen varios apartados de sostenibilidad de rentas, de redistribución y de apoyo especial a la juventud del sector, a distintos sectores ganaderos (según especies y productos o tipo de pastoreo), ciertos productos agrícolas, actividades de siega, siembra, rotación, otras que favorecen la biodiversidad, y otras.",
+   "title_eu": "EBko Nekazaritza Politika Bateratuaren laguntza zuzenak badu orain egutegia iragarrita, aurrerakinekin batera.…",
+   "eu_auto": true,
    "org_eu": "Ingurumena (ENV)",
    "slug": "las-ayudas-directas-de-la-politica-agraria-comun-de-la-ue-ti-0cda5b"
   },
@@ -1447,6 +1562,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/osasuntagizartegintzalagu/web01-s1leheki/es/",
    "resumen": "THCS 2025, Partenariado Europeo de Transformación de Sistemas de Salud y Cuidados. El Gobierno Vasco destinará 300.000 euros a financiar la participación de agentes vascos en proyectos seleccionados en una convocatoria europea promovida por la Unión Europea dentro del Programa Marco de Innovación Horizon Europe, y centrada en acercar y fortalecer estos sistemas en el entorno comunitario",
    "title_full": "THCS 2025, Partenariado Europeo de Transformación de Sistemas de Salud y Cuidados. El Gobierno Vasco destinará 300.000 euros a financiar la participación de agentes vascos en proyectos seleccionados en una convocatoria europea promovida por la Unión Europea dentro del Programa Marco de Innovación Horizon Europe, y centrada en acercar y fortalecer estos sistemas en el entorno comunitario",
+   "title_eu": "THCS 2025, Osasun eta Arreta Sistemen Eraldaketarako Europako Lankidetza. 300.000 euro bideratuko ditu THCS 2025 finantzatzeko.…",
+   "eu_auto": true,
+   "org_eu": "Osasuna eta Kontsumitzaileak (SANCO)",
    "slug": "thcs-2025-partenariado-europeo-de-transformacion-de-sistemas-402e40"
   },
   {
@@ -1458,6 +1576,8 @@
    "start": "2023-03-23",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2023/fomento-al-alquiler-ayudas-para-la-promocion-y/o-rehabilitacion-de-viviendas-para-su-cesion-en-arrendamiento-protegido/web01-a2etxebi/es/",
+   "title_eu": "Alokairuko etxebizitzen sustapena. Diruz lagundutako alokairurako etxebizitzak sustatzeko eta/edo birgaitzeko laguntzak.",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "fomento-al-alquiler-ayudas-para-la-promocion-y-o-rehabilitac-595e0c"
   },
@@ -1472,6 +1592,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/resourceeutaeiblaguntzakmateri/web01-s1leheki/es/",
    "resumen": "RESourceEU apoya proyectos sobre materias primas críticas, de la mano del Banco Europeo de Inversiones y otras fuentes de la UE y estatales. Tras los últimos anuncios se llega a 93 proyectos financiados, en torno a la extracción, transformación y reciclaje, y la reducción de la dependencia comercial exterior.  Se auguran nuevas financiaciones en próximos años.",
    "title_full": "RESourceEU apoya proyectos sobre materias primas críticas, de la mano del Banco Europeo de Inversiones y otras fuentes de la UE y estatales. Tras los últimos anuncios se llega a 93 proyectos financiados, en torno a la extracción, transformación y reciclaje, y la reducción de la dependencia comercial exterior.  Se auguran nuevas financiaciones en próximos años.",
+   "title_eu": "RESourceEU-k lehengai kritikoei buruzko proiektuak babesten ditu, Europako Inbertsio Bankuarekin eta EBko beste iturri batzuekin…",
+   "eu_auto": true,
    "org_eu": "Enpresa eta Industria (ENTR)",
    "slug": "resourceeu-apoya-proyectos-sobre-materias-primas-criticas-de-e74b2e"
   },
@@ -1486,8 +1608,26 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/tmedplataformaenergiamedi/web01-s1leheki/es/",
    "resumen": "T-MED Plataforma de Inversión es un nuevo instrumento de la UE para la transición energética en la ribera sur mediterránea, con aportaciones públicas y privadas, en el marco del Pacto por el Mediterráneo, con apoyo de Fondo EFSD Plus para Desarrollo Sostenible, y con una cartera de proyectos en los países de la zona que generará oportunidades para empresas europeas.",
    "title_full": "T-MED Plataforma de Inversión es un nuevo instrumento de la UE para la transición energética en la ribera sur mediterránea, con aportaciones públicas y privadas, en el marco del Pacto por el Mediterráneo, con apoyo de Fondo EFSD Plus para Desarrollo Sostenible, y con una cartera de proyectos en los países de la zona que generará oportunidades para empresas europeas.",
+   "title_eu": "T-MED Inbertsio Plataforma Mediterraneo hegoaldeko energia-trantsiziorako EBren tresna berria da.…",
+   "eu_auto": true,
    "org_eu": "Kanpo Politikako Tresnen Zerbitzua (FPI)",
    "slug": "t-med-plataforma-de-inversion-es-un-nuevo-instrumento-de-la-02953a"
+  },
+  {
+   "title": "CHIPS. EuroCDP, Plataforma público-privada de inversión en diseño de chips de la UE, movilizará ayudas públicas para esta tecnología, la…",
+   "org": "Investigación e Innovación (RTD)",
+   "area": "Investigación e innovación",
+   "dificultad": "compleja",
+   "perfil": "Todos",
+   "start": "2026-11-05",
+   "end": "2026-12-31",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/txipenekimenberria2026/web01-s1leheki/es/",
+   "resumen": "CHIPS. EuroCDP, Plataforma público-privada de inversión en diseño de chips de la UE, movilizará ayudas públicas para esta tecnología, la microelectrónica y los materiales semiconductores que la sustentan. Se superpone a la Chips JU, o Empresa Conjunta de Chips de la UE y a la existente red de Centros especializados, y se vincula con la Ley de Chips revisada (2.0) dentro de la línea de acción de soberanía económica de la UE. Se primará a empresas emergentes, intercambio tecnológico y capacidad de comercialización de innovaciones.",
+   "title_full": "CHIPS. EuroCDP, Plataforma público-privada de inversión en diseño de chips de la UE, movilizará ayudas públicas para esta tecnología, la microelectrónica y los materiales semiconductores que la sustentan. Se superpone a la Chips JU, o Empresa Conjunta de Chips de la UE y a la existente red de Centros especializados, y se vincula con la Ley de Chips revisada (2.0) dentro de la línea de acción de soberanía económica de la UE. Se primará a empresas emergentes, intercambio tecnológico y capacidad de comercialización de innovaciones.",
+   "title_eu": "TXIPAK. EuroCDPk, txipen diseinurako EBko inbertsio publiko-pribatuko plataformak, finantzaketa publikoa mobilizatuko du teknologia…",
+   "eu_auto": true,
+   "org_eu": "Ikerketa eta Berrikuntza (I+G)",
+   "slug": "chips-eurocdp-plataforma-publico-privada-de-inversion-en-dis-53b2fb"
   },
   {
    "title": "Ayudas económicas a las mujeres víctimas de la violencia de género 2026",
@@ -1498,6 +1638,8 @@
    "start": "2026-01-01",
    "end": "2026-12-31",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda_victimas_violencia_genero/web01-s2enple/es/",
+   "title_eu": "Genero-indarkeriaren biktima diren emakumeentzako laguntza ekonomikoa 2026an",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-economicas-a-las-mujeres-victimas-de-la-violencia-de-96d7a5"
   },
@@ -1512,6 +1654,9 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/kohesiorakolaguntzamediat/web01-s1leheki/es/",
    "resumen": "POLÍTICA DE COHESIÓN Y SU DIFUSIÓN: la UE lanza una convocatoria de ayudas para la comunicación MEDIÁTICA, incluyendo como beneficiarios potenciales a universidades y otras entidades.",
    "title_full": "POLÍTICA DE COHESIÓN Y SU DIFUSIÓN: la UE lanza una convocatoria de ayudas para la comunicación MEDIÁTICA, incluyendo como beneficiarios potenciales a universidades y otras entidades.",
+   "title_eu": "KOHESIO POLITIKA ETA HURAREN ZABALKUNTZA: EBk komunikabideen komunikaziorako diru-laguntzen deialdi bat abiarazi du, onuradun gisa barne.…",
+   "eu_auto": true,
+   "org_eu": "Eskualdeko Politika (REGIO)",
    "slug": "politica-de-cohesion-y-su-difusion-la-ue-lanza-una-convocato-8902b3"
   },
   {
@@ -1523,6 +1668,9 @@
    "start": "2026-05-19",
    "end": "2027-06-30",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eve-programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/web01-a2energi/es/",
+   "title_eu": "EVE - Industrian energia-eraginkortasuneko ekintzetarako laguntza-programa.",
+   "eu_auto": true,
+   "org_eu": "EVE - Energiaren Euskal Agentzia",
    "slug": "eve-programa-de-ayudas-a-actuaciones-en-eficiencia-energetic-5bdb5c"
   },
   {
@@ -1536,6 +1684,8 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/morrokotudak-c/weblan00-content/es/",
    "resumen": "Convocatoria de las ayudas para financiar la formación y contratación de mujeres y hombres desempleados en ámbitos masculinizados y feminizados (morrokotudak), en el ámbito de la comunidad autónoma de euskadi para el ejercicio 2026. (financiación para los contratos de trabajo realizados).",
    "title_full": "Convocatoria de las ayudas para financiar la formación y contratación de mujeres y hombres desempleados en ámbitos masculinizados y feminizados (morrokotudak), en el ámbito de la comunidad autónoma de euskadi para el ejercicio 2026. (financiación para los contratos de trabajo realizados).",
+   "title_eu": "Gizonezkoek gehiengoa duten arloetan langabezian dauden emakume eta gizonen prestakuntza eta kontratazioa finantzatzeko diru-laguntzen…",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-las-ayudas-para-financiar-la-formacion-y-con-630490"
   },
@@ -1556,6 +1706,22 @@
    "slug": "convocatoria-de-las-ayudas-para-el-desarrollo-de-proyectos-i-b83a30"
   },
   {
+   "title": "EGUZKI HOTZ - Programa de ayudas a la generación eléctrica para autoconsumo y la electrificación de los consumos térmicos mediante energías…",
+   "org": "EVE - Ente Vasco de la Energía",
+   "area": "Vivienda y energía",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-05",
+   "end": "2028-09-29",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eguzki-hotz-programa-de-ayudas-a-la-generacion-electrica-para-autoconsumo-y-la-electrificacion-de-los-consumos-termicos-mediante-energias-renovables/web01-a2energi/es/",
+   "resumen": "EGUZKI HOTZ - Programa de ayudas a la generación eléctrica para autoconsumo y la electrificación de los consumos térmicos mediante energías renovables.",
+   "title_full": "EGUZKI HOTZ - Programa de ayudas a la generación eléctrica para autoconsumo y la electrificación de los consumos térmicos mediante energías renovables.",
+   "title_eu": "EGUZKI HOTZ - Autokontsumorako elektrizitatea sortzeko eta energia berriztagarriak erabiliz kontsumo termikoaren elektrifikaziorako…",
+   "eu_auto": true,
+   "org_eu": "EVE - Energiaren Euskal Agentzia",
+   "slug": "eguzki-hotz-programa-de-ayudas-a-la-generacion-electrica-par-5781fd"
+  },
+  {
    "title": "Reconocimiento del derecho subjetivo de acceso a la ocupación de una vivienda o alojamiento dotacional",
    "org": "Vivienda y Agenda Urbana",
    "area": "Vivienda y energía",
@@ -1564,6 +1730,8 @@
    "start": "2024-03-28",
    "end": "2030-04-02",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2024/reconocimiento-del-derecho-subjetivo-de-acceso-a-la-ocupacion-de-una-vivienda-o-alojamiento-dotacional/web01-a2etxebi/es/",
+   "title_eu": "Etxebizitza edo diruz lagundutako ostatu bat okupatzeko eskubide subjektiboaren aitorpena",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "reconocimiento-del-derecho-subjetivo-de-acceso-a-la-ocupacio-f5b0a8"
   },
