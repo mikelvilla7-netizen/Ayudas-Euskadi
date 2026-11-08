@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:43:42+00:00",
+ "updated": "2026-11-08T05:44:54+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
   {
@@ -115,6 +115,20 @@
    "eu_auto": true,
    "org_eu": "HABE - Helduen Alfabetatze eta Euskara Biziberritzeko Institutua",
    "slug": "revision-del-examen-escrito-de-la-convocatoria-de-2026-2-9f88e2"
+  },
+  {
+   "title": "Premio Ignacio Ellacuria - 2026",
+   "org": "eLankidetza-Agencia Vasca de Cooperación y Solidaridad",
+   "area": "Otras",
+   "dificultad": "facil",
+   "perfil": "Todos",
+   "start": "2026-10-30",
+   "end": "2026-11-13",
+   "url": "https://www.elankidetza.euskadi.eus/ayuda_subvencion/2026/premio-ignacio-ellacuria-saria-2026/webela01-hasiera/es/",
+   "title_eu": "Ignacio Ellacuria Saria - 2026",
+   "eu_auto": true,
+   "org_eu": "eLankidetza-Lankidetza eta Elkartasunerako EAEko Agentzia",
+   "slug": "premio-ignacio-ellacuria-2026-f1eb20"
   },
   {
    "title": "Subvención para la formación básica de Delegados y Delegadas de Prevención en el área Normativa 2026",
@@ -233,19 +247,6 @@
    "eu_auto": true,
    "org_eu": "Hezkuntza",
    "slug": "subvenciones-dirigidas-a-la-produccion-de-materiales-didacti-858dee"
-  },
-  {
-   "title": "Subvenciones para proyectos editoriales y audiovisuales en el ámbito de la Diáspora Vasca 2026",
-   "org": "Lehendakaritza",
-   "area": "Cultura",
-   "dificultad": "media",
-   "perfil": "Todos",
-   "start": "2026-10-16",
-   "end": "2026-11-16",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/subvenciones_para_proyectos_editoriales_y_audiovisuales_en_el_ambito_de_la_diaspora-vasca-2026/web01-s1leheki/es/",
-   "title_eu": "2026ko diru-laguntzak argitalpen eta ikus-entzunezko proiektuetarako, EEEren esparruan",
-   "eu_auto": true,
-   "slug": "subvenciones-para-proyectos-editoriales-y-audiovisuales-en-e-3ddfa4"
   },
   {
    "title": "Ayudas a proyectos al amparo de la estrategia de desarrollo local participativo (EDLP), aprobada al grupo de acción local del sector…",
@@ -590,6 +591,19 @@
    "eu_auto": true,
    "org_eu": "Zientzia, Unibertsitateak eta Berrikuntza",
    "slug": "faros-de-innovacion-2026-6500cd"
+  },
+  {
+   "title": "Subvenciones para proyectos editoriales y audiovisuales en el ámbito de la Diáspora Vasca 2026",
+   "org": "Lehendakaritza",
+   "area": "Cultura",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-06",
+   "end": "2026-12-06",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/subvenciones_para_proyectos_editoriales_y_audiovisuales_en_el_ambito_de_la_diaspora-vasca-2026/web01-s1leheki/es/",
+   "title_eu": "2026ko diru-laguntzak argitalpen eta ikus-entzunezko proiektuetarako, EEEren esparruan",
+   "eu_auto": true,
+   "slug": "subvenciones-para-proyectos-editoriales-y-audiovisuales-en-e-3ddfa4"
   },
   {
    "title": "Programa IKERTALENT 2026 - Ayudas de formación a personal investigador y personal tecnólogo en el ámbito científico-tecnológico y…",
@@ -1763,6 +1777,8 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "title_eu": "Itzuli behar ez diren diru-laguntzak eta interes-dirulaguntzadun mailegu kualifikatuak norbanakoentzat, honen osagai espezifikorako.…",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-a-fondo-perdido-y-prestamos-cualificados-con-subsidia-a29ab7"
   },
@@ -1794,6 +1810,8 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "title_eu": "Itzuli behar ez diren diru-laguntzak neurri-programaren esparruan, KOMUNITATEAREN BIRGAITZE INTEGRAL ETA ERAGINKORRA LORTZEKO (3. LERROA)…",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-a-fondo-perdido-para-obras-comunitarias-de-rehabilita-484376"
   },
@@ -1824,6 +1842,8 @@
    ],
    "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)",
    "fuente_eu": "Lanbide / euskadi.eus (2026ko fitxa eta 152/2023 Dekretuaren FAQ)",
+   "title_eu": "Desgaitasuna duten pertsonen enplegua lan-merkatu arruntean sustatzeko laguntzak",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ayudas-al-fomento-del-empleo-de-personas-con-discapacidad-en-91f338"
   },
@@ -1836,6 +1856,8 @@
    "start": "2020-06-15",
    "end": "2030-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2022/ingreso-minimo-vital-imv/weblan00-content/es/",
+   "title_eu": "Gutxieneko Bizitzeko Diru-sarrerak - IMV",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "ingreso-minimo-vital-imv-944d3e"
   },
@@ -1850,6 +1872,8 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2023/cee-2023/weblan00-content/es/",
    "resumen": "Justificación mensual de la subvención al mantenimiento de los puestos de trabajo de personas con discapacidad en centros especiales de empleo",
    "title_full": "Justificación mensual de la subvención al mantenimiento de los puestos de trabajo de personas con discapacidad en centros especiales de empleo",
+   "title_eu": "Zentro berezietan desgaitasuna duten pertsonen lanpostuak mantentzeko diru-laguntzaren hileko justifikazioa…",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "justificacion-mensual-de-la-subvencion-al-mantenimiento-de-l-948d3a"
   },
@@ -1881,6 +1905,8 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "title_eu": "Laguntzak eta mailegu kualifikatuak ALKOMUNITATE LANETARAKO (2. LERROA), ekintzetarako finantza-neurrien programaren esparruan…",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-y-prestamos-cualificados-para-obras-comunitarias-line-712547"
   },
@@ -1912,6 +1938,8 @@
    ],
    "fuente": "Orden de 21/07/2021 (folleto oficial del Gobierno Vasco)",
    "fuente_eu": "2021eko uztailaren 21eko Agindua (Eusko Jaurlaritzaren liburuxka ofiziala)",
+   "title_eu": "Laguntzak eta mailegu kualifikatuak LAN PRIBATUETARAKO (1. LERROA), ekintzetarako finantza-neurrien programaren esparruan…",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-y-prestamos-cualificados-para-obras-particulares-line-b844b2"
   },
@@ -1924,6 +1952,8 @@
    "start": "2015-01-01",
    "end": "2030-12-31",
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2016/renta-de-garantia-de-ingresos-rgi/weblan00-content/es/",
+   "title_eu": "Diru-sarrerak Bermatzeko Laguntza - RGI",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "renta-de-garantia-de-ingresos-rgi-9d666e"
   },
@@ -1936,6 +1966,8 @@
    "start": "2026-10-29",
    "end": null,
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/programa-de-ayudas-alokaplus/web01-a2etxebi/es/",
+   "title_eu": "Alokaplus laguntza programa",
+   "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "programa-de-ayudas-alokaplus-f889f4"
   },
@@ -1966,6 +1998,8 @@
    ],
    "fuente": "Decreto 87/2026 y euskadi.eus (Bienestar, Juventud y Reto Demográfico)",
    "fuente_eu": "87/2026 Dekretua eta euskadi.eus (Ongizate, Gazteria eta Erronka Demografikoa)",
+   "title_eu": "Hileroko laguntza seme-alabak dituzten familientzat",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-mensuales-a-familias-con-hijas-o-hijos-22cc65"
   },
@@ -1978,6 +2012,8 @@
    "start": "2026-06-20",
    "end": null,
    "url": "https://www.euskadi.eus/ayuda_subvencion/conciliacion-familiar-laboral-contratacion-personas-trabajadoras-cuidado-hijos-2026/web01-a2famil/es/",
+   "title_eu": "14 urtetik beherako haurrak zaintzeko pertsonak kontratatzeko laguntzak (Z lerroa).",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-a-la-contratacion-de-personas-para-el-cuidado-de-hija-0cd17b"
   },
@@ -1992,6 +2028,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/conciliacion-laboral-familiar-cuidado-familiares-dependencia-gravedad-sanitaria-2026/web01-a2famil/es/",
    "resumen": "Ayudas para personas trabajadoras en excedencia o reducción de jornada por cuidado de familiar con dependencia o en extrema gravedad sanitaria (línea D)",
    "title_full": "Ayudas para personas trabajadoras en excedencia o reducción de jornada por cuidado de familiar con dependencia o en extrema gravedad sanitaria (línea D)",
+   "title_eu": "Mendeko edo oso larri gaixo dagoen senide bat zaintzeko eszedentzian edo lanaldi murriztuan dauden langileentzako laguntza…",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-para-personas-trabajadoras-en-excedencia-o-reduccion-caea81"
   },
@@ -2004,6 +2042,8 @@
    "start": "2026-06-20",
    "end": null,
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/conciliacion_familiar/web01-a2famil/es/",
+   "title_eu": "Seme-alaba bat zaintzeko eszedentzian edo lanaldi murriztuan dauden langileentzako laguntza (N lerroa)",
+   "eu_auto": true,
    "org_eu": "Ongizatea, Gazteria eta Demografia Erronka",
    "slug": "ayudas-para-personas-trabajadoras-en-excedencia-o-reduccion-eb5fe4"
   },
@@ -2018,6 +2058,8 @@
    "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/cuots-2026/weblan00-content/es/",
    "resumen": "Subvenciones consistentes en el abono de cuotas a la Seguridad Social a las personas perceptoras de la prestación por desempleo en su modalidad de pago único 2026",
    "title_full": "Subvenciones consistentes en el abono de cuotas a la Seguridad Social a las personas perceptoras de la prestación por desempleo en su modalidad de pago único 2026",
+   "title_eu": "Gizarte Segurantzako kotizazioak ordaintzean datzaten diru-laguntzak, langabezia-prestazioak jasotzen dituztenei.…",
+   "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "subvenciones-consistentes-en-el-abono-de-cuotas-a-la-segurid-6c1daa"
   },
@@ -2032,6 +2074,8 @@
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/modificacion-del-programa-gauzatu-industria/web01-a2indust/es/",
    "resumen": "Modificación de las Ordenes de ayudas consistentes en anticipos reintegrables destinadas a impulsar la creación y desarrollo de PYMES de base tecnológica y/o innovadoras. Programa GAUZATU-INDUSTRIA.",
    "title_full": "Modificación de las Ordenes de ayudas consistentes en anticipos reintegrables destinadas a impulsar la creación y desarrollo de PYMES de base tecnológica y/o innovadoras. Programa GAUZATU-INDUSTRIA.",
+   "title_eu": "ETEen sorrera eta garapena sustatzeko itzulgarri diren aurrerakinen laguntzarako Aginduen aldaketa…",
+   "eu_auto": true,
    "org_eu": "Industria, Energia Trantsizioa eta Jasangarritasuna",
    "slug": "modificacion-de-las-ordenes-de-ayudas-consistentes-en-antici-a76ab6"
   }
