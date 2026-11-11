@@ -1,21 +1,7 @@
 {
- "updated": "2026-11-10T05:49:59+00:00",
+ "updated": "2026-11-11T05:54:14+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
-  {
-   "title": "Convocatoria de subvenciones 2026-2027 para el desarrollo de la actividad de centros de empleo",
-   "org": "Lanbide - Servicio Público Vasco de Empleo",
-   "area": "Empleo y formación",
-   "dificultad": "media",
-   "perfil": "Todos",
-   "start": "2026-10-28",
-   "end": "2026-11-10",
-   "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/centros-de-empleo-2026-2027/weblan00-content/es/",
-   "title_eu": "Enplegu-zentroen jarduera garatzeko 2026-2027 diru-laguntzen deialdia",
-   "eu_auto": true,
-   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
-   "slug": "convocatoria-de-subvenciones-2026-2027-para-el-desarrollo-de-c2ef43"
-  },
   {
    "title": "Revisión del examen escrito de la convocatoria de 2026-2.",
    "org": "HABE - Instituto de Alfabetización y Reeuskaldunización de Adultos",
@@ -534,6 +520,22 @@
    "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "programa-ikertalent-2026-ayudas-de-formacion-a-personal-inve-6253f9"
+  },
+  {
+   "title": "Programa ONEKIN 2026 - Ayudas destinadas a apoyar procesos de maduración de ideas y de definición de proyectos de digitalización…",
+   "org": "Alimentación, Desarrollo Rural, Agricultura y Pesca",
+   "area": "Vivienda y energía",
+   "dificultad": "media",
+   "perfil": "Empresas",
+   "start": "2026-11-10",
+   "end": "2026-12-09",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/programa-onekin/web01-a2nekaza/es/",
+   "resumen": "Programa ONEKIN 2026 - Ayudas destinadas a apoyar procesos de maduración de ideas y de definición de proyectos de digitalización, innovación y emprendimiento en las cadenas de valor de la alimentación y de la madera",
+   "title_full": "Programa ONEKIN 2026 - Ayudas destinadas a apoyar procesos de maduración de ideas y de definición de proyectos de digitalización, innovación y emprendimiento en las cadenas de valor de la alimentación y de la madera",
+   "title_eu": "ONEKIN 2026 Programa - Ideien heltzea eta digitalizazio proiektuen definizioa laguntzeko diru-laguntzak…",
+   "eu_auto": true,
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
+   "slug": "programa-onekin-2026-ayudas-destinadas-a-apoyar-procesos-de-87d6f1"
   },
   {
    "title": "Ayudas destinadas a facilitar la adherencia a los tratamientos médicos prescritos por personal del sistema sanitario de Euskadi que estén…",
