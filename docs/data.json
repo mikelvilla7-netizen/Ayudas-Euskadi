@@ -1,21 +1,7 @@
 {
- "updated": "2026-11-11T05:54:14+00:00",
+ "updated": "2026-11-12T05:56:55+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
-  {
-   "title": "Revisión del examen escrito de la convocatoria de 2026-2.",
-   "org": "HABE - Instituto de Alfabetización y Reeuskaldunización de Adultos",
-   "area": "Familias y educación",
-   "dificultad": "media",
-   "perfil": "Todos",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "url": "https://www.habe.euskadi.eus/revision-del-examen-escrito-de-la-convocatoria-de-2026-2/webhabe00-edukiak/es/",
-   "title_eu": "2026-2 deialdirako idatzizko azterketaren berrikuspena.",
-   "eu_auto": true,
-   "org_eu": "HABE - Helduen Alfabetatze eta Euskara Biziberritzeko Institutua",
-   "slug": "revision-del-examen-escrito-de-la-convocatoria-de-2026-2-9f88e2"
-  },
   {
    "title": "Premio Ignacio Ellacuria - 2026",
    "org": "eLankidetza-Agencia Vasca de Cooperación y Solidaridad",
@@ -155,7 +141,7 @@
    "dificultad": "media",
    "perfil": "Empresas",
    "start": "2026-10-17",
-   "end": "2026-11-16",
+   "end": "2026-11-17",
    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayudas-al-amparo-de-la-estrategia-de-desarrollo-local-participativo-2026/web01-a2arraku/es/",
    "resumen": "Ayudas a proyectos al amparo de la estrategia de desarrollo local participativo (EDLP), aprobada al grupo de acción local del sector pesquero (GALP) para el desarrollo sostenible de las zonas de pesca, en el marco del Fondo Europeo Marítimo de Pesca y de la Acuicultura (FEMPA) 2026",
    "title_full": "Ayudas a proyectos al amparo de la estrategia de desarrollo local participativo (EDLP), aprobada al grupo de acción local del sector pesquero (GALP) para el desarrollo sostenible de las zonas de pesca, en el marco del Fondo Europeo Marítimo de Pesca y de la Acuicultura (FEMPA) 2026",
@@ -536,6 +522,22 @@
    "eu_auto": true,
    "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
    "slug": "programa-onekin-2026-ayudas-destinadas-a-apoyar-procesos-de-87d6f1"
+  },
+  {
+   "title": "Subvenciones para desarrollar programas de Formación Profesional Dual en Régimen Intensivo en centros privados concertados de la CAPV que…",
+   "org": "Educación",
+   "area": "Empleo y formación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-11",
+   "end": "2026-12-10",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/fp_alternancia/web01-s2hhome/es/",
+   "resumen": "Subvenciones para desarrollar programas de Formación Profesional Dual en Régimen Intensivo en centros privados concertados de la CAPV que imparten ciclos formativos de Formación Profesional (2026-2027)",
+   "title_full": "Subvenciones para desarrollar programas de Formación Profesional Dual en Régimen Intensivo en centros privados concertados de la CAPV que imparten ciclos formativos de Formación Profesional (2026-2027)",
+   "title_eu": "EAEko ikastetxe pribatu itunduetan Lanbide Heziketako Programa Bikoitzak Erregimen Intentsiboan garatzeko diru-laguntzak,…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
+   "slug": "subvenciones-para-desarrollar-programas-de-formacion-profesi-bc63ff"
   },
   {
    "title": "Ayudas destinadas a facilitar la adherencia a los tratamientos médicos prescritos por personal del sistema sanitario de Euskadi que estén…",
@@ -1730,38 +1732,6 @@
    "eu_auto": true,
    "org_eu": "Etxebizitza eta Hiri Agenda",
    "slug": "ayudas-a-fondo-perdido-para-obras-comunitarias-de-rehabilita-484376"
-  },
-  {
-   "title": "Ayudas al fomento del empleo de personas con discapacidad en el mercado ordinario de trabajo",
-   "org": "Lanbide - Servicio Público Vasco de Empleo",
-   "area": "Empleo y formación",
-   "dificultad": "media",
-   "perfil": "Empresas",
-   "start": "2021-01-01",
-   "end": "2030-12-31",
-   "url": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2022/ayudas-al-fomento-del-empleo-de-personas-con-discapacidad-en-el-mercado-ordinario-de-trabajo/weblan00-content/es/",
-   "resumen": "Ayudas a empresas que contratan de forma indefinida a personas con discapacidad en el mercado ordinario, además de ayudas para adaptar el puesto de trabajo.",
-   "resumen_eu": "Merkatu arruntean behin betiko kontratatzen dituzten enpresentzako laguntzak, baita lanpostua egokitzeko laguntzak ere.",
-   "importe": "Según colectivo y jornada (+10% si es mujer)",
-   "importe_eu": "Kolektiboaren eta lanaldiaren arabera (+%10 emakumea bada)",
-   "claves": [
-    "Contratación indefinida o incorporación como persona socia trabajadora.",
-    "Convocatorias anteriores exigían una jornada de al menos el 50% (35% para personas con especiales dificultades de inserción).",
-    "La cuantía se incrementa un 10% si la persona contratada es mujer.",
-    "Se suman a bonificaciones de la Seguridad Social y beneficios fiscales; regulado por el Decreto 152/2023."
-   ],
-   "claves_eu": [
-    "Behin betiko kontratazioa edo bazkide langile gisa txertatzea.",
-    "Aurreko deialdietan gutxienez lanaldiaren %50 eskatzen zen (%35 txertatzeko zailtasun bereziak dituzten pertsonentzat).",
-    "Zenbatekoa %10 handitzen da kontratatutako pertsona emakumea bada.",
-    "Gizarte Segurantzako hobariei eta zerga-onurei gehitzen zaizkie; 152/2023 Dekretuak arautzen du."
-   ],
-   "fuente": "Lanbide / euskadi.eus (ficha 2026 y FAQ Decreto 152/2023)",
-   "fuente_eu": "Lanbide / euskadi.eus (2026ko fitxa eta 152/2023 Dekretuaren FAQ)",
-   "title_eu": "Desgaitasuna duten pertsonen enplegua lan-merkatu arruntean sustatzeko laguntzak",
-   "eu_auto": true,
-   "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
-   "slug": "ayudas-al-fomento-del-empleo-de-personas-con-discapacidad-en-91f338"
   },
   {
    "title": "Ingreso Mínimo Vital - IMV",
