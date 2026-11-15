@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:45:10+00:00",
+ "updated": "2026-11-15T05:49:11+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
   {
@@ -438,6 +438,22 @@
    "eu_auto": true,
    "org_eu": "Osasuna",
    "slug": "ayudas-destinadas-a-facilitar-la-adherencia-a-los-tratamient-83fe18"
+  },
+  {
+   "title": "Ayudas a los proyectos de I+D con participación vasca seleccionados en la convocatoria internacional competitiva Call for transnational…",
+   "org": "Salud",
+   "area": "Investigación e innovación",
+   "dificultad": "compleja",
+   "perfil": "Todos",
+   "start": "2026-11-14",
+   "end": "2026-12-15",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/ayuda_bioef_better_care/web01-ejeduki/es/",
+   "resumen": "Ayudas a los proyectos de I+D con participación vasca seleccionados en la convocatoria internacional competitiva Call for transnational proposals 2025 \"Better care closer to home: Enhancing primary and community care\" en el marco del partenariado europeo de transformación de sistemas de salud \"European Partnership on Transforming Heatlh and Care System (THCS)\" promovido por la Unión Europea dentro del Programa Marco Horizonte Europa (Acuerdo de subvención Nº: 101095654), de la Fundación Vasca de Innovación e Investigación Sanitarias, BIOEF",
+   "title_full": "Ayudas a los proyectos de I+D con participación vasca seleccionados en la convocatoria internacional competitiva Call for transnational proposals 2025 \"Better care closer to home: Enhancing primary and community care\" en el marco del partenariado europeo de transformación de sistemas de salud \"European Partnership on Transforming Heatlh and Care System (THCS)\" promovido por la Unión Europea dentro del Programa Marco Horizonte Europa (Acuerdo de subvención Nº: 101095654), de la Fundación Vasca de Innovación e Investigación Sanitarias, BIOEF",
+   "title_eu": "Nazioarteko deialdi lehiakorrean (Call for transnational) hautatutako I+G proiektuetarako laguntzak, euskal parte-hartzearekin.…",
+   "eu_auto": true,
+   "org_eu": "Osasuna",
+   "slug": "ayudas-a-los-proyectos-de-i-d-con-participacion-vasca-selecc-83be23"
   },
   {
    "title": "Procedimiento para el reconocimiento de las ayudas correspondientes al programa FSE+2021-2027 de Asistencia Material Básica correspondiente…",
