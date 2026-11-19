@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:58:31+00:00",
+ "updated": "2026-11-19T05:58:17+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
   {
@@ -49,6 +49,20 @@
    "eu_auto": true,
    "org_eu": "Lanbide - Euskal Enplegu Zerbitzu Publikoa",
    "slug": "convocatoria-de-las-ayudas-para-el-desarrollo-de-proyectos-i-94bdfb"
+  },
+  {
+   "title": "Ayudas a las agrupaciones de personas productoras agrarias y forestales 2026 incluidas en el PEPAC 2023-2027",
+   "org": "Alimentación, Desarrollo Rural, Agricultura y Pesca",
+   "area": "Agro y pesca",
+   "dificultad": "media",
+   "perfil": "Empresas",
+   "start": "2026-11-14",
+   "end": "2026-11-23",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/agrupaciones-productoras-agrarias-y-forestales-2026/web01-a2nekaza/es/",
+   "title_eu": "2023-2027 PEPACen jasotako nekazaritza- eta basogintza-ekoizleen taldeentzako laguntzak 2026",
+   "eu_auto": true,
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
+   "slug": "ayudas-a-las-agrupaciones-de-personas-productoras-agrarias-y-e1a32a"
   },
   {
    "title": "Subvenciones durante el curso escolar 2026-2027, con carácter excepcional, a los centros educativos privados concertados de alta…",
@@ -464,6 +478,22 @@
    "eu_auto": true,
    "org_eu": "Hezkuntza",
    "slug": "ayudas-a-las-escuelas-de-primer-ciclo-de-educacion-infantil-eebdad"
+  },
+  {
+   "title": "Plazas para la realización, durante el verano de 2027, de cursos de inglés, francés y alemán para alumnos y alumnas de 3.º y 4.º de…",
+   "org": "Educación",
+   "area": "Familias y educación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/hizkuntza-atzerri/web01-s2hhome/es/",
+   "resumen": "Plazas para la realización, durante el verano de 2027, de cursos de inglés, francés y alemán para alumnos y alumnas de 3.º y 4.º de Educación Secundaria Obligatoria y de 1.º y 2.º cursos de Bachillerato matriculados en centros sostenidos con fondos públicos de la Comunidad Autónoma del País Vasco.",
+   "title_full": "Plazas para la realización, durante el verano de 2027, de cursos de inglés, francés y alemán para alumnos y alumnas de 3.º y 4.º de Educación Secundaria Obligatoria y de 1.º y 2.º cursos de Bachillerato matriculados en centros sostenidos con fondos públicos de la Comunidad Autónoma del País Vasco.",
+   "title_eu": "2027ko udan ingeles, frantses eta alemaneko ikastaroak egiteko lekuak, 3. eta 4. mailako ikasleentzat…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza",
+   "slug": "plazas-para-la-realizacion-durante-el-verano-de-2027-de-curs-2b76ac"
   },
   {
    "title": "Procedimiento para el reconocimiento de las ayudas correspondientes al programa FSE+2021-2027 de Asistencia Material Básica correspondiente…",
