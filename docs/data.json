@@ -1,23 +1,7 @@
 {
- "updated": "2026-11-19T05:58:17+00:00",
+ "updated": "2026-11-20T05:58:12+00:00",
  "source": "Open Data Euskadi (CC BY 4.0)",
  "items": [
-  {
-   "title": "EUROPA SE SIENTE: convocados los premios anuales (noviembre 2026) para los mejores proyectos cofinanciados por los fondos de Desarrollo y…",
-   "org": "Unión Europea",
-   "area": "Otras",
-   "dificultad": "facil",
-   "perfil": "Todos",
-   "start": "2026-05-29",
-   "end": "2026-11-19",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/202605europasentitzendasa/web01-s1leheki/es/",
-   "resumen": "EUROPA SE SIENTE: convocados los premios anuales (noviembre 2026) para los mejores proyectos cofinanciados por los fondos de Desarrollo y cooperación regional (FEDER), el Social (FSE+), el de Seguridad Interior (ISF), los migratorios (FAMI, IGFV), los del sector primario (FEMPA, FEADER, FEAGA), el de transición justa (FTJ) o los fondos Next de recuperación post-Covid-19",
-   "title_full": "EUROPA SE SIENTE: convocados los premios anuales (noviembre 2026) para los mejores proyectos cofinanciados por los fondos de Desarrollo y cooperación regional (FEDER), el Social (FSE+), el de Seguridad Interior (ISF), los migratorios (FAMI, IGFV), los del sector primario (FEMPA, FEADER, FEAGA), el de transición justa (FTJ) o los fondos Next de recuperación post-Covid-19",
-   "title_eu": "EUROPAK BERE BURUA SENTITZEN DU: Garapen funtsek kofinantzatutako proiektu onenen urteko sariak (2026ko azaroa) iragarri dira eta…",
-   "eu_auto": true,
-   "org_eu": "Europako Batasuna.",
-   "slug": "europa-se-siente-convocados-los-premios-anuales-noviembre-20-a062ab"
-  },
   {
    "title": "Convocatoria de las ayudas para el desarrollo de proyectos integrales de empleo, formación e inserción laboral, orientados a la inserción…",
    "org": "Lanbide - Servicio Público Vasco de Empleo",
@@ -79,34 +63,6 @@
    "eu_auto": true,
    "org_eu": "Hezkuntza",
    "slug": "subvenciones-durante-el-curso-escolar-2026-2027-con-caracter-027cf6"
-  },
-  {
-   "title": "Ayudas, acogidas al régimen de mínimis, para la realización de eventos sociales que dinamicen el medio rural y litoral de la CAPV 2026",
-   "org": "Alimentación, Desarrollo Rural, Agricultura y Pesca",
-   "area": "Agro y pesca",
-   "dificultad": "compleja",
-   "perfil": "Entidades",
-   "start": "2026-11-14",
-   "end": "2026-11-23",
-   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eventos-sociales/web01-a2nekaza/es/",
-   "resumen": "Proyectos piloto para rehabilitar viviendas de titularidad pública en el medio rural y ponerlas en alquiler.",
-   "resumen_eu": "Landa-eremuan titulartasun publikoko etxebizitzak birgaitzeko eta alokairuan jartzeko proiektu pilotuak.",
-   "importe": "Según convocatoria",
-   "importe_eu": "Deialdiaren arabera",
-   "claves": [
-    "Dirigida a entidades públicas propietarias de la vivienda.",
-    "Crédito limitado: se publica en el BOPV cuando se agota."
-   ],
-   "claves_eu": [
-    "Etxebizitzaren jabe diren erakunde publikoei zuzendua.",
-    "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
-   ],
-   "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
-   "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa",
-   "title_eu": "EAEko landa- eta itsasertzeko ingurunea dinamizatzen duten gizarte-ekitaldiak egiteko laguntzak, de minimis araubidearen babesean, 2026",
-   "eu_auto": true,
-   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
-   "slug": "ayudas-acogidas-al-regimen-de-minimis-para-la-realizacion-de-aeb4fb"
   },
   {
    "title": "Ayudas destinadas a los ayuntamientos de la Comunidad Autónoma del País Vasco para los gastos de funcionamiento de las Oficinas de Justicia…",
@@ -448,6 +404,34 @@
    "eu_auto": true,
    "org_eu": "Osasuna",
    "slug": "ayudas-destinadas-a-facilitar-la-adherencia-a-los-tratamient-83fe18"
+  },
+  {
+   "title": "Ayudas, acogidas al régimen de mínimis, para la realización de eventos sociales que dinamicen el medio rural y litoral de la CAPV 2026",
+   "org": "Alimentación, Desarrollo Rural, Agricultura y Pesca",
+   "area": "Agro y pesca",
+   "dificultad": "compleja",
+   "perfil": "Entidades",
+   "start": "2026-11-14",
+   "end": "2026-12-14",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/eventos-sociales/web01-a2nekaza/es/",
+   "resumen": "Proyectos piloto para rehabilitar viviendas de titularidad pública en el medio rural y ponerlas en alquiler.",
+   "resumen_eu": "Landa-eremuan titulartasun publikoko etxebizitzak birgaitzeko eta alokairuan jartzeko proiektu pilotuak.",
+   "importe": "Según convocatoria",
+   "importe_eu": "Deialdiaren arabera",
+   "claves": [
+    "Dirigida a entidades públicas propietarias de la vivienda.",
+    "Crédito limitado: se publica en el BOPV cuando se agota."
+   ],
+   "claves_eu": [
+    "Etxebizitzaren jabe diren erakunde publikoei zuzendua.",
+    "Kreditua mugatua: agortzen denean EHAAn argitaratzen da."
+   ],
+   "fuente": "Orden de 07/12/2021 de fomento al alquiler (BOPV) y Orden de 29/05/2024 de créditos",
+   "fuente_eu": "2021eko abenduaren 7ko Agindua, alokairua sustatzeari buruzkoa (EHAA), eta 2024ko maiatzaren 29ko Agindua, kredituei buruzkoa",
+   "title_eu": "EAEko landa- eta itsasertzeko ingurunea dinamizatzen duten gizarte-ekitaldiak egiteko laguntzak, de minimis araubidearen babesean, 2026",
+   "eu_auto": true,
+   "org_eu": "Elikadura, Landa Garapena, Nekazaritza eta Arrantza",
+   "slug": "ayudas-acogidas-al-regimen-de-minimis-para-la-realizacion-de-aeb4fb"
   },
   {
    "title": "Ayudas a los proyectos de I+D con participación vasca seleccionados en la convocatoria internacional competitiva Call for transnational…",
@@ -1097,6 +1081,22 @@
    "eu_auto": true,
    "org_eu": "Itsas Gaietarako eta Arrantzarako Saila (MARE)",
    "slug": "pesca-el-fempa-fondo-europeo-maritimo-de-pesca-y-de-acuicult-97edc3"
+  },
+  {
+   "title": "EDUCACION. ERASMUS PLUS 2027. Las convocatorias abarcan formación, actividades de juventud y deporte, movilidad transestatal, voluntariado…",
+   "org": "Educación y Cultura (EAC)",
+   "area": "Familias y educación",
+   "dificultad": "media",
+   "perfil": "Todos",
+   "start": "2026-11-18",
+   "end": "2026-12-31",
+   "url": "https://www.euskadi.eus/ayuda_subvencion/2026/erasmusplus2027laguntzak/web01-s1leheki/es/",
+   "resumen": "EDUCACION. ERASMUS PLUS 2027. Las convocatorias abarcan formación, actividades de juventud y deporte, movilidad transestatal, voluntariado, cooperación, innovación, incluida la de gobernanza o políticas, actividades Monnet (del profesorado), y prioridades transversales como inclusión, doble transición ecológica y digital, participación democrática, y las del nuevo Conjunto de Medidas de Capacidades y competencias básicas, incluyendo inteligencia artificial, formación profesional y universitaria, asociacionismo civil y juvenil.",
+   "title_full": "EDUCACION. ERASMUS PLUS 2027. Las convocatorias abarcan formación, actividades de juventud y deporte, movilidad transestatal, voluntariado, cooperación, innovación, incluida la de gobernanza o políticas, actividades Monnet (del profesorado), y prioridades transversales como inclusión, doble transición ecológica y digital, participación democrática, y las del nuevo Conjunto de Medidas de Capacidades y competencias básicas, incluyendo inteligencia artificial, formación profesional y universitaria, asociacionismo civil y juvenil.",
+   "title_eu": "HEZKUNTZA. ERASMUS PLUS 2027. Deialdiek prestakuntza, gazte- eta kirol-jarduerak, estatu arteko mugikortasuna eta boluntariotza barne…",
+   "eu_auto": true,
+   "org_eu": "Hezkuntza eta Kultura (EAC)",
+   "slug": "educacion-erasmus-plus-2027-las-convocatorias-abarcan-formac-a98bb4"
   },
   {
    "title": "CIENCIA. El Consejo Europeo de Investigación (ERC) ha anunciado 421 becas de inicio o starting grants por valor de 705 millones  para…",
